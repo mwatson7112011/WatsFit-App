@@ -1,0 +1,19 @@
+# Gradle files
+.gradle/
+build/
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+
+# Local configuration
+local.properties
+
+# Logs and temp files
+*.log
+*.tmp

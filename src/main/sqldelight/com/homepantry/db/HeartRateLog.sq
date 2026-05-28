@@ -1,0 +1,38 @@
+-- HeartRateLog table for tracking heart rate readings from Apple Watch
+CREATE TABLE HeartRateLog (
+    id        INTEGER PRIMARY KEY AUTOINCREMENT,
+    date      TEXT    NOT NULL,
+    time      TEXT    NOT NULL,
+    bpm       INTEGER NOT NULL,
+    context   TEXT    NOT NULL DEFAULT 'resting',
+    notes     TEXT,
+    createdAt TEXT    NOT NULL
+);
+
+selectAll:
+SELECT * FROM HeartRateLog ORDER BY date DESC, time DESC;
+
+selectRecent:
+SELECT * FROM HeartRateLog ORDER BY date DESC, time DESC LIMIT ?;
+
+selectByDateRange:
+SELECT * FROM HeartRateLog WHERE date >= ? AND date <= ? ORDER BY date ASC, time ASC;
+
+selectByContext:
+SELECT * FROM HeartRateLog WHERE context = ? ORDER BY date DESC, time DESC;
+
+selectLatest:
+SELECT * FROM HeartRateLog ORDER BY date DESC, time DESC LIMIT 1;
+
+selectRestingAverage:
+SELECT AVG(bpm) AS avgBpm FROM HeartRateLog WHERE context = 'resting' AND date >= ?;
+
+insert:
+INSERT INTO HeartRateLog (date, time, bpm, context, notes, createdAt)
+VALUES (?, ?, ?, ?, ?, ?);
+
+deleteById:
+DELETE FROM HeartRateLog WHERE id = ?;
+
+countAll:
+SELECT COUNT(*) FROM HeartRateLog;

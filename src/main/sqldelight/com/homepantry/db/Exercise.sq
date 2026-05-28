@@ -1,0 +1,36 @@
+-- Exercise table for bodyweight exercises
+CREATE TABLE Exercise (
+    id                 INTEGER PRIMARY KEY AUTOINCREMENT,
+    name               TEXT    NOT NULL,
+    description        TEXT    NOT NULL,
+    muscleGroups       TEXT    NOT NULL,
+    difficulty         TEXT    NOT NULL DEFAULT 'beginner',
+    instructions       TEXT    NOT NULL,
+    defaultReps        INTEGER,
+    defaultSets        INTEGER NOT NULL DEFAULT 3,
+    defaultHoldSeconds INTEGER,
+    restSeconds        INTEGER NOT NULL DEFAULT 30,
+    isTimeBased        INTEGER NOT NULL DEFAULT 0
+);
+
+selectAll:
+SELECT * FROM Exercise ORDER BY name ASC;
+
+selectById:
+SELECT * FROM Exercise WHERE id = ?;
+
+selectByMuscleGroup:
+SELECT * FROM Exercise WHERE muscleGroups LIKE '%' || ? || '%' ORDER BY name ASC;
+
+selectByDifficulty:
+SELECT * FROM Exercise WHERE difficulty = ? ORDER BY name ASC;
+
+searchByName:
+SELECT * FROM Exercise WHERE name LIKE '%' || ? || '%' ORDER BY name ASC;
+
+insert:
+INSERT INTO Exercise (name, description, muscleGroups, difficulty, instructions, defaultReps, defaultSets, defaultHoldSeconds, restSeconds, isTimeBased)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+countAll:
+SELECT COUNT(*) FROM Exercise;

@@ -1,0 +1,48 @@
+-- InventoryItem table for tracking food inventory
+CREATE TABLE InventoryItem (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    canonicalName TEXT    NOT NULL,
+    displayName   TEXT    NOT NULL,
+    category      TEXT    NOT NULL,
+    location      TEXT    NOT NULL,
+    quantity      REAL    NOT NULL DEFAULT 1.0,
+    unit          TEXT    NOT NULL DEFAULT 'piece',
+    expirationDate TEXT,
+    notes         TEXT,
+    createdAt     TEXT    NOT NULL,
+    updatedAt     TEXT    NOT NULL
+);
+
+selectAll:
+SELECT * FROM InventoryItem ORDER BY displayName ASC;
+
+selectByLocation:
+SELECT * FROM InventoryItem WHERE location = ? ORDER BY displayName ASC;
+
+selectById:
+SELECT * FROM InventoryItem WHERE id = ?;
+
+searchByName:
+SELECT * FROM InventoryItem WHERE displayName LIKE '%' || ? || '%' OR canonicalName LIKE '%' || ? || '%' ORDER BY displayName ASC;
+
+selectByCanonicalName:
+SELECT * FROM InventoryItem WHERE canonicalName = ? COLLATE NOCASE;
+
+selectExpiringSoon:
+SELECT * FROM InventoryItem WHERE expirationDate IS NOT NULL AND expirationDate <= ? ORDER BY expirationDate ASC;
+
+insert:
+INSERT INTO InventoryItem (canonicalName, displayName, category, location, quantity, unit, expirationDate, notes, createdAt, updatedAt)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
+
+update:
+UPDATE InventoryItem SET canonicalName = ?, displayName = ?, category = ?, location = ?, quantity = ?, unit = ?, expirationDate = ?, notes = ?, updatedAt = ? WHERE id = ?;
+
+updateQuantity:
+UPDATE InventoryItem SET quantity = ?, updatedAt = ? WHERE id = ?;
+
+deleteById:
+DELETE FROM InventoryItem WHERE id = ?;
+
+countByLocation:
+SELECT location, COUNT(*) AS count FROM InventoryItem GROUP BY location;

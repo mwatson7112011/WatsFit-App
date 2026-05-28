@@ -1,0 +1,37 @@
+-- WorkoutRoutine table for pre-built workout programs
+CREATE TABLE WorkoutRoutine (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    title         TEXT    NOT NULL,
+    description   TEXT    NOT NULL,
+    category      TEXT    NOT NULL,
+    difficulty    TEXT    NOT NULL DEFAULT 'beginner',
+    durationMin   INTEGER NOT NULL DEFAULT 30,
+    exercises     TEXT    NOT NULL,
+    dayOfProgram  INTEGER,
+    tags          TEXT    NOT NULL DEFAULT '[]'
+);
+
+selectAll:
+SELECT * FROM WorkoutRoutine ORDER BY title ASC;
+
+selectById:
+SELECT * FROM WorkoutRoutine WHERE id = ?;
+
+selectByDifficulty:
+SELECT * FROM WorkoutRoutine WHERE difficulty = ? ORDER BY dayOfProgram ASC, title ASC;
+
+selectByCategory:
+SELECT * FROM WorkoutRoutine WHERE category = ? ORDER BY title ASC;
+
+selectProgramByDifficulty:
+SELECT * FROM WorkoutRoutine WHERE difficulty = ? AND dayOfProgram IS NOT NULL ORDER BY dayOfProgram ASC;
+
+selectByDay:
+SELECT * FROM WorkoutRoutine WHERE difficulty = ? AND dayOfProgram = ?;
+
+insert:
+INSERT INTO WorkoutRoutine (title, description, category, difficulty, durationMin, exercises, dayOfProgram, tags)
+VALUES (?, ?, ?, ?, ?, ?, ?, ?);
+
+countAll:
+SELECT COUNT(*) FROM WorkoutRoutine;

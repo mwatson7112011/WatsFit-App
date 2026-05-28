@@ -1,0 +1,45 @@
+-- GroceryListItem table
+CREATE TABLE GroceryListItem (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    canonicalName TEXT    NOT NULL,
+    displayName   TEXT    NOT NULL,
+    quantity      REAL    NOT NULL DEFAULT 1.0,
+    unit          TEXT    NOT NULL DEFAULT 'piece',
+    checked       INTEGER NOT NULL DEFAULT 0,
+    addedFrom     TEXT,
+    createdAt     TEXT    NOT NULL
+);
+
+selectAll:
+SELECT * FROM GroceryListItem ORDER BY checked ASC, createdAt DESC;
+
+selectUnchecked:
+SELECT * FROM GroceryListItem WHERE checked = 0 ORDER BY createdAt DESC;
+
+selectChecked:
+SELECT * FROM GroceryListItem WHERE checked = 1 ORDER BY createdAt DESC;
+
+selectById:
+SELECT * FROM GroceryListItem WHERE id = ?;
+
+insert:
+INSERT INTO GroceryListItem (canonicalName, displayName, quantity, unit, checked, addedFrom, createdAt)
+VALUES (?, ?, ?, ?, 0, ?, ?);
+
+toggleChecked:
+UPDATE GroceryListItem SET checked = CASE WHEN checked = 0 THEN 1 ELSE 0 END WHERE id = ?;
+
+setChecked:
+UPDATE GroceryListItem SET checked = ? WHERE id = ?;
+
+deleteById:
+DELETE FROM GroceryListItem WHERE id = ?;
+
+deleteChecked:
+DELETE FROM GroceryListItem WHERE checked = 1;
+
+countAll:
+SELECT COUNT(*) FROM GroceryListItem;
+
+countUnchecked:
+SELECT COUNT(*) FROM GroceryListItem WHERE checked = 0;

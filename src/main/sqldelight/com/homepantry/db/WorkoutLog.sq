@@ -1,0 +1,45 @@
+-- WorkoutLog table for tracking completed workouts
+CREATE TABLE WorkoutLog (
+    id            INTEGER PRIMARY KEY AUTOINCREMENT,
+    routineId     INTEGER NOT NULL,
+    completedAt   TEXT    NOT NULL,
+    durationMin   INTEGER,
+    notes         TEXT,
+    FOREIGN KEY (routineId) REFERENCES WorkoutRoutine(id)
+);
+
+selectAll:
+SELECT WorkoutLog.*, WorkoutRoutine.title AS routineTitle
+FROM WorkoutLog
+LEFT JOIN WorkoutRoutine ON WorkoutLog.routineId = WorkoutRoutine.id
+ORDER BY completedAt DESC;
+
+selectRecent:
+SELECT WorkoutLog.*, WorkoutRoutine.title AS routineTitle
+FROM WorkoutLog
+LEFT JOIN WorkoutRoutine ON WorkoutLog.routineId = WorkoutRoutine.id
+ORDER BY completedAt DESC
+LIMIT ?;
+
+selectById:
+SELECT * FROM WorkoutLog WHERE id = ?;
+
+selectByDateRange:
+SELECT WorkoutLog.*, WorkoutRoutine.title AS routineTitle
+FROM WorkoutLog
+LEFT JOIN WorkoutRoutine ON WorkoutLog.routineId = WorkoutRoutine.id
+WHERE completedAt >= ? AND completedAt <= ?
+ORDER BY completedAt DESC;
+
+insert:
+INSERT INTO WorkoutLog (routineId, completedAt, durationMin, notes)
+VALUES (?, ?, ?, ?);
+
+deleteById:
+DELETE FROM WorkoutLog WHERE id = ?;
+
+countThisWeek:
+SELECT COUNT(*) FROM WorkoutLog WHERE completedAt >= ?;
+
+countAll:
+SELECT COUNT(*) FROM WorkoutLog;
