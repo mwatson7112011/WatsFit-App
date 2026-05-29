@@ -448,6 +448,800 @@
       "instructions": [
         "Roll tuna and rice into a nori cone with cucumber."
       ]
+    },
+    {
+      "id": "s_tuna_avocado",
+      "title": "Tuna and Avocado Roll",
+      "category": "Roll",
+      "description": "A classic pairing of lean tuna and creamy avocado. This roll provides a great source of protein and healthy monounsaturated fats.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["classic", "protein"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Sashimi tuna", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "avocado", "displayName": "Avocado", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roll tuna and avocado inside rice and nori. Slice into 8 rounds."
+      ]
+    },
+    {
+      "id": "s_oshinko_roll",
+      "title": "Pickled Radish Roll (Oshinko)",
+      "category": "Roll",
+      "description": "A traditional vegan roll featuring yellow pickled daikon radish. It offers a bright, crunchy, and salty-sweet flavor profile.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["vegan", "pickled"],
+      "ingredients": [
+        {"canonicalName": "daikon", "displayName": "Yellow pickled radish", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll pickled radish strips in nori and rice. Slice into 6 small rounds."
+      ]
+    },
+    {
+      "id": "s_aji_ginger",
+      "title": "Horse Mackerel with Ginger",
+      "category": "Nigiri",
+      "description": "Flavorful horse mackerel (Aji) topped with freshly grated ginger and green onions to balance its rich, oily profile.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["omega3", "traditional"],
+      "ingredients": [
+        {"canonicalName": "aji", "displayName": "Horse mackerel fillets", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Place fish on rice ovals. Garnish with a tiny mound of ginger and scallions."
+      ]
+    },
+    {
+      "id": "s_kanpachi_nigiri",
+      "title": "Amberjack Nigiri (Kanpachi)",
+      "category": "Nigiri",
+      "description": "Sleek and firm amberjack pressed onto sushi rice. Kanpachi is known for its clean finish and sophisticated flavor.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "fresh"],
+      "ingredients": [
+        {"canonicalName": "kanpachi", "displayName": "Amberjack slices", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Press fresh amberjack onto bite-sized rice mounds."
+      ]
+    },
+    {
+      "id": "s_seared_salmon",
+      "title": "Seared Salmon with Sea Salt",
+      "category": "Nigiri",
+      "description": "Salmon nigiri that has been briefly seared (aburi) to melt the fat and create a smokey, melt-in-your-mouth experience.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 2,
+      "servings": 2,
+      "tags": ["seared", "omega3"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place salmon on rice. Briefly sear the top with a kitchen torch or in a very hot pan for 5 seconds."
+      ]
+    },
+    {
+      "id": "s_tai_nigiri",
+      "title": "Red Snapper Nigiri (Tai)",
+      "category": "Nigiri",
+      "description": "Red Snapper (Tai) is a symbol of celebration in Japan. It has a mild, sweet flavor and a firm, clean texture.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "traditional"],
+      "ingredients": [
+        {"canonicalName": "snapper", "displayName": "Red snapper slices", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Press fresh snapper onto rice mounds. Season with a tiny squeeze of lime juice."
+      ]
+    },
+    {
+      "id": "s_saba_handroll",
+      "title": "Cured Mackerel Hand Roll",
+      "category": "Hand Roll",
+      "description": "Cured mackerel (Saba) rolled into a nori cone. The sharp vinegar-cured fish pairs perfectly with the crisp seaweed and warm rice.",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["traditional", "omega3"],
+      "ingredients": [
+        {"canonicalName": "mackerel", "displayName": "Cured mackerel", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll cured mackerel and rice into a nori cone with shredded ginger."
+      ]
+    },
+    {
+      "id": "s_inari_avocado",
+      "title": "Inari with Avocado Topping",
+      "category": "Basic",
+      "description": "A modern twist on Inari. Sweet tofu pockets filled with sushi rice and topped with fresh, creamy avocado slices.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegetarian", "fusion"],
+      "ingredients": [
+        {"canonicalName": "inari", "displayName": "Tofu pockets", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "avocado", "displayName": "Avocado slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Stuff tofu pockets with rice and top each with a fresh slice of avocado."
+      ]
+    },
+    {
+      "id": "s_tako_salad",
+      "title": "Octopus Sashimi Salad",
+      "category": "Basic",
+      "description": "A high-protein sashimi dish. Slices of steamed octopus are served over a bed of greens with a zesty ponzu dressing.",
+      "cuisine": "Sushi",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["sashimi", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "octopus", "displayName": "Sliced octopus", "quantity": 6.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Arrange octopus slices over mixed greens. Drizzle with ponzu and lemon."
+      ]
+    },
+    {
+      "id": "s_uni_gunkan",
+      "title": "Fresh Uni Gunkan",
+      "category": "Gunkan",
+      "description": "The ultimate delicacy. Fresh sea urchin (Uni) is carefully placed on a nori-wrapped rice ball. Sweet, briny, and incredibly creamy.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "delicacy"],
+      "ingredients": [
+        {"canonicalName": "uni", "displayName": "Fresh sea urchin", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Create nori-wrapped rice 'battleships' and top with fresh uni. Serve immediately."
+      ]
+    },
+    {
+      "id": "s_albacore_garlic",
+      "title": "Seared Albacore with Garlic Chips",
+      "category": "Nigiri",
+      "description": "Tender albacore tuna, lightly seared and topped with crispy, toasted garlic chips for a savory and aromatic crunch.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 2,
+      "servings": 2,
+      "tags": ["seared", "savory"],
+      "ingredients": [
+        {"canonicalName": "albacore", "displayName": "Albacore tuna", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "garlic", "displayName": "Garlic chips", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Sear albacore and place on rice. Top with a golden garlic chip and a drop of ponzu."
+      ]
+    },
+    {
+      "id": "s_yellowtail_jalapeno",
+      "title": "Yellowtail Jalapeño Roll",
+      "category": "Roll",
+      "description": "A modern spicy roll. Creamy yellowtail is paired with the sharp heat of fresh jalapeño and a bright yuzu-soy glaze.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["spicy", "fresh"],
+      "ingredients": [
+        {"canonicalName": "hamachi", "displayName": "Yellowtail", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "jalapeno", "displayName": "Jalapeño", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roll yellowtail and cucumber. Top each piece with a thin slice of jalapeño."
+      ]
+    },
+    {
+      "id": "s_shiitake_nigiri",
+      "title": "Simmered Shiitake Nigiri",
+      "category": "Nigiri",
+      "description": "Earthy shiitake mushrooms simmered in a sweet soy glaze and pressed onto sushi rice. A savory vegan alternative to fish.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegan", "umami"],
+      "ingredients": [
+        {"canonicalName": "shiitake", "displayName": "Simmered shiitake", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Butterfly simmered mushrooms and press onto rice ovals. Secure with a nori strip."
+      ]
+    },
+    {
+      "id": "s_shrimp_avocado_hand",
+      "title": "Shrimp Avocado Hand Roll",
+      "category": "Hand Roll",
+      "description": "A mild and satisfying hand roll. Steamed shrimp and creamy avocado are wrapped in a crisp nori cone for a quick, healthy snack.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["cooked", "fresh"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Steamed shrimp", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "avocado", "displayName": "Avocado", "quantity": 1.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll shrimp and avocado into a nori cone with rice and a drop of lemon juice."
+      ]
+    },
+    {
+      "id": "s_sweet_potato_crunch",
+      "title": "Roasted Sweet Potato Crunch Roll",
+      "category": "Roll",
+      "description": "A healthy vegetarian roll. Roasted sweet potato provides a natural sweetness, while toasted panko breadcrumbs add a satisfying crunch.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["vegetarian", "fiber"],
+      "ingredients": [
+        {"canonicalName": "sweet_potato", "displayName": "Roasted sweet potato", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "panko", "displayName": "Toasted panko", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Roll roasted sweet potato in rice. Sprinkle with toasted panko for a healthy crunch."
+      ]
+    },
+    {
+      "id": "s_futomaki_large",
+      "title": "Traditional Giant Futomaki",
+      "category": "Roll",
+      "description": "The classic large roll. Packed with colorful ingredients including egg, spinach, and mushrooms, it’s as beautiful as it is nutritious.",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 30,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["traditional", "large"],
+      "ingredients": [
+        {"canonicalName": "mixed", "displayName": "Traditional fillings", "quantity": 1.0, "unit": "set"}
+      ],
+      "instructions": [
+        "Create a very thick roll using a full sheet of nori and a variety of traditional fillings. Slice into 1-inch rounds."
+      ]
+    },
+    {
+      "id": "s_salmon_lemon",
+      "title": "Salmon and Lemon Nigiri",
+      "category": "Nigiri",
+      "description": "Fresh salmon nigiri topped with a paper-thin slice of lemon. The acidity of the lemon cuts through the rich fat of the salmon perfectly.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "citrus"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon slices", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "lemon", "displayName": "Thin lemon slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place salmon on rice. Top with a tiny, paper-thin slice of lemon for a bright finish."
+      ]
+    },
+    {
+      "id": "s_tuna_gunkan",
+      "title": "Diced Tuna Gunkan",
+      "category": "Gunkan",
+      "description": "A simple and delicious 'battleship' roll topped with high-quality diced tuna and a hint of wasabi.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["tuna", "simple"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Diced tuna", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Wrap rice in nori and top with freshly diced tuna."
+      ]
+    },
+    {
+      "id": "s_shrimp_maki",
+      "title": "Cooked Shrimp Maki",
+      "category": "Roll",
+      "description": "A simple and light thin roll featuring steamed shrimp. Perfect for those who prefer their seafood cooked.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["cooked", "shrimp"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Steamed shrimp", "quantity": 6.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roll steamed shrimp in rice and nori. Slice into small rounds."
+      ]
+    },
+    {
+      "id": "s_inari_scallion",
+      "title": "Inari with Fresh Scallions",
+      "category": "Basic",
+      "description": "Sweet tofu pockets filled with sushi rice and topped with sharp, fresh scallions to balance the sweetness.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegetarian"],
+      "ingredients": [
+        {"canonicalName": "inari", "displayName": "Tofu pockets", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "scallion", "displayName": "Green onions", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "Stuff pockets with rice and top with finely minced scallions."
+      ]
+    },
+    {
+      "id": "s_mackerel_nigiri",
+      "title": "Mackerel Nigiri (Saba)",
+      "category": "Nigiri",
+      "description": "Salt and vinegar-cured mackerel pressed onto sushi rice. Its bold and tangy flavor is a hallmark of traditional sushi.",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["omega3", "traditional"],
+      "ingredients": [
+        {"canonicalName": "mackerel", "displayName": "Cured mackerel slices", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Slice the cured mackerel and press onto rice mounds."
+      ]
+    },
+    {
+      "id": "s_ikanigiri",
+      "title": "Squid Nigiri (Ika)",
+      "category": "Nigiri",
+      "description": "Pure white, tender squid pressed onto rice. Known for its mild sweetness and unique chewy texture.",
+      "cuisine": "Sushi",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "traditional"],
+      "ingredients": [
+        {"canonicalName": "squid", "displayName": "Sashimi squid", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Score the squid in a diamond pattern and press onto bite-sized rice mounds."
+      ]
+    },
+    {
+      "id": "s_tai_aburi",
+      "title": "Seared Red Snapper Nigiri",
+      "category": "Nigiri",
+      "description": "Red snapper nigiri that has been lightly seared on top to bring out its sweetness and add a delicate smokey aroma.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 2,
+      "servings": 2,
+      "tags": ["seared", "premium"],
+      "ingredients": [
+        {"canonicalName": "snapper", "displayName": "Red snapper slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place snapper on rice. Briefly sear the top. Season with a tiny drop of yuzu pepper."
+      ]
+    },
+    {
+      "id": "s_cucumber_skinny",
+      "title": "Cucumber Skinny Roll (Kappa Maki)",
+      "category": "Roll",
+      "description": "The most basic and refreshing sushi roll. Just crisp cucumber and rice wrapped in nori.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["vegan", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Cucumber matchsticks", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll thin cucumber matchsticks in nori and rice. Slice into 6 small rounds."
+      ]
+    },
+    {
+      "id": "s_tuna_temaki",
+      "title": "Spicy Tuna Hand Roll",
+      "category": "Hand Roll",
+      "description": "Hand-minced tuna mixed with a spicy kick, rolled into a cone shape. Best enjoyed immediately for maximum nori crunch.",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["spicy", "fresh"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Minced tuna", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "sriracha", "displayName": "Sriracha", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Mix tuna with sriracha. Roll into a cone with rice, cucumber, and radish sprouts."
+      ]
+    },
+    {
+      "id": "s_salmon_temaki",
+      "title": "Salmon Avocado Hand Roll",
+      "category": "Hand Roll",
+      "description": "Creamy avocado and fresh salmon in a convenient hand-held cone. A perfect balance of flavor and texture.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["fresh", "omega3"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon strips", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "avocado", "displayName": "Avocado slice", "quantity": 1.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll salmon, avocado, and rice into a nori cone."
+      ]
+    },
+    {
+      "id": "s_yellowtail_temaki",
+      "title": "Yellowtail Scallion Hand Roll",
+      "category": "Hand Roll",
+      "description": "Buttery yellowtail minced with fresh scallions, served in a crisp nori cone.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["premium", "fresh"],
+      "ingredients": [
+        {"canonicalName": "hamachi", "displayName": "Yellowtail", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "scallion", "displayName": "Chopped scallion", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Mince yellowtail and scallions together. Roll into a cone with rice."
+      ]
+    },
+    {
+      "id": "s_veggie_inari",
+      "title": "Garden Inari Sushi",
+      "category": "Basic",
+      "description": "Sweet inari pockets filled with rice that has been mixed with finely diced carrots and cucumber for extra crunch.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegetarian", "fiber"],
+      "ingredients": [
+        {"canonicalName": "inari", "displayName": "Tofu pockets", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "mixed_veggies", "displayName": "Finely diced veggies", "quantity": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Mix diced veggies with sushi rice. Stuff into tofu pockets."
+      ]
+    },
+    {
+      "id": "s_kanpachi_temaki",
+      "title": "Amberjack Hand Roll",
+      "category": "Hand Roll",
+      "description": "Elegant amberjack (Kanpachi) in a fresh hand roll. Its mild and sophisticated flavor is complemented by crisp radish sprouts.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["premium", "fresh"],
+      "ingredients": [
+        {"canonicalName": "kanpachi", "displayName": "Amberjack strips", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "sprouts", "displayName": "Radish sprouts", "quantity": 1.0, "unit": "pinch"}
+      ],
+      "instructions": [
+        "Roll amberjack and sprouts in a nori cone with rice."
+      ]
+    },
+    {
+      "id": "s_scallop_maki",
+      "title": "Creamy Scallop Roll",
+      "category": "Roll",
+      "description": "Sweet scallops diced and mixed with a light, creamy sauce. Rolled with cucumber for a delicate and satisfying roll.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "seafood"],
+      "ingredients": [
+        {"canonicalName": "scallop", "displayName": "Diced scallops", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "yogurt", "displayName": "Plain yogurt", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Mix scallops with yogurt and a dash of lemon. Roll inside nori and rice."
+      ]
+    },
+    {
+      "id": "s_shiitake_roll",
+      "title": "Savory Shiitake Roll",
+      "category": "Roll",
+      "description": "Umami-rich simmered shiitake mushrooms in a simple roll. A perfect vegan option for those who love deep, savory flavors.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegan", "umami"],
+      "ingredients": [
+        {"canonicalName": "shiitake", "displayName": "Simmered shiitake", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Slice simmered mushrooms and roll with rice and nori."
+      ]
+    },
+    {
+      "id": "s_aspa_temaki",
+      "title": "Steamed Asparagus Hand Roll",
+      "category": "Hand Roll",
+      "description": "A light and healthy vegan hand roll. Tender steamed asparagus and sesame seeds in a crisp nori cone.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 1,
+      "tags": ["vegan", "healthy"],
+      "ingredients": [
+        {"canonicalName": "asparagus", "displayName": "Steamed asparagus", "quantity": 3.0, "unit": "stalks"},
+        {"canonicalName": "sesame", "displayName": "Sesame seeds", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Roll steamed asparagus and toasted sesame seeds in a nori cone with rice."
+      ]
+    },
+    {
+      "id": "s_tuna_sashimi",
+      "title": "Bluefin Tuna Sashimi Plate",
+      "category": "Basic",
+      "description": "Pure slices of the highest grade bluefin tuna. Served with fresh daikon radish and real wasabi to highlight the fish's natural quality.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["sashimi", "premium", "protein"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Bluefin tuna slices", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "daikon", "displayName": "Grated daikon", "quantity": 1.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Arrange fresh tuna slices on a bed of grated daikon radish. Serve with wasabi."
+      ]
+    },
+    {
+      "id": "s_salmon_sashimi",
+      "title": "King Salmon Sashimi Plate",
+      "category": "Basic",
+      "description": "Rich and buttery slices of King Salmon. High in omega-3 fatty acids and served simply to respect the ingredient.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["sashimi", "omega3", "fresh"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "King salmon slices", "quantity": 6.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Arrange salmon slices on a plate with fresh lemon and ginger."
+      ]
+    },
+    {
+      "id": "s_unagi_nigiri",
+      "title": "Grilled Eel Nigiri (Unagi)",
+      "category": "Nigiri",
+      "description": "Sweet and smoky grilled eel pressed onto rice. Securely bound with a traditional thin strip of nori.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["savory", "protein"],
+      "ingredients": [
+        {"canonicalName": "eel", "displayName": "Grilled eel", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Slice grilled eel and press onto rice ovals. Secure with a thin nori strip."
+      ]
+    },
+    {
+      "id": "s_tamago_maki",
+      "title": "Sweet Egg Maki Roll",
+      "category": "Roll",
+      "description": "A thin roll (Hoso-maki) featuring traditional Japanese sweet omelet. A simple and classic sushi staple.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegetarian", "egg"],
+      "ingredients": [
+        {"canonicalName": "tamago", "displayName": "Sweet omelet strips", "quantity": 4.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll egg strips and rice in nori. Slice into 6 rounds."
+      ]
+    },
+    {
+      "id": "s_mix_sashimi",
+      "title": "Chef's Mixed Sashimi Platter",
+      "category": "Basic",
+      "description": "An assortment of the day's freshest catches. Typically includes a variety of textures and flavors from tuna, salmon, and white fish.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["variety", "seafood"],
+      "ingredients": [
+        {"canonicalName": "mix_fish", "displayName": "Mixed fish slices", "quantity": 10.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Arrange a variety of fresh fish slices beautifully on a plate with traditional garnishes."
+      ]
+    },
+    {
+      "id": "s_chirashi",
+      "title": "Healthy Chirashi Bowl",
+      "category": "Basic",
+      "description": "A 'scattered' sushi bowl. A colorful variety of fresh fish and vegetables served over a bed of seasoned sushi rice.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["variety", "one-bowl"],
+      "ingredients": [
+        {"canonicalName": "mix_fish", "displayName": "Mixed fish and toppings", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.5, "unit": "cups"}
+      ],
+      "instructions": [
+        "Place warm sushi rice in a bowl. Decoratively arrange fresh fish slices and vegetables on top."
+      ]
+    },
+    {
+      "id": "s_lemon_hama",
+      "title": "Yellowtail and Lemon Nigiri",
+      "category": "Nigiri",
+      "description": "Buttery yellowtail topped with a paper-thin slice of lemon. A zesty and refreshing take on traditional nigiri.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "citrus"],
+      "ingredients": [
+        {"canonicalName": "hamachi", "displayName": "Yellowtail slices", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "lemon", "displayName": "Thin lemon slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Press yellowtail on rice. Top each with a tiny, paper-thin lemon slice."
+      ]
+    },
+    {
+      "id": "s_spicy_hama_hand",
+      "title": "Spicy Yellowtail Hand Roll",
+      "category": "Hand Roll",
+      "description": "Creamy yellowtail with a spicy kick, rolled in a crisp nori cone. High in protein and bold in flavor.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["spicy", "fresh"],
+      "ingredients": [
+        {"canonicalName": "hamachi", "displayName": "Minced yellowtail", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "sriracha", "displayName": "Sriracha", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Mix yellowtail with sriracha and roll into a nori cone with rice."
+      ]
+    },
+    {
+      "id": "s_sashimi_taco",
+      "title": "Salmon Sashimi Lettuce Tacos",
+      "category": "Basic",
+      "description": "A light and healthy fusion dish. Fresh salmon sashimi served in crisp lettuce leaves with a touch of wasabi-yogurt sauce.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fusion", "low-carb"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon sashimi", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "lettuce", "displayName": "Butter lettuce leaves", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place salmon slices inside lettuce leaves. Top with a drop of wasabi-yogurt."
+      ]
+    },
+    {
+      "id": "s_avocado_nigiri",
+      "title": "Simple Avocado Nigiri",
+      "category": "Nigiri",
+      "description": "A simple and delicious vegan nigiri. Ripe avocado slices are pressed onto rice and secured with a thin nori band.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "healthy-fats"],
+      "ingredients": [
+        {"canonicalName": "avocado", "displayName": "Avocado slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Press avocado onto rice mounds. Secure with a thin strip of nori."
+      ]
+    },
+    {
+      "id": "s_cucumber_temaki",
+      "title": "Cucumber Hand Roll",
+      "category": "Hand Roll",
+      "description": "The ultimate simple and refreshing hand roll. Cool cucumber matchsticks in a crisp nori cone.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["vegan", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Cucumber matchsticks", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Roll cucumber and rice into a nori cone. Eat immediately."
+      ]
     }
   ]
 }

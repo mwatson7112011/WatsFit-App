@@ -1,54 +1,558 @@
 {
   "recipes": [
-    {"id":"m1","title":"Healthy Fish Ceviche","category":"Appetizer","cuisine":"Mexican","texture":"Tender","prepTimeMin":30,"cookTimeMin":0,"servings":2,"tags":["healthy","seafood"],"ingredients":[{"canonicalName":"white_fish","displayName":"Fish","quantity":300.0,"unit":"g"},{"canonicalName":"lime","displayName":"Limes","quantity":4.0,"unit":"piece"}],"instructions":["Dice fish.","Marinate in lime.","Mix with veggies."]},
-    {"id":"m2","title":"Mexican Lentil Soup","category":"Soup","cuisine":"Mexican","texture":"Moderate","prepTimeMin":15,"cookTimeMin":30,"servings":4,"tags":["fiber","vegan"],"ingredients":[{"canonicalName":"lentils","displayName":"Lentils","quantity":1.0,"unit":"cup"}],"instructions":["Sauté onion.","Add lentils and water.","Simmer."]},
-    {"id":"m3","title":"Turkey Taco Wraps","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":15,"servings":2,"tags":["low-carb","protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Turkey","quantity":400.0,"unit":"g"},{"canonicalName":"lettuce","displayName":"Lettuce","quantity":8.0,"unit":"piece"}],"instructions":["Cook turkey.","Fill lettuce leaves."]},
-    {"id":"m4","title":"Cauliflower Tacos","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":20,"servings":2,"tags":["vegetarian"],"ingredients":[{"canonicalName":"cauliflower","displayName":"Cauliflower","quantity":1.0,"unit":"head"}],"instructions":["Roast cauliflower.","Serve in tortillas."]},
-    {"id":"m5","title":"Shrimp and Avocado Salad","category":"Salad","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":5,"servings":2,"tags":["seafood","healthy"],"ingredients":[{"canonicalName":"shrimp","displayName":"Shrimp","quantity":250.0,"unit":"g"},{"canonicalName":"avocado","displayName":"Avocado","quantity":1.0,"unit":"piece"}],"instructions":["Grill shrimp.","Mix with avocado."]},
-    {"id":"m6","title":"Chicken Pozole","category":"Soup","cuisine":"Mexican","texture":"Soft","prepTimeMin":15,"cookTimeMin":45,"servings":4,"tags":["protein","傳統"],"ingredients":[{"canonicalName":"chicken","displayName":"Chicken","quantity":2.0,"unit":"piece"},{"canonicalName":"hominy","displayName":"Hominy","quantity":1.0,"unit":"can"}],"instructions":["Boil chicken.","Add hominy.","Top with radish."]},
-    {"id":"m7","title":"Mexican Quinoa Bowl","category":"Lunch","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":15,"servings":2,"tags":["superfood"],"ingredients":[{"canonicalName":"quinoa","displayName":"Quinoa","quantity":1.0,"unit":"cup"}],"instructions":["Cook quinoa.","Add beans and corn."]},
-    {"id":"m8","title":"Veggie Fajitas","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["vegan"],"ingredients":[{"canonicalName":"pepper","displayName":"Peppers","quantity":3.0,"unit":"piece"}],"instructions":["Grill veggies.","Serve in wraps."]},
-    {"id":"m9","title":"Pico de Gallo Chicken","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":10,"cookTimeMin":15,"servings":2,"tags":["fresh","protein"],"ingredients":[{"canonicalName":"chicken","displayName":"Chicken","quantity":2.0,"unit":"piece"},{"canonicalName":"salsa","displayName":"Pico de Gallo","quantity":1.0,"unit":"cup"}],"instructions":["Grill chicken.","Top with salsa."]},
-    {"id":"m10","title":"Enchilada Skillet","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":5,"cookTimeMin":15,"servings":4,"tags":["easy"],"ingredients":[{"canonicalName":"turkey","displayName":"Turkey","quantity":300.0,"unit":"g"}],"instructions":["Brown turkey.","Simmer with sauce and beans."]},
-    {"id":"m11","title":"Cactus (Nopales) Salad","category":"Appetizer","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":4,"tags":["fiber"],"ingredients":[{"canonicalName":"nopales","displayName":"Cactus","quantity":2.0,"unit":"cups"}],"instructions":["Mix cactus with tomato and onion."]},
-    {"id":"m12","title":"Black Bean Salsa","category":"Appetizer","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":6,"tags":["vegan"],"ingredients":[{"canonicalName":"beans","displayName":"Black Beans","quantity":1.0,"unit":"can"}],"instructions":["Mix beans, corn, and lime."]},
-    {"id":"m13","title":"Turkey Chili","category":"Soup","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":30,"servings":6,"tags":["protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Turkey","quantity":500.0,"unit":"g"}],"instructions":["Brown turkey.","Simmer with beans."]},
-    {"id":"m14","title":"Zucchini Tacos","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":10,"servings":2,"tags":["vegetarian"],"ingredients":[{"canonicalName":"zucchini","displayName":"Zucchini","quantity":2.0,"unit":"piece"}],"instructions":["Sauté zucchini.","Serve in tortillas."]},
-    {"id":"m15","title":"Shrimp Street Tacos","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":10,"cookTimeMin":5,"servings":2,"tags":["seafood"],"ingredients":[{"canonicalName":"shrimp","displayName":"Shrimp","quantity":200.0,"unit":"g"}],"instructions":["Grill shrimp.","Top with cabbage slaw."]},
-    {"id":"m16","title":"Stuffed Bell Peppers","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":20,"cookTimeMin":20,"servings":3,"tags":["vegetarian"],"ingredients":[{"canonicalName":"peppers","displayName":"Bell Peppers","quantity":3.0,"unit":"piece"}],"instructions":["Stuff peppers with beans and quinoa.","Bake."]},
-    {"id":"m17","title":"Shrimp Aguachile","category":"Appetizer","cuisine":"Mexican","texture":"Tender","prepTimeMin":20,"cookTimeMin":0,"servings":2,"tags":["spicy"],"ingredients":[{"canonicalName":"shrimp","displayName":"Shrimp","quantity":250.0,"unit":"g"}],"instructions":["Butterfly shrimp.","Marinate in chili-lime."]},
-    {"id":"m18","title":"Mexican Scrambled Eggs","category":"Breakfast","cuisine":"Mexican","texture":"Soft","prepTimeMin":5,"cookTimeMin":5,"servings":2,"tags":["protein"],"ingredients":[{"canonicalName":"egg","displayName":"Eggs","quantity":4.0,"unit":"piece"}],"instructions":["Scramble with tomato and chili."]},
-    {"id":"m19","title":"Grilled Corn (Elote Lite)","category":"Side","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":5,"cookTimeMin":10,"servings":4,"tags":["healthy"],"ingredients":[{"canonicalName":"corn","displayName":"Corn on Cob","quantity":4.0,"unit":"piece"}],"instructions":["Grill corn.","Top with yogurt and chili."]},
-    {"id":"m20","title":"Black Bean Tostadas","category":"Lunch","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":5,"servings":2,"tags":["fiber"],"ingredients":[{"canonicalName":"tortilla","displayName":"Crispy Tortilla","quantity":4.0,"unit":"piece"}],"instructions":["Top tortillas with bean mash and lettuce."]},
-    {"id":"m21","title":"Chipotle Turkey Meatballs","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":20,"servings":4,"tags":["protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Ground Turkey","quantity":500.0,"unit":"g"}],"instructions":["Mix turkey with chipotle.","Bake in sauce."]},
-    {"id":"m22","title":"Watermelon Chili Salad","category":"Salad","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":4,"tags":["fresh"],"ingredients":[{"canonicalName":"watermelon","displayName":"Watermelon","quantity":4.0,"unit":"cups"}],"instructions":["Dice watermelon.","Sprinkle with lime and chili."]},
-    {"id":"m23","title":"Grilled Salmon with Mango Salsa","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["omega3"],"ingredients":[{"canonicalName":"salmon","displayName":"Salmon","quantity":300.0,"unit":"g"}],"instructions":["Grill salmon.","Top with mango salsa."]},
-    {"id":"m24","title":"Pinto Bean Soup","category":"Soup","cuisine":"Mexican","texture":"Soft","prepTimeMin":10,"cookTimeMin":40,"servings":6,"tags":["fiber"],"ingredients":[{"canonicalName":"pinto_beans","displayName":"Pinto Beans","quantity":2.0,"unit":"cups"}],"instructions":["Simmer beans with onion and garlic."]},
-    {"id":"m25","title":"Zucchini Quesadillas","category":"Lunch","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":10,"servings":2,"tags":["vegetarian"],"ingredients":[{"canonicalName":"zucchini","displayName":"Zucchini","quantity":1.0,"unit":"piece"}],"instructions":["Grill zucchini in tortilla with light cheese."]},
-    {"id":"m26","title":"Cod Tacos with Avocado","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["healthy"],"ingredients":[{"canonicalName":"cod","displayName":"Cod","quantity":300.0,"unit":"g"}],"instructions":["Sear cod.","Serve with avocado slices."]},
-    {"id":"m27","title":"Jicama Sticks with Lime","category":"Snack","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":5,"cookTimeMin":0,"servings":2,"tags":["low-cal"],"ingredients":[{"canonicalName":"jicama","displayName":"Jicama","quantity":1.0,"unit":"piece"}],"instructions":["Slice jicama.","Season with lime and salt."]},
-    {"id":"m28","title":"Turkey Chorizo Hash","category":"Breakfast","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":15,"servings":2,"tags":["protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Turkey","quantity":200.0,"unit":"g"}],"instructions":["Sauté turkey with chorizo spices and potato."]},
-    {"id":"m29","title":"Mexican Green Salad","category":"Salad","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":2,"tags":["fresh"],"ingredients":[{"canonicalName":"lettuce","displayName":"Romaine","quantity":2.0,"unit":"cups"}],"instructions":["Toss with pumpkin seeds and lime."]},
-    {"id":"m30","title":"Roasted Poblano Soup","category":"Soup","cuisine":"Mexican","texture":"Soft","prepTimeMin":20,"cookTimeMin":20,"servings":4,"tags":["healthy"],"ingredients":[{"canonicalName":"poblano","displayName":"Poblano Peppers","quantity":4.0,"unit":"piece"}],"instructions":["Roast and peel peppers.","Blend with broth."]},
-    {"id":"m31","title":"Grilled Chicken Burrito Bowl","category":"Lunch","cuisine":"Mexican","texture":"Moderate","prepTimeMin":15,"cookTimeMin":15,"servings":2,"tags":["protein"],"ingredients":[{"canonicalName":"chicken","displayName":"Chicken","quantity":250.0,"unit":"g"}],"instructions":["Grill chicken.","Serve over rice and beans."]},
-    {"id":"m32","title":"Salmon Tacos","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["healthy"],"ingredients":[{"canonicalName":"salmon","displayName":"Salmon","quantity":300.0,"unit":"g"}],"instructions":["Sear salmon.","Serve in tortillas with slaw."]},
-    {"id":"m33","title":"Black Bean Burger (Mexican Style)","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":20,"cookTimeMin":10,"servings":4,"tags":["vegan"],"ingredients":[{"canonicalName":"beans","displayName":"Black Beans","quantity":1.0,"unit":"can"}],"instructions":["Mash beans.","Form patties and grill."]},
-    {"id":"m34","title":"Cilantro Lime Brown Rice","category":"Side","cuisine":"Mexican","texture":"Moderate","prepTimeMin":5,"cookTimeMin":20,"servings":4,"tags":["healthy"],"ingredients":[{"canonicalName":"rice","displayName":"Brown Rice","quantity":1.0,"unit":"cup"}],"instructions":["Cook rice.","Mix with cilantro and lime."]},
-    {"id":"m35","title":"Huevos Divorciados (Healthy)","category":"Breakfast","cuisine":"Mexican","texture":"Soft","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["eggs"],"ingredients":[{"canonicalName":"egg","displayName":"Eggs","quantity":4.0,"unit":"piece"}],"instructions":["Top eggs with red and green salsa."]},
-    {"id":"m36","title":"Spicy Shrimp Skewers","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":8,"servings":2,"tags":["seafood"],"ingredients":[{"canonicalName":"shrimp","displayName":"Shrimp","quantity":300.0,"unit":"g"}],"instructions":["Skewer shrimp.","Grill with chili flakes."]},
-    {"id":"m37","title":"Mexican Squash Stew","category":"Dinner","cuisine":"Mexican","texture":"Soft","prepTimeMin":15,"cookTimeMin":25,"servings":4,"tags":["vegetarian"],"ingredients":[{"canonicalName":"squash","displayName":"Mexican Squash","quantity":3.0,"unit":"piece"}],"instructions":["Simmer squash with corn and tomato."]},
-    {"id":"m38","title":"Shredded Beef (Lean)","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":15,"cookTimeMin":120,"servings":6,"tags":["protein"],"ingredients":[{"canonicalName":"beef","displayName":"Lean Roast","quantity":1.0,"unit":"kg"}],"instructions":["Slow cook until shreddable."]},
-    {"id":"m39","title":"Pineapple Salsa","category":"Appetizer","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":4,"tags":["fresh"],"ingredients":[{"canonicalName":"pineapple","displayName":"Pineapple","quantity":2.0,"unit":"cups"}],"instructions":["Mix pineapple with onion and chili."]},
-    {"id":"m40","title":"Tuna Ceviche with Mango","category":"Appetizer","cuisine":"Mexican","texture":"Tender","prepTimeMin":20,"cookTimeMin":0,"servings":2,"tags":["seafood"],"ingredients":[{"canonicalName":"tuna","displayName":"Fresh Tuna","quantity":250.0,"unit":"g"}],"instructions":["Marinate tuna with mango and lime."]},
-    {"id":"m41","title":"Lentil Tacos","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":10,"cookTimeMin":20,"servings":4,"tags":["vegan"],"ingredients":[{"canonicalName":"lentils","displayName":"Cooked Lentils","quantity":2.0,"unit":"cups"}],"instructions":["Season lentils.","Serve in warm tortillas."]},
-    {"id":"m42","title":"Healthy Guacamole","category":"Appetizer","cuisine":"Mexican","texture":"Soft","prepTimeMin":10,"cookTimeMin":0,"servings":4,"tags":["healthy"],"ingredients":[{"canonicalName":"avocado","displayName":"Avocados","quantity":2.0,"unit":"piece"}],"instructions":["Mash avocados.","Mix with lime and tomato."]},
-    {"id":"m43","title":"Mexican Tomato Soup","category":"Soup","cuisine":"Mexican","texture":"Soft","prepTimeMin":10,"cookTimeMin":20,"servings":4,"tags":["low-cal"],"ingredients":[{"canonicalName":"tomato","displayName":"Tomatoes","quantity":4.0,"unit":"piece"}],"instructions":["Simmer tomatoes with chili.","Blend until smooth."]},
-    {"id":"m44","title":"Chili Lime Pumpkin Seeds","category":"Snack","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":5,"cookTimeMin":15,"servings":8,"tags":["healthy"],"ingredients":[{"canonicalName":"seeds","displayName":"Pumpkin Seeds","quantity":1.0,"unit":"cup"}],"instructions":["Toss seeds with chili and lime.","Roast."]},
-    {"id":"m45","title":"Grilled Sea Bass (Mexican)","category":"Dinner","cuisine":"Mexican","texture":"Tender","prepTimeMin":10,"cookTimeMin":12,"servings":2,"tags":["omega3"],"ingredients":[{"canonicalName":"seabass","displayName":"Sea Bass","quantity":300.0,"unit":"g"}],"instructions":["Grill sea bass.","Serve with fresh salsa."]},
-    {"id":"m46","title":"Chicken and Veggie Enchiladas","category":"Dinner","cuisine":"Mexican","texture":"Soft","prepTimeMin":25,"cookTimeMin":20,"servings":4,"tags":["protein"],"ingredients":[{"canonicalName":"chicken","displayName":"Shredded Chicken","quantity":300.0,"unit":"g"}],"instructions":["Roll chicken and spinach in tortillas.","Bake."]},
-    {"id":"m47","title":"Spicy Cucumber Slices","category":"Snack","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":5,"cookTimeMin":0,"servings":2,"tags":["low-cal"],"ingredients":[{"canonicalName":"cucumber","displayName":"Cucumber","quantity":1.0,"unit":"piece"}],"instructions":["Slice cucumber.","Season with Tajin and lime."]},
-    {"id":"m48","title":"Beef and Broccoli Tacos","category":"Dinner","cuisine":"Mexican","texture":"Moderate","prepTimeMin":15,"cookTimeMin":10,"servings":2,"tags":["healthy"],"ingredients":[{"canonicalName":"beef","displayName":"Lean Beef","quantity":200.0,"unit":"g"}],"instructions":["Sauté beef and broccoli.","Serve in tortillas."]},
-    {"id":"m49","title":"Mexican Fruit Cup","category":"Snack","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":2,"tags":["fresh"],"ingredients":[{"canonicalName":"fruit","displayName":"Mixed Fruit","quantity":3.0,"unit":"cups"}],"instructions":["Mix mango, papaya, lime."]},
-    {"id":"m50","title":"Baked Tortilla Chips","category":"Snack","cuisine":"Mexican","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":10,"servings":6,"tags":["healthy"],"ingredients":[{"canonicalName":"tortilla","displayName":"Corn Tortillas","quantity":6.0,"unit":"piece"}],"instructions":["Cut tortillas.","Bake until crisp."]}
+    {
+      "id": "mex_1",
+      "title": "Healthy Lime-Marinated Fish Ceviche",
+      "description": "A refreshing and protein-packed coastal Mexican dish. Fresh white fish is 'cooked' in acidic lime juice and tossed with crisp garden vegetables for a vibrant, low-calorie appetizer.",
+      "category": "Appetizer",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["healthy", "seafood", "low-carb"],
+      "ingredients": [
+        {"canonicalName": "white_fish", "displayName": "Fresh white fish (Cod or Tilapia), diced", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "lime", "displayName": "Fresh lime juice", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "tomato", "displayName": "Roma tomatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "Red onion, finely diced", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "cilantro", "displayName": "Fresh cilantro, chopped", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "jalapeno", "displayName": "Jalapeño, minced (optional)", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "avocado", "displayName": "Avocado, diced", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place the diced fish in a glass bowl and pour the lime juice over it. Ensure the fish is completely submerged. Cover and refrigerate for 20-30 minutes until the fish turns opaque.",
+        "In a separate bowl, combine the tomatoes, red onion, cilantro, and jalapeño.",
+        "Drain the excess lime juice from the fish. Gently fold the fish into the vegetable mixture.",
+        "Just before serving, fold in the diced avocado to keep it from mashing.",
+        "Season with a pinch of sea salt and serve with baked tortilla chips or lettuce leaves."
+      ],
+      "nutrition": {"calories": 180, "proteinGrams": 25, "carbsGrams": 8, "fatGrams": 6}
+    },
+    {
+      "id": "mex_2",
+      "title": "Roasted Cauliflower & Black Bean Tacos",
+      "description": "A hearty and nutritious vegetarian taco. Cauliflower florets are roasted until caramelized and paired with protein-rich black beans and a zesty cabbage slaw.",
+      "category": "Dinner",
+      "cuisine": "Mexican",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["vegetarian", "fiber", "healthy"],
+      "ingredients": [
+        {"canonicalName": "cauliflower", "displayName": "Cauliflower florets", "quantity": 1.0, "unit": "large head"},
+        {"canonicalName": "bean", "displayName": "Black beans, rinsed", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "cumin", "displayName": "Ground cumin", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "chili_powder", "displayName": "Chili powder", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "cabbage", "displayName": "Shredded purple cabbage", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "tortilla", "displayName": "Corn tortillas", "quantity": 8.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F. Toss cauliflower florets with cumin, chili powder, and a teaspoon of olive oil.",
+        "Spread on a baking sheet and roast for 20 minutes until edges are browned and tender.",
+        "Warm the black beans in a small pot with a splash of water.",
+        "Warm the tortillas on a dry skillet for 30 seconds per side.",
+        "Assemble tacos by placing a spoonful of beans, roasted cauliflower, and a handful of cabbage slaw in each tortilla. Top with a squeeze of lime."
+      ]
+    },
+    {
+      "id": "mex_3",
+      "title": "Grilled Shrimp & Mango Salsa Salad",
+      "description": "A tropical and high-protein salad. Char-grilled shrimp are served over a bed of mixed greens and topped with a sweet and spicy mango-lime salsa.",
+      "category": "Salad",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["protein", "fresh", "seafood"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large shrimp, peeled", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "mango", "displayName": "Ripe mango, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lettuce", "displayName": "Mixed salad greens", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Make the salsa: Combine diced mango, lime juice, a tablespoon of cilantro, and honey in a small bowl. Let sit to meld flavors.",
+        "Grill the shrimp for 2-3 minutes per side over high heat until pink and slightly charred.",
+        "Place salad greens in two large bowls. Top with the grilled shrimp and a generous portion of mango salsa.",
+        "Drizzle with the remaining salsa juices as a dressing."
+      ]
+    },
+    {
+      "id": "mex_4",
+      "title": "Lite Chicken Pozole Verde",
+      "category": "Soup",
+      "description": "A comforting green chili and hominy stew. This version uses lean chicken breast and a blended sauce of fresh tomatillos and roasted poblanos.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "tags": ["protein", "traditional", "healthy"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken breast", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "hominy", "displayName": "Hominy, rinsed", "quantity": 1.0, "unit": "can (15oz)"},
+        {"canonicalName": "tomatillo", "displayName": "Tomatillos, husked", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "poblano", "displayName": "Poblano pepper", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "radish", "displayName": "Sliced radishes", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Boil chicken in 6 cups of water with an onion until cooked. Shred the chicken and keep the broth.",
+        "Boil tomatillos and the poblano until soft. Blend with cilantro and a garlic clove to make the salsa verde.",
+        "Stir the salsa verde and hominy into the chicken broth. Simmer for 15 minutes.",
+        "Add the shredded chicken back to the pot. Serve hot, topped with sliced radishes and cabbage."
+      ]
+    },
+    {
+      "id": "mex_5",
+      "title": "Mexican Quinoa Power Bowl",
+      "category": "Lunch",
+      "description": "A nutrient-dense grain bowl inspired by Mexican flavors. Quinoa is paired with black beans, corn, and avocado for a high-fiber, energizing lunch.",
+      "cuisine": "Mexican",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["superfood", "vegan", "fiber"],
+      "ingredients": [
+        {"canonicalName": "quinoa", "displayName": "Uncooked quinoa", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "bean", "displayName": "Black beans", "quantity": 1.0, "unit": "can"},
+        {"canonicalName": "corn", "displayName": "Sweet corn", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "salsa", "displayName": "Fresh salsa", "quantity": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Cook quinoa according to package directions. Fluff with a fork.",
+        "In a large bowl, layer the quinoa, black beans, and corn.",
+        "Top with fresh salsa, diced avocado, and a squeeze of lime juice. Toss before eating."
+      ]
+    },
+    {
+      "id": "mex_6",
+      "title": "Turkey Taco Lettuce Wraps",
+      "category": "Dinner",
+      "description": "A low-carb alternative to traditional tacos. Seasoned ground turkey is served in crisp butter lettuce leaves for a high-protein, light dinner.",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["low-carb", "protein", "lean"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Lean ground turkey", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "lettuce", "displayName": "Butter lettuce leaves", "quantity": 8.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "Small onion, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "taco_spice", "displayName": "Low-sodium taco seasoning", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Brown the turkey and onion in a non-stick skillet until cooked through.",
+        "Stir in the taco seasoning and a splash of water. Simmer for 2 minutes.",
+        "Spoon the turkey mixture into the lettuce leaves and top with your favorite healthy toppings."
+      ]
+    },
+    {
+      "id": "mex_7",
+      "title": "Grilled Corn (Elote Lite)",
+      "category": "Side Dish",
+      "description": "A healthier version of Mexican street corn. We use plain Greek yogurt instead of mayonnaise for a creamy coating that’s lower in fat but high in flavor.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["vegetarian", "classic", "healthy"],
+      "ingredients": [
+        {"canonicalName": "corn", "displayName": "Corn on the cob", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "chili_powder", "displayName": "Chili powder", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "lime", "displayName": "Lime wedges", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Grill corn on the cob until slightly charred on all sides.",
+        "Brush each cob with a thin layer of Greek yogurt.",
+        "Sprinkle with chili powder and a pinch of salt. Serve with lime wedges."
+      ]
+    },
+    {
+      "id": "mex_8",
+      "title": "Mexican Squash & Tomato Stew",
+      "category": "Dinner",
+      "description": "A traditional vegetarian stew (Calabacitas). Tender Mexican squash is simmered with tomatoes, corn, and a hint of onion for a light, fiber-rich meal.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "vegetable"],
+      "ingredients": [
+        {"canonicalName": "squash", "displayName": "Mexican squash (Zucchini), cubed", "quantity": 1.5, "unit": "lbs"},
+        {"canonicalName": "tomato", "displayName": "Roma tomatoes, chopped", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "corn", "displayName": "Sweet corn kernels", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Sauté onion and garlic in a pot. Add the squash and tomatoes.",
+        "Simmer covered for 15 minutes until the squash is tender.",
+        "Stir in the corn and cook for 5 more minutes. Season with salt and pepper."
+      ]
+    },
+    {
+      "id": "mex_9",
+      "title": "Watermelon & Jicama Salad",
+      "category": "Salad",
+      "description": "A crisp and hydrating Mexican summer salad. The sweetness of watermelon is contrasted with the crunch of jicama and a zing of lime and chili.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "watermelon", "displayName": "Watermelon cubes", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "jicama", "displayName": "Jicama, peeled and diced", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "lime", "displayName": "Fresh lime juice", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "chili", "displayName": "Tajin or chili powder", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Combine watermelon and jicama cubes in a large bowl.",
+        "Drizzle with fresh lime juice and sprinkle with chili powder.",
+        "Toss gently and serve chilled as a refreshing side or snack."
+      ]
+    },
+    {
+      "id": "mex_10",
+      "title": "Healthy Black Bean Tostadas",
+      "category": "Lunch",
+      "description": "A quick and high-fiber lunch. Baked corn tortillas are topped with a savory black bean mash and plenty of fresh, crisp lettuce.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "quick"],
+      "ingredients": [
+        {"canonicalName": "tortilla", "displayName": "Corn tortillas (baked until crisp)", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "bean", "displayName": "Black bean mash", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "lettuce", "displayName": "Shredded Romaine lettuce", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Spread a thick layer of warm black bean mash over each crisp tortilla.",
+        "Top with a generous amount of shredded lettuce, fresh salsa, and a few slices of radish."
+      ]
+    },
+    {
+      "id": "mex_11",
+      "title": "Pico de Gallo Chicken Breast",
+      "category": "Dinner",
+      "description": "A simple and clean protein dish. Lean chicken breast is grilled and topped with an abundance of fresh, zesty Pico de Gallo salsa.",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["protein", "lean", "fresh"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken breasts", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "tomato", "displayName": "Roma tomatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "White onion, diced", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "cilantro", "displayName": "Fresh cilantro", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Grill the chicken breasts until cooked through (165°F).",
+        "Mix tomatoes, onion, cilantro, and lime to make the fresh Pico de Gallo.",
+        "Top the hot chicken with a mountain of the fresh salsa and serve with a side of greens."
+      ]
+    },
+    {
+      "id": "mex_12",
+      "title": "Roasted Poblano Soup",
+      "category": "Soup",
+      "description": "A silky and smoky green soup. Roasted poblano peppers are blended with a touch of yogurt for a creamy texture that is low in fat.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["healthy", "low-cal", "classic"],
+      "ingredients": [
+        {"canonicalName": "poblano", "displayName": "Poblano peppers, roasted and peeled", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "broth", "displayName": "Vegetable broth", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Roast poblanos under a broiler until skin is blackened. Peel and remove seeds.",
+        "Blend the peppers with the vegetable broth until completely smooth.",
+        "Heat the soup in a pot, then stir in the yogurt just before serving. Do not boil."
+      ]
+    },
+    {
+      "id": "mex_13",
+      "title": "Mexican Scrambled Eggs (Huevos a la Mexicana)",
+      "category": "Breakfast",
+      "description": "A high-protein breakfast that reflects the colors of the Mexican flag. Scrambled eggs are tossed with sautéed tomatoes, onions, and green chilies.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["protein", "eggs", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Large eggs", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Diced tomato", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "onion", "displayName": "Diced onion", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "serrano", "displayName": "Serrano chili, minced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Sauté the onion and chili in a non-stick pan for 2 minutes.",
+        "Add the tomatoes and cook until they release their juices.",
+        "Pour in the whisked eggs and scramble until set. Serve with a slice of whole wheat toast."
+      ]
+    },
+    {
+      "id": "mex_14",
+      "title": "Grilled Sea Bass with Lime & Cilantro",
+      "category": "Dinner",
+      "cuisine": "Mexican",
+      "description": "A simple and elegant seafood dish. Sea bass is grilled with a bright citrus marinade and served with a side of roasted vegetables.",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["omega3", "seafood", "grilled"],
+      "ingredients": [
+        {"canonicalName": "seabass", "displayName": "Sea bass fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "cilantro", "displayName": "Fresh cilantro", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Marinate the fish in lime juice and cilantro for 10 minutes.",
+        "Grill for 5-6 minutes per side until the fish is opaque and flaky."
+      ]
+    },
+    {
+      "id": "mex_15",
+      "title": "Healthy Guacamole with Jicama",
+      "category": "Appetizer",
+      "description": "A fiber-rich take on the classic dip. We use ripe avocados mixed with diced jicama for a satisfying crunch and added volume without extra fat.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["healthy-fats", "fresh", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "avocado", "displayName": "Avocados, ripe", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "jicama", "displayName": "Jicama, finely diced", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Mash the avocados with the lime juice until mostly smooth.",
+        "Stir in the diced jicama, onion, and cilantro. Season with sea salt."
+      ]
+    },
+    {
+      "id": "mex_16",
+      "title": "Chipotle Turkey Meatballs",
+      "category": "Dinner",
+      "description": "Lean turkey meatballs with a smoky Mexican twist. Simmered in a spicy chipotle tomato sauce for a high-protein, bold meal.",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["protein", "lean", "baked"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Lean ground turkey", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "chipotle", "displayName": "Chipotle in adobo, minced", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "tomato", "displayName": "Tomato puree", "quantity": 15.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Form turkey into small meatballs and bake at 400°F for 15 minutes.",
+        "Simmer tomato puree with chipotle in a pan. Add the meatballs and toss to coat."
+      ]
+    },
+    {
+      "id": "mex_17",
+      "title": "Nopales (Cactus) and Tomato Salad",
+      "category": "Appetizer",
+      "description": "A uniquely Mexican salad featuring prickly pear cactus pads. High in fiber and extremely refreshing when paired with ripe tomatoes and lime.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "traditional"],
+      "ingredients": [
+        {"canonicalName": "nopales", "displayName": "Cooked cactus pads, diced", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "tomato", "displayName": "Roma tomatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "White onion, diced", "quantity": 0.25, "unit": "cup"}
+      ],
+      "instructions": [
+        "Toss diced cactus with tomatoes and onions in a bowl.",
+        "Add fresh cilantro, lime juice, and a pinch of salt. Serve as a cooling side dish."
+      ]
+    },
+    {
+      "id": "mex_18",
+      "title": "Lean Shredded Beef Tacos",
+      "category": "Dinner",
+      "description": "Traditional shredded beef made with extra lean roast. Slow-cooked with Mexican spices until it pulls apart perfectly, served in corn tortillas.",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 120,
+      "servings": 6,
+      "tags": ["protein", "classic", "fiber"],
+      "ingredients": [
+        {"canonicalName": "beef", "displayName": "Lean beef roast", "quantity": 2.0, "unit": "lbs"},
+        {"canonicalName": "cumin", "displayName": "Ground cumin", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "tortilla", "displayName": "Corn tortillas", "quantity": 12.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Slow cook the beef with cumin, garlic, and 1 cup of water until it can be easily shredded with two forks.",
+        "Serve the shredded beef in warm corn tortillas with plenty of fresh cabbage slaw."
+      ]
+    },
+    {
+      "id": "mex_19",
+      "title": "Pineapple Chili Salsa",
+      "category": "Appetizer",
+      "description": "A sweet and spicy salsa that’s perfect over grilled fish or chicken. Fresh pineapple provides a tropical sweetness that pairs beautifully with chili.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "fresh", "quick"],
+      "ingredients": [
+        {"canonicalName": "pineapple", "displayName": "Fresh pineapple, diced", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "chili", "displayName": "Minced red chili", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "cilantro", "displayName": "Fresh cilantro", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Mix all ingredients in a bowl. Let sit for 15 minutes before serving to allow the flavors to combine."
+      ]
+    },
+    {
+      "id": "mex_20",
+      "title": "Mexican Tomato & Lime Soup",
+      "category": "Soup",
+      "description": "A light and zesty tomato soup. The acidity of the lime and the heat of the chili make this a refreshing and low-calorie lunch option.",
+      "cuisine": "Mexican",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["vegan", "low-cal", "quick"],
+      "ingredients": [
+        {"canonicalName": "tomato", "displayName": "Crushed tomatoes", "quantity": 28.0, "unit": "oz"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "broth", "displayName": "Vegetable broth", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Simmer tomatoes and broth with a pinch of cumin for 20 minutes. Stir in fresh lime juice before serving."
+      ]
+    },
+    {
+      "id": "mex_21",
+      "title": "Zucchini Quesadillas",
+      "category": "Lunch",
+      "description": "A healthier take on quesadillas. We use sautéed zucchini and a small amount of sharp cheese to keep the calories low while maximizing fiber.",
+      "cuisine": "Mexican",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegetarian", "fiber", "quick"],
+      "ingredients": [
+        {"canonicalName": "tortilla", "displayName": "Whole wheat tortillas", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "zucchini", "displayName": "Grated zucchini", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "cheese", "displayName": "Shredded light cheese", "quantity": 0.25, "unit": "cup"}
+      ],
+      "instructions": [
+        "Sauté zucchini in a pan until soft. Place on half of each tortilla, top with cheese, fold, and grill until crisp."
+      ]
+    },
+    {
+      "id": "mex_22",
+      "title": "Spicy Mango Ceviche (Vegan)",
+      "category": "Appetizer",
+      "description": "A vibrant fruit-based ceviche. Diced mango is 'cured' in lime and chili for a fat-free and refreshing vegan appetizer.",
+      "cuisine": "Mexican",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "mango", "displayName": "Ripe mango, diced", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "chili", "displayName": "Chili flakes", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Toss diced mango with lime and chili. Chill for 10 minutes and serve with cucumber slices."
+      ]
+    },
+    {
+      "id": "mex_23",
+      "title": "Grilled Chicken Burrito Bowl",
+      "category": "Lunch",
+      "description": "A complete and balanced meal in a bowl. Featuring lean grilled chicken, fiber-rich black beans, and brown rice with a zesty lime dressing.",
+      "cuisine": "Mexican",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["protein", "one-bowl", "fiber"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Grilled chicken breast, sliced", "quantity": 10.0, "unit": "oz"},
+        {"canonicalName": "rice", "displayName": "Cooked brown rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "bean", "displayName": "Black beans", "quantity": 1.0, "unit": "can"}
+      ],
+      "instructions": [
+        "Assemble bowls with rice, beans, and grilled chicken. Top with fresh salsa and a dollop of Greek yogurt."
+      ]
+    },
+    {
+      "id": "mex_24",
+      "title": "Healthy Enchilada Skillet",
+      "category": "Dinner",
+      "description": "All the flavor of enchiladas without the rolling and extra fat. Lean turkey and beans are simmered in a red chili sauce with whole wheat tortilla strips.",
+      "cuisine": "Mexican",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["protein", "one-pot", "lean"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Lean ground turkey", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "sauce", "displayName": "Red enchilada sauce", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "tortilla", "displayName": "Corn tortillas, sliced", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Brown the turkey. Add sauce and tortilla strips. Simmer for 10 minutes until the sauce has thickened slightly."
+      ]
+    },
+    {
+      "id": "mex_25",
+      "title": "Mexican Fruit Cup with Tajin",
+      "category": "Snack",
+      "description": "The quintessential Mexican street snack. A variety of fresh tropical fruits are seasoned with lime juice and a salty-spicy chili blend.",
+      "cuisine": "Mexican",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "vegan", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "fruit", "displayName": "Mixed fruit (Mango, Papaya, Melon)", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "tajin", "displayName": "Tajin seasoning", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Toss fruit cubes with lime juice and sprinkle with Tajin. Serve immediately while fresh and cold."
+      ]
+    }
   ]
 }

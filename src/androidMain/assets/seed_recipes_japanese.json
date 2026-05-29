@@ -667,6 +667,553 @@
         "Blanch the diced carrots for 2 minutes and drain.",
         "Mix the cooled potatoes with the cucumber, carrots, and Greek yogurt. Season with salt and pepper to taste."
       ]
+    },
+    {
+      "id": "jap_26",
+      "title": "Grilled Yellowtail Collar (Hamachi Kama)",
+      "description": "The most prized and flavorful part of the yellowtail. The 'collar' is grilled until the skin is crispy and the inside is incredibly succulent and fatty.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 1,
+      "tags": ["premium", "omega3", "grilled"],
+      "ingredients": [
+        {"canonicalName": "yellowtail_collar", "displayName": "Fresh yellowtail collar", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "salt", "displayName": "Sea salt", "quantity": 0.5, "unit": "teaspoon"},
+        {"canonicalName": "daikon", "displayName": "Grated daikon", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "ponzu", "displayName": "Ponzu sauce", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Salt the yellowtail collar generously and let it sit for 10 minutes.",
+        "Preheat the broiler or grill to high. Place the collar skin-side up.",
+        "Grill for 12-15 minutes until the skin is charred and the fat has rendered. The meat should be tender and opaque.",
+        "Serve with a pile of grated daikon and a small bowl of ponzu for dipping."
+      ]
+    },
+    {
+      "id": "jap_27",
+      "title": "Healthy Chicken Mizutaki",
+      "category": "Dinner",
+      "description": "A light and cleansing hot pot dish. Chicken and plenty of leafy greens are simmered in a simple broth, focusing on the natural flavors of the ingredients.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["one-pot", "protein", "healthy"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Skinless chicken thighs, cubed", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "napa_cabbage", "displayName": "Napa cabbage, chopped", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "tofu", "displayName": "Firm tofu, cubed", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "shiitake", "displayName": "Shiitake mushrooms", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "broth", "displayName": "Kelp dashi or water", "quantity": 4.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Bring the broth to a simmer in a large pot. Add the chicken and simmer for 5 minutes.",
+        "Add the cabbage, mushrooms, and tofu. Simmer for another 10-15 minutes until all ingredients are tender.",
+        "Serve in individual bowls with a splash of ponzu and a sprinkle of chopped scallions."
+      ]
+    },
+    {
+      "id": "jap_28",
+      "title": "Steamed Pork & Ginger Dumplings",
+      "category": "Appetizer",
+      "description": "Delicate handmade dumplings filled with lean pork and fresh ginger. Steaming keeps them light and low in fat compared to pan-frying.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 30,
+      "cookTimeMin": 8,
+      "servings": 4,
+      "tags": ["protein", "steamed", "classic"],
+      "ingredients": [
+        {"canonicalName": "pork", "displayName": "Lean ground pork", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "cabbage", "displayName": "Napa cabbage, minced", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "wrapper", "displayName": "Gyoza wrappers", "quantity": 20.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Combine pork, minced cabbage (squeezed dry), and ginger in a bowl.",
+        "Place 1 teaspoon of filling in each wrapper. Wet edges, fold and seal with pleats.",
+        "Place in a steamer basket lined with parchment. Steam over boiling water for 8 minutes."
+      ]
+    },
+    {
+      "id": "jap_29",
+      "title": "Ginger-Soy Glazed Cod",
+      "category": "Dinner",
+      "description": "A quick and nutrient-dense weeknight meal. Cod fillets are glazed in a bright ginger-soy reduction and baked until they melt in your mouth.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["omega3", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "cod", "displayName": "Cod fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "soy_sauce", "displayName": "Low-sodium soy sauce", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Mix ginger, soy sauce, and honey to make the glaze.",
+        "Brush the fish with the glaze and bake at 400°F for 10-12 minutes.",
+        "Baste once more halfway through cooking. Serve with steamed bok choy."
+      ]
+    },
+    {
+      "id": "jap_30",
+      "title": "Warm Soba with Spinach & Tofu",
+      "category": "Lunch",
+      "description": "A heart-healthy buckwheat noodle soup. Perfect for a quick, warm lunch that provides long-lasting energy and plant-based protein.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 1,
+      "tags": ["vegan", "fiber", "protein"],
+      "ingredients": [
+        {"canonicalName": "soba", "displayName": "Soba noodles", "quantity": 3.5, "unit": "oz"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "tofu", "displayName": "Silken tofu, cubed", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Cook soba noodles in boiling water, then drain.",
+        "Heat dashi in a pot. Add the tofu and spinach and simmer for 2 minutes until the spinach is wilted.",
+        "Add the cooked noodles to the pot and heat through. Season with a dash of soy sauce."
+      ]
+    },
+    {
+      "id": "jap_31",
+      "title": "Grilled Eggplant with Sweet Miso (Nasu Dengaku)",
+      "category": "Side Dish",
+      "description": "A classic Japanese preparation of eggplant. The eggplant is grilled until soft and creamy, then brushed with a rich, sweet miso glaze.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "traditional"],
+      "ingredients": [
+        {"canonicalName": "eggplant", "displayName": "Japanese eggplants, halved", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "miso", "displayName": "Red miso paste", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "sugar", "displayName": "Sugar or Honey", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "mirin", "displayName": "Mirin", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Score the flesh of the eggplant in a diamond pattern.",
+        "Grill or pan-sear skin-side down first, then flesh-side down until tender.",
+        "Mix miso, sugar, and mirin to make a thick paste.",
+        "Brush the paste over the flesh of the eggplant and broil for 2 minutes until bubbly."
+      ]
+    },
+    {
+      "id": "jap_32",
+      "title": "Healthy Vegetable Tempura (Baked)",
+      "category": "Appetizer",
+      "description": "All the crunch of traditional tempura without the deep-frying. Vegetables are lightly breaded and baked at high heat for a guilt-free treat.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegetarian", "baked", "snack"],
+      "ingredients": [
+        {"canonicalName": "sweet_potato", "displayName": "Sweet potato, sliced thin", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "broccoli", "displayName": "Broccoli florets", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "panko", "displayName": "Whole wheat panko", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "egg_white", "displayName": "Egg whites", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Dip vegetable slices into whisked egg whites, then coat in panko.",
+        "Arrange on a baking sheet lined with parchment.",
+        "Bake at 425°F for 15-18 minutes until crispy and golden."
+      ]
+    },
+    {
+      "id": "jap_33",
+      "title": "Shichimi Roasted Broccoli",
+      "category": "Side Dish",
+      "description": "A zesty and spicy broccoli side. Seasoned with 'Shichimi Togarashi' (7-spice powder) and roasted until the edges are crispy and caramelized.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["vegan", "spicy", "vitamin-c"],
+      "ingredients": [
+        {"canonicalName": "broccoli", "displayName": "Broccoli florets", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "shichimi", "displayName": "Shichimi Togarashi", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame oil", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Toss broccoli with oil and spice mix.",
+        "Roast at 400°F for 12 minutes until tender and slightly charred on the edges."
+      ]
+    },
+    {
+      "id": "jap_34",
+      "title": "Udon Noodle Soup with Baby Bok Choy",
+      "category": "Lunch",
+      "description": "A simple and comforting noodle soup. Thick, chewy udon noodles are served in a clean dashi broth with fresh green baby bok choy.",
+      "cuisine": "Japanese",
+      "texture": "Chewy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 1,
+      "tags": ["vegetarian", "soup", "quick"],
+      "ingredients": [
+        {"canonicalName": "udon", "displayName": "Fresh udon noodles", "quantity": 1.0, "unit": "pack"},
+        {"canonicalName": "bok_choy", "displayName": "Baby bok choy", "quantity": 2.0, "unit": "head"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Bring dashi to a boil. Add udon noodles and cook for 3 minutes.",
+        "Add halved baby bok choy and simmer for 2 more minutes.",
+        "Serve hot with a dash of soy sauce and sesame oil."
+      ]
+    },
+    {
+      "id": "jap_35",
+      "title": "Grilled Shrimp with Ginger-Garlic",
+      "category": "Dinner",
+      "description": "Succulent grilled shrimp marinated in a potent ginger and garlic blend. A high-protein dish that's perfect for a quick and healthy dinner.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["seafood", "protein", "grilled"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large shrimp, peeled", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 1.0, "unit": "clove"}
+      ],
+      "instructions": [
+        "Marinate shrimp in ginger, garlic, and a teaspoon of soy sauce for 10 minutes.",
+        "Grill for 2 minutes per side until pink and opaque.",
+        "Garnish with fresh lemon and parsley."
+      ]
+    },
+    {
+      "id": "jap_36",
+      "title": "Traditional Natto Rice Bowl",
+      "category": "Breakfast",
+      "description": "The breakfast of champions in Japan. Fermented soybeans (Natto) provide an incredible source of probiotics and protein, served over warm brown rice.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 2,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["probiotic", "superfood", "protein"],
+      "ingredients": [
+        {"canonicalName": "natto", "displayName": "Natto (fermented beans)", "quantity": 1.0, "unit": "pack"},
+        {"canonicalName": "rice", "displayName": "Cooked brown rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "green_onion", "displayName": "Green onions, minced", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "Stir the natto vigorously in a small bowl until it becomes very stringy and bubbly.",
+        "Mix in the provided sauce and mustard packets.",
+        "Pour over hot rice and top with fresh scallions."
+      ]
+    },
+    {
+      "id": "jap_37",
+      "title": "Lite Beef & Broccoli Stir-Fry",
+      "category": "Dinner",
+      "description": "A healthy Japanese-style stir-fry. We use very little oil and focus on a high vegetable-to-meat ratio with a savory soy-ginger sauce.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 8,
+      "servings": 2,
+      "tags": ["protein", "fiber", "quick"],
+      "ingredients": [
+        {"canonicalName": "beef", "displayName": "Lean flank steak, thin strips", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "broccoli", "displayName": "Broccoli florets", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "soy_sauce", "displayName": "Low-sodium soy sauce", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Sear beef strips in a very hot non-stick pan for 2 minutes. Remove.",
+        "Add broccoli and a splash of water to the pan. Cover and steam for 3 minutes.",
+        "Return beef to the pan, add soy sauce and ginger, and toss for 1 minute."
+      ]
+    },
+    {
+      "id": "jap_38",
+      "title": "Shogayaki (Ginger Pork) Lite",
+      "category": "Dinner",
+      "description": "One of Japan’s most popular home-cooked meals. Thinly sliced pork is seared and glazed with a pungent ginger sauce, traditionally served with shredded cabbage.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["protein", "classic", "ginger"],
+      "ingredients": [
+        {"canonicalName": "pork", "displayName": "Lean pork loin, sliced paper-thin", "quantity": 10.0, "unit": "oz"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Whisk together ginger, soy sauce, and a dash of mirin.",
+        "Sear pork slices in a hot pan for 1 minute per side.",
+        "Pour the ginger sauce over the pork and simmer for 1 minute until glazed.",
+        "Serve with a mountain of shredded green cabbage."
+      ]
+    },
+    {
+      "id": "jap_39",
+      "title": "Lemony Steamed Clams with Sake",
+      "category": "Appetizer",
+      "description": "A sophisticated and light seafood dish. Fresh clams are steamed in a bath of sake and lemon, creating a savory and aromatic broth.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 8,
+      "servings": 2,
+      "tags": ["seafood", "low-cal", "fancy"],
+      "ingredients": [
+        {"canonicalName": "clams", "displayName": "Fresh clams, scrubbed", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "sake", "displayName": "Cooking Sake", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon slices", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place clams, sake, and lemon in a large pot.",
+        "Cover and steam over high heat for 5-7 minutes until all clams have opened.",
+        "Discard any that stay closed. Garnish with chopped scallions."
+      ]
+    },
+    {
+      "id": "jap_40",
+      "title": "Cucumber and Seaweed Sunomono",
+      "category": "Side Dish",
+      "description": "A simple version of the classic vinegar salad. This recipe focuses on the crispness of the cucumber and the mineral-rich wakame seaweed.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Japanese cucumber, sliced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "wakame", "displayName": "Dried wakame", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Soak seaweed in water for 5 mins.",
+        "Mix sliced cucumber with rice vinegar and a pinch of salt.",
+        "Toss with the drained seaweed and serve cold."
+      ]
+    },
+    {
+      "id": "jap_41",
+      "title": "Grated Nagaimo with Soy",
+      "category": "Appetizer",
+      "description": "A unique Japanese texture experience. Mountain yam (Nagaimo) is grated into a silky, slippery foam and seasoned simply with soy sauce and nori.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["vegan", "superfood", "traditional"],
+      "ingredients": [
+        {"canonicalName": "nagaimo", "displayName": "Nagaimo (Mountain yam)", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "nori", "displayName": "Shredded nori", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Peel and grate the nagaimo into a bowl until it reaches a foamy consistency.",
+        "Add a dash of soy sauce and top with shredded nori. Serve as a cooling side dish."
+      ]
+    },
+    {
+      "id": "jap_42",
+      "title": "Sesame Lemony Spinach",
+      "category": "Side Dish",
+      "description": "A fusion of flavors. Blanched spinach is tossed with toasted sesame seeds and a bright citrus dressing for a high-iron, zesty side.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 2,
+      "servings": 2,
+      "tags": ["vegan", "iron-rich", "fresh"],
+      "ingredients": [
+        {"canonicalName": "spinach", "displayName": "Fresh baby spinach", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sesame", "displayName": "Toasted sesame seeds", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Blanch spinach for 60 seconds, then drain and squeeze dry.",
+        "Toss with lemon juice, a drop of sesame oil, and toasted sesame seeds."
+      ]
+    },
+    {
+      "id": "jap_43",
+      "title": "Steamed Carrot matchsticks with Ginger",
+      "category": "Side Dish",
+      "description": "Sweet carrots are steamed gently to preserve their natural sugars and then seasoned with warming fresh ginger.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["vegan", "healthy", "vitamin-a"],
+      "ingredients": [
+        {"canonicalName": "carrot", "displayName": "Carrots, julienned", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Steam carrot strips for 5 minutes until tender-crisp.",
+        "Toss with fresh ginger and a tiny pinch of salt."
+      ]
+    },
+    {
+      "id": "jap_44",
+      "title": "Grilled Red Snapper (Tai Shioyaki)",
+      "category": "Dinner",
+      "description": "A celebratory dish in Japan. Whole or filleted red snapper is salt-grilled to highlight its naturally sweet and delicate white flesh.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["protein", "omega3", "traditional"],
+      "ingredients": [
+        {"canonicalName": "snapper", "displayName": "Red snapper fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "salt", "displayName": "Sea salt", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Salt the fish and let it sit for 15 minutes.",
+        "Grill or broil for 5-6 minutes per side until the skin is crispy and meat is flaky."
+      ]
+    },
+    {
+      "id": "jap_45",
+      "title": "Miso-Honey Roasted Radishes",
+      "category": "Appetizer",
+      "description": "An unusual but delicious way to enjoy radishes. Roasting removes their bite and turns them sweet, especially when glazed in a miso-honey sauce.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["vegan", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "radish", "displayName": "Red radishes, halved", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "miso", "displayName": "White miso paste", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Toss radishes with a mixture of miso, honey, and a teaspoon of oil.",
+        "Roast at 400°F for 15 minutes until tender and glazed."
+      ]
+    },
+    {
+      "id": "jap_46",
+      "title": "Cold Soba Salad with Miso Dressing",
+      "category": "Lunch",
+      "description": "A high-fiber, plant-based lunch. Cold buckwheat noodles are tossed with raw vegetables and a creamy, nutrient-rich miso-sesame dressing.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "fresh"],
+      "ingredients": [
+        {"canonicalName": "soba", "displayName": "Soba noodles", "quantity": 3.5, "unit": "oz"},
+        {"canonicalName": "cucumber", "displayName": "Cucumber, julienned", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "miso", "displayName": "White miso paste", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Cook and chill soba noodles. Toss with julienned cucumber.",
+        "Whisk miso with rice vinegar and sesame oil to make the dressing.",
+        "Toss everything together and serve cold."
+      ]
+    },
+    {
+      "id": "jap_47",
+      "title": "Sea Bass with Plum & Ginger",
+      "category": "Dinner",
+      "description": "A light and zesty fish dish. Sea bass is steamed with tart salted plums and fresh ginger for a unique and sophisticated flavor profile.",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["omega3", "steamed", "clean-eating"],
+      "ingredients": [
+        {"canonicalName": "seabass", "displayName": "Sea bass fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "umeboshi", "displayName": "Umeboshi plum, mashed", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger matchsticks", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Spread mashed plum and ginger over the fish fillets.",
+        "Steam over boiling water for 10-12 minutes until opaque.",
+        "Garnish with fresh green onions."
+      ]
+    },
+    {
+      "id": "jap_48",
+      "title": "Healthy Vegetable Gyoza (Baked)",
+      "category": "Appetizer",
+      "description": "Handmade dumplings filled with a mixture of finely minced mushrooms and cabbage. Baked until the bottoms are golden and crispy.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 30,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegetarian", "baked", "classic"],
+      "ingredients": [
+        {"canonicalName": "mushroom", "displayName": "Mushrooms, finely minced", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "cabbage", "displayName": "Napa cabbage, minced", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "wrapper", "displayName": "Gyoza wrappers", "quantity": 20.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Fill wrappers with vegetable mixture and seal with pleats.",
+        "Place on a baking sheet and brush the bottoms with a little oil.",
+        "Bake at 400°F for 15 minutes until the bottoms are crispy."
+      ]
+    },
+    {
+      "id": "jap_49",
+      "title": "Lemony Japanese cucumber Salad",
+      "category": "Side Dish",
+      "description": "A bright and hydrating side. This version of Sunomono uses fresh lemon juice instead of rice vinegar for an extra citrusy kick.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Japanese cucumber", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Slice cucumber paper-thin. Toss with lemon juice and a tiny pinch of salt.",
+        "Let sit for 5 minutes and serve chilled."
+      ]
+    },
+    {
+      "id": "jap_50",
+      "title": "Simmered Tofu with Kelp (Yudofu)",
+      "category": "Dinner",
+      "description": "A very simple and warming dish from Kyoto. Blocks of silken tofu are gently heated in a kombu-infused water and served with savory dipping sauces.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegan", "protein", "healthy"],
+      "ingredients": [
+        {"canonicalName": "tofu", "displayName": "Silken tofu", "quantity": 1.0, "unit": "block"},
+        {"canonicalName": "kombu", "displayName": "Kombu (dried kelp)", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Heat water with a piece of kombu. When small bubbles appear, add large cubes of tofu.",
+        "Simmer for 5 minutes (do not boil). Serve with a side of ponzu and ginger for dipping."
+      ]
     }
   ]
 }

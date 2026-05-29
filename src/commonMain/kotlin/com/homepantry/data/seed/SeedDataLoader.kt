@@ -8,7 +8,7 @@ import kotlinx.serialization.json.Json
 fun loadSeedData(recipeRepo: RecipeRepository, workoutRepo: WorkoutRepository, jsonLoader: (String) -> String?) {
     val json = Json { ignoreUnknownKeys = true }
     
-    // Force load if the database is missing any of the major cuisine categories
+    // Force load if the database is missing any of the major cuisine categories or total count is low
     val allRecipes = recipeRepo.getAll()
     val currentCuisines = allRecipes.map { it.cuisine }.toSet()
     val needsJapanese = !currentCuisines.contains(Cuisine.JAPANESE)
@@ -18,8 +18,7 @@ fun loadSeedData(recipeRepo: RecipeRepository, workoutRepo: WorkoutRepository, j
         val files = listOf(
             "seed_recipes.json", 
             "seed_recipes_thai.json", 
-            "seed_recipes_mediterranean_1.json", 
-            "seed_recipes_mediterranean_2.json",
+            "seed_recipes_mediterranean.json",
             "seed_recipes_mexican.json",
             "seed_recipes_russian.json",
             "seed_recipes_italian.json",

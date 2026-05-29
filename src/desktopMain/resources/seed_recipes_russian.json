@@ -1,54 +1,550 @@
 {
   "recipes": [
-    {"id":"r1","title":"Classic Red Borscht","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":20,"cookTimeMin":60,"servings":6,"tags":["healthy","beets","soup"],"ingredients":[{"canonicalName":"beets","displayName":"Large Beets","quantity":3.0,"unit":"piece"},{"canonicalName":"cabbage","displayName":"Green Cabbage","quantity":0.5,"unit":"head"},{"canonicalName":"potato","displayName":"Yukon Gold Potatoes","quantity":2.0,"unit":"piece"},{"canonicalName":"onion","displayName":"Large Onion","quantity":1.0,"unit":"piece"},{"canonicalName":"carrot","displayName":"Large Carrot","quantity":1.0,"unit":"piece"},{"canonicalName":"tomato_paste","displayName":"Tomato Paste","quantity":2.0,"unit":"tbsp"},{"canonicalName":"lemon_juice","displayName":"Lemon Juice","quantity":1.0,"unit":"tbsp"}],"instructions":["1. Grate beets and sauté with lemon juice and tomato paste for 10 mins.","2. Boil 8 cups of water or broth. Add diced potatoes and shredded cabbage.","3. Sauté onions and carrots until golden, then add to the pot.","4. Add the sautéed beets to the soup and simmer for 30 mins until tender.","5. Serve with a dollop of low-fat Greek yogurt and fresh dill."]},
-    {"id":"r2","title":"Shchi (Fresh Cabbage Soup)","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":45,"servings":6,"tags":["healthy","vegetable"],"ingredients":[{"canonicalName":"cabbage","displayName":"Fresh Green Cabbage","quantity":1.0,"unit":"head"},{"canonicalName":"onion","displayName":"Onion","quantity":1.0,"unit":"piece"},{"canonicalName":"potato","displayName":"Potatoes","quantity":2.0,"unit":"piece"},{"canonicalName":"carrot","displayName":"Carrot","quantity":1.0,"unit":"piece"}],"instructions":["1. Shred the cabbage and dice the potatoes.","2. Bring 6 cups of water to a boil and add cabbage and potatoes.","3. Sauté chopped onion and grated carrot until soft, then stir into the soup.","4. Simmer on medium-low for 35 mins. Season with salt, pepper, and bay leaves."]},
-    {"id":"r3","title":"Buckwheat Kasha with Roasted Onions","category":"Breakfast","cuisine":"Russian","texture":"Moderate","prepTimeMin":2,"cookTimeMin":20,"servings":2,"tags":["healthy","grain"],"ingredients":[{"canonicalName":"buckwheat","displayName":"Toasted Buckwheat Groats","quantity":1.0,"unit":"cup"},{"canonicalName":"water","displayName":"Filtered Water","quantity":2.0,"unit":"cups"},{"canonicalName":"onion","displayName":"Yellow Onion","quantity":1.0,"unit":"piece"}],"instructions":["1. Rinse buckwheat thoroughly in cold water.","2. Combine buckwheat and water in a pot. Bring to a boil.","3. Reduce heat to low, cover, and simmer for 15-18 mins until water is absorbed.","4. Meanwhile, sauté onions in a teaspoon of oil until caramelized.","5. Fluff kasha with a fork and stir in the golden onions."]},
-    {"id":"r4","title":"Vinegret (Beet and Pickle Salad)","category":"Salad","cuisine":"Russian","texture":"Moderate","prepTimeMin":20,"cookTimeMin":0,"servings":4,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"beets","displayName":"Boiled and Peeled Beets","quantity":2.0,"unit":"piece"},{"canonicalName":"peas","displayName":"Green Peas (Canned or Thawed)","quantity":1.0,"unit":"cup"},{"canonicalName":"potato","displayName":"Boiled Potatoes","quantity":2.0,"unit":"piece"},{"canonicalName":"pickles","displayName":"Dill Pickles","quantity":3.0,"unit":"piece"}],"instructions":["1. Dice the boiled beets, potatoes, and pickles into 1/4 inch cubes.","2. In a large bowl, combine the diced vegetables and peas.","3. Dress with 1 tbsp sunflower or olive oil and a dash of salt.","4. Mix well until everything is coated in the vibrant red beet juice. Chill for 1 hour before serving."]},
-    {"id":"r5","title":"Ukha (Clear Fish Soup)","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":30,"servings":4,"tags":["healthy","fish"],"ingredients":[{"canonicalName":"white_fish","displayName":"Cod or Sea Bass Fillets","quantity":14.0,"unit":"oz"},{"canonicalName":"potato","displayName":"Potatoes","quantity":2.0,"unit":"piece"},{"canonicalName":"onion","displayName":"Onion","quantity":1.0,"unit":"piece"},{"canonicalName":"dill","displayName":"Fresh Dill","quantity":1.0,"unit":"bunch"}],"instructions":["1. Bring 5 cups of water to a boil. Add diced potatoes and a whole onion (to be removed later).","2. Simmer for 10 mins. Add the fish, cut into large chunks.","3. Simmer gently for 15 mins. Remove the onion.","4. Season with black peppercorns and salt. Stir in a generous amount of chopped fresh dill just before serving."]},
-    {"id":"r6","title":"Sorrel Schi (Green Borscht)","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":20,"servings":4,"tags":["healthy","vitamin-c"],"ingredients":[{"canonicalName":"sorrel","displayName":"Fresh Sorrel Leaves","quantity":7.0,"unit":"oz"},{"canonicalName":"potato","displayName":"Potatoes","quantity":2.0,"unit":"piece"},{"canonicalName":"egg","displayName":"Hard-Boiled Eggs","quantity":2.0,"unit":"piece"}],"instructions":["1. Boil diced potatoes in 4 cups of water until soft.","2. Finely chop the sorrel and add to the pot. Cook for only 2-3 mins (sorrel wilts fast).","3. Turn off heat. Stir in chopped hard-boiled eggs.","4. Serve hot or cold with a dollop of yogurt."]},
-    {"id":"r7","title":"Garlic Roasted Rabbit","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":50,"servings":4,"tags":["lean","protein"],"ingredients":[{"canonicalName":"rabbit","displayName":"Lean Rabbit Meat (Jointed)","quantity":1.1,"unit":"lb"},{"canonicalName":"garlic","displayName":"Garlic Cloves (Crushed)","quantity":4.0,"unit":"piece"},{"canonicalName":"sour_cream","displayName":"Low-Fat Sour Cream (for coating)","quantity":2.0,"unit":"tbsp"}],"instructions":["1. Rub rabbit pieces with crushed garlic, salt, and pepper.","2. Lightly coat with sour cream.","3. Place in a roasting dish, cover with foil, and bake at 350F for 40 mins.","4. Remove foil and roast for another 10 mins until golden."]},
-    {"id":"r8","title":"Baked Honey-Cinnamon Apples","category":"Dessert","cuisine":"Russian","texture":"Soft","prepTimeMin":5,"cookTimeMin":20,"servings":2,"tags":["healthy","fruit"],"ingredients":[{"canonicalName":"apple","displayName":"Large Crisp Apples","quantity":2.0,"unit":"piece"},{"canonicalName":"honey","displayName":"Raw Honey","quantity":1.0,"unit":"tbsp"},{"canonicalName":"cinnamon","displayName":"Ground Cinnamon","quantity":0.5,"unit":"tsp"}],"instructions":["1. Preheat oven to 375F.","2. Core the apples but do not cut all the way through the bottom.","3. Fill the center of each apple with honey and a sprinkle of cinnamon.","4. Place in a baking dish with a splash of water at the bottom.","5. Bake for 20-25 mins until the apples are soft but still hold their shape."]},
-    {"id":"r9","title":"Barley Mushroom Pot","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":40,"servings":4,"tags":["healthy","fiber"],"ingredients":[{"canonicalName":"barley","displayName":"Pearl Barley","quantity":0.5,"unit":"cup"},{"canonicalName":"mushrooms","displayName":"Dried Porcini or Fresh Cremini","quantity":1.8,"unit":"oz"},{"canonicalName":"onion","displayName":"Onion","quantity":1.0,"unit":"piece"}],"instructions":["1. If using dried mushrooms, soak in hot water for 20 mins.","2. Boil 6 cups of water. Add rinsed barley and simmer for 20 mins.","3. Sauté chopped mushrooms and onions, then add to the barley.","4. Simmer for another 20 mins until barley is tender and chewy."]},
-    {"id":"r10","title":"Garlic Steamed Zucchini","category":"Side","cuisine":"Russian","texture":"Soft","prepTimeMin":5,"cookTimeMin":10,"servings":2,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"zucchini","displayName":"Medium Zucchini","quantity":2.0,"unit":"piece"},{"canonicalName":"garlic","displayName":"Garlic (Minced)","quantity":2.0,"unit":"clove"}],"instructions":["1. Slice zucchini into half-moons.","2. Steam for 8-10 mins until tender.","3. Toss immediately with fresh minced garlic and a pinch of salt while hot."]},
-    {"id":"r11","title":"Lean Olivier Salad","category":"Salad","cuisine":"Russian","texture":"Moderate","prepTimeMin":25,"cookTimeMin":0,"servings":4,"tags":["protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Turkey Breast (Boiled & Diced)","quantity":7.0,"unit":"oz"},{"canonicalName":"yogurt","displayName":"Plain Non-Fat Greek Yogurt","quantity":0.5,"unit":"cup"},{"canonicalName":"cucumber","displayName":"Pickled Cucumber","quantity":2.0,"unit":"piece"},{"canonicalName":"egg","displayName":"Hard-Boiled Egg","quantity":1.0,"unit":"piece"}],"instructions":["1. Combine diced turkey, pickles, and chopped egg in a bowl.","2. Add boiled peas and diced carrots if available.","3. Mix with Greek yogurt (replaces mayo) and a touch of mustard.","4. Season with salt and lots of black pepper."]},
-    {"id":"r12","title":"Herb Infused Kefir","category":"Snack","cuisine":"Russian","texture":"Soft","prepTimeMin":2,"cookTimeMin":0,"servings":1,"tags":["probiotic"],"ingredients":[{"canonicalName":"kefir","displayName":"Plain Low-Fat Kefir","quantity":1.0,"unit":"cup"},{"canonicalName":"dill","displayName":"Fresh Dill (Minced)","quantity":1.0,"unit":"tsp"},{"canonicalName":"cucumber","displayName":"Grated Cucumber","quantity":2.0,"unit":"tbsp"}],"instructions":["1. Pour kefir into a glass.","2. Stir in grated cucumber and dill.","3. Enjoy as a refreshing, gut-healthy snack."]},
-    {"id":"r13","title":"Okroshka (Cold Kefir Soup)","category":"Soup","cuisine":"Russian","texture":"Moderate","prepTimeMin":15,"cookTimeMin":0,"servings":2,"tags":["healthy","summer"],"ingredients":[{"canonicalName":"cucumber","displayName":"Fresh Cucumber","quantity":1.0,"unit":"piece"},{"canonicalName":"radish","displayName":"Radishes","quantity":4.0,"unit":"piece"},{"canonicalName":"kefir","displayName":"Cold Kefir","quantity":2.0,"unit":"cups"},{"canonicalName":"egg","displayName":"Boiled Egg","quantity":1.0,"unit":"piece"}],"instructions":["1. Finely dice cucumber, radishes, and the boiled egg.","2. Place in a bowl and pour ice-cold kefir over the top.","3. Season with salt and garnish with green onions and dill. Serve immediately."]},
-    {"id":"r14","title":"Onion-Baked Pollock","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":5,"cookTimeMin":15,"servings":2,"tags":["healthy","omega3"],"ingredients":[{"canonicalName":"pollock","displayName":"Pollock Fillets","quantity":10.5,"unit":"oz"},{"canonicalName":"onion","displayName":"Yellow Onion (Sliced thin)","quantity":1.0,"unit":"piece"},{"canonicalName":"lemon","displayName":"Lemon","quantity":0.5,"unit":"piece"}],"instructions":["1. Preheat oven to 400F.","2. Place fish on a baking sheet lined with onion rings.","3. Squeeze lemon over the fish and season with salt.","4. Bake for 12-15 mins until the fish flakes easily."]},
-    {"id":"r15","title":"Stuffed Cabbage (Golubtsi - Lean)","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":30,"cookTimeMin":45,"servings":4,"tags":["healthy","fiber"],"ingredients":[{"canonicalName":"cabbage","displayName":"Large Cabbage Leaves","quantity":8.0,"unit":"piece"},{"canonicalName":"ground_turkey","displayName":"Lean Ground Turkey","quantity":10.5,"unit":"oz"},{"canonicalName":"rice","displayName":"Cooked Brown Rice","quantity":1.0,"unit":"cup"}],"instructions":["1. Blanch cabbage leaves in boiling water until pliable.","2. Mix turkey and rice together. Season with salt and pepper.","3. Place a portion of meat in each leaf and roll tightly.","4. Arrange rolls in a pot, cover with tomato sauce, and simmer for 40 mins on low heat."]},
-    {"id":"r16","title":"Boiled Beef Tongue Platter","category":"Appetizer","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":120,"servings":6,"tags":["protein"],"ingredients":[{"canonicalName":"beef_tongue","displayName":"Whole Beef Tongue","quantity":1.0,"unit":"piece"},{"canonicalName":"bay_leaf","displayName":"Bay Leaves","quantity":2.0,"unit":"piece"}],"instructions":["1. Boil tongue in water with bay leaves and peppercorns for 2 hours.","2. Immediately plunge into cold water to peel off the outer skin.","3. Slice very thin. Serve cold with horseradish or mustard."]},
-    {"id":"r17","title":"Spring Radish Salad","category":"Salad","cuisine":"Russian","texture":"Crunchy","prepTimeMin":5,"cookTimeMin":0,"servings":2,"tags":["healthy","fresh"],"ingredients":[{"canonicalName":"radish","displayName":"Red Radishes (Sliced)","quantity":10.0,"unit":"piece"},{"canonicalName":"chives","displayName":"Fresh Chives (Chopped)","quantity":0.5,"unit":"bunch"},{"canonicalName":"sunflower_oil","displayName":"Sunflower Oil","quantity":1.0,"unit":"tbsp"}],"instructions":["1. Toss sliced radishes and chives in a bowl.","2. Drizzle with oil and a pinch of salt. Serve as a bright side dish."]},
-    {"id":"r18","title":"Buckwheat-Stuffed Pumpkin","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":60,"servings":4,"tags":["healthy","vegetable"],"ingredients":[{"canonicalName":"pumpkin","displayName":"Small Sugar Pumpkin","quantity":1.0,"unit":"piece"},{"canonicalName":"buckwheat","displayName":"Cooked Buckwheat","quantity":1.0,"unit":"cup"},{"canonicalName":"mushrooms","displayName":"Mushrooms (Sautéed)","quantity":1.0,"unit":"cup"}],"instructions":["1. Cut the top off the pumpkin and remove seeds.","2. Mix cooked buckwheat and sautéed mushrooms. Fill the pumpkin.","3. Place the top back on. Bake at 350F for 1 hour until the pumpkin flesh is soft."]},
-    {"id":"r19","title":"Lite Mushroom Stroganoff","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":20,"servings":2,"tags":["healthy","vegetarian"],"ingredients":[{"canonicalName":"mushrooms","displayName":"Mixed Fresh Mushrooms","quantity":10.5,"unit":"oz"},{"canonicalName":"yogurt","displayName":"Non-Fat Greek Yogurt","quantity":0.5,"unit":"cup"},{"canonicalName":"onion","displayName":"Onion","quantity":1.0,"unit":"piece"}],"instructions":["1. Sauté onions and mushrooms until golden.","2. Turn off the heat. Stir in Greek yogurt (do not boil, or it will curdle).","3. Season with salt and lots of black pepper. Serve over buckwheat."]},
-    {"id":"r20","title":"Baked Trout with Lemon & Garlic","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":5,"cookTimeMin":20,"servings":2,"tags":["healthy","omega3"],"ingredients":[{"canonicalName":"trout","displayName":"Fresh Rainbow Trout","quantity":1.0,"unit":"piece"},{"canonicalName":"garlic","displayName":"Garlic (Slivered)","quantity":2.0,"unit":"cloves"}],"instructions":["1. Make shallow slits in the trout. Insert garlic slivers.","2. Squeeze lemon over the fish.","3. Bake at 375F for 20 mins until cooked through."]},
-    {"id":"r21","title":"Russian Cabbage Slaw","category":"Salad","cuisine":"Russian","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":4,"tags":["healthy","fiber"],"ingredients":[{"canonicalName":"cabbage","displayName":"Green Cabbage (Shredded)","quantity":2.0,"unit":"cups"},{"canonicalName":"carrot","displayName":"Large Carrot (Grated)","quantity":1.0,"unit":"piece"},{"canonicalName":"vinegar","displayName":"Apple Cider Vinegar","quantity":1.0,"unit":"tbsp"}],"instructions":["1. Mix shredded cabbage and grated carrot.","2. Massage with a little salt to soften.","3. Toss with vinegar and a touch of oil."]},
-    {"id":"r22","title":"Kasha with Wild Berries","category":"Breakfast","cuisine":"Russian","texture":"Moderate","prepTimeMin":2,"cookTimeMin":20,"servings":2,"tags":["healthy","antioxidant"],"ingredients":[{"canonicalName":"oats","displayName":"Steel Cut Oats","quantity":1.0,"unit":"cup"},{"canonicalName":"berries","displayName":"Fresh or Frozen Berries","quantity":0.25,"unit":"cup"}],"instructions":["1. Cook oats in water according to package.","2. Stir in berries and a drop of honey just before serving."]},
-    {"id":"r23","title":"Kiev Chicken (Baked Version)","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":20,"cookTimeMin":25,"servings":2,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"chicken","displayName":"Chicken Breast","quantity":2.0,"unit":"piece"},{"canonicalName":"herb_butter","displayName":"Light Herb Butter Blend","quantity":1.0,"unit":"tbsp"}],"instructions":["1. Flatten chicken breasts. Place a small piece of herb butter in the center.","2. Roll tightly and secure with toothpicks.","3. Bake at 400F for 25 mins instead of frying."]},
-    {"id":"r24","title":"Traditional Probiotic Sauerkraut","category":"Side","cuisine":"Russian","texture":"Crunchy","prepTimeMin":20,"cookTimeMin":0,"servings":10,"tags":["probiotic","fermented"],"ingredients":[{"canonicalName":"cabbage","displayName":"Large Cabbage","quantity":1.0,"unit":"head"},{"canonicalName":"salt","displayName":"Sea Salt","quantity":1.0,"unit":"tbsp"}],"instructions":["1. Shred cabbage thin. Mix with salt.","2. Pack tightly into a jar until juices rise above cabbage.","3. Let sit at room temperature for 3-5 days to ferment."]},
-    {"id":"r25","title":"Egg and Dill Salad","category":"Lunch","cuisine":"Russian","texture":"Moderate","prepTimeMin":10,"cookTimeMin":0,"servings":2,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"egg","displayName":"Boiled Eggs","quantity":4.0,"unit":"piece"},{"canonicalName":"dill","displayName":"Fresh Dill","quantity":1.0,"unit":"tbsp"},{"canonicalName":"yogurt","displayName":"Greek Yogurt","quantity":2.0,"unit":"tbsp"}],"instructions":["1. Chop eggs and dill.","2. Mix with yogurt and a dash of mustard. Serve on whole wheat toast."]},
-    {"id":"r26","title":"Turkey Stuffed Peppers","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":20,"cookTimeMin":40,"servings":4,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"bell_pepper","displayName":"Large Peppers","quantity":4.0,"unit":"piece"},{"canonicalName":"turkey","displayName":"Ground Turkey","quantity":7.0,"unit":"oz"}],"instructions":["1. Core peppers. Stuff with mixture of ground turkey and cooked rice.","2. Place in a baking dish with 1 cup of water and tomato paste.","3. Bake at 375F for 40 mins."]},
-    {"id":"r27","title":"Cold Summer Beet Soup","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":0,"servings":4,"tags":["healthy","summer"],"ingredients":[{"canonicalName":"beets","displayName":"Boiled Beets (Grated)","quantity":2.0,"unit":"piece"},{"canonicalName":"kefir","displayName":"Cold Low-Fat Kefir","quantity":3.0,"unit":"cups"}],"instructions":["1. Mix grated beets with ice-cold kefir.","2. Add chopped cucumber and hard-boiled egg.","3. Chill and serve with plenty of fresh dill."]},
-    {"id":"r28","title":"Steamed Salmon with Garlic-Dill","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":5,"cookTimeMin":12,"servings":2,"tags":["healthy","omega3"],"ingredients":[{"canonicalName":"salmon","displayName":"Salmon Fillet","quantity":10.5,"unit":"oz"},{"canonicalName":"dill","displayName":"Fresh Dill","quantity":1.0,"unit":"tbsp"},{"canonicalName":"garlic","displayName":"Garlic (Minced)","quantity":1.0,"unit":"clove"}],"instructions":["1. Steam salmon for 10-12 mins.","2. Toss dill, garlic, and 1 tsp oil. Brush over the hot fish."]},
-    {"id":"r29","title":"Buckwheat and Zucchini Sauté","category":"Lunch","cuisine":"Russian","texture":"Moderate","prepTimeMin":10,"cookTimeMin":20,"servings":2,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"buckwheat","displayName":"Cooked Buckwheat","quantity":1.0,"unit":"cup"},{"canonicalName":"zucchini","displayName":"Zucchini (Diced)","quantity":0.5,"unit":"piece"}],"instructions":["1. Sauté diced zucchini with onions until soft.","2. Stir in cooked buckwheat and heat through."]},
-    {"id":"r30","title":"Chicken and Prune Roast","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":45,"servings":4,"tags":["healthy","sweet"],"ingredients":[{"canonicalName":"chicken","displayName":"Chicken Thighs (Skinless)","quantity":1.1,"unit":"lb"},{"canonicalName":"prunes","displayName":"Whole Prunes","quantity":10.0,"unit":"piece"}],"instructions":["1. Place chicken and prunes in a baking dish.","2. Add garlic and a splash of water.","3. Bake at 375F for 45 mins until chicken is tender."]},
-    {"id":"r31","title":"Chewy Barley with Raspberries","category":"Breakfast","cuisine":"Russian","texture":"Chewy","prepTimeMin":5,"cookTimeMin":30,"servings":2,"tags":["healthy","fiber"],"ingredients":[{"canonicalName":"barley","displayName":"Pearl Barley","quantity":1.0,"unit":"cup"},{"canonicalName":"raspberries","displayName":"Fresh Raspberries","quantity":0.5,"unit":"cup"}],"instructions":["1. Cook barley in water until chewy and soft.","2. Top with fresh berries and a sprinkle of cinnamon."]},
-    {"id":"r32","title":"New Potatoes with Dill & Sea Salt","category":"Side","cuisine":"Russian","texture":"Soft","prepTimeMin":5,"cookTimeMin":15,"servings":4,"tags":["healthy","classic"],"ingredients":[{"canonicalName":"potato","displayName":"Small Young Potatoes","quantity":1.1,"unit":"lb"},{"canonicalName":"dill","displayName":"Fresh Dill (Chopped)","quantity":2.0,"unit":"tbsp"}],"instructions":["1. Boil unpeeled potatoes until tender.","2. Drain and toss with fresh dill and coarse sea salt while steaming hot."]},
-    {"id":"r33","title":"Quick Garlic Dill Pickles","category":"Snack","cuisine":"Russian","texture":"Crunchy","prepTimeMin":15,"cookTimeMin":0,"servings":10,"tags":["healthy","snack"],"ingredients":[{"canonicalName":"cucumber","displayName":"Kirby Cucumbers","quantity":5.0,"unit":"piece"},{"canonicalName":"garlic","displayName":"Garlic","quantity":2.0,"unit":"cloves"}],"instructions":["1. Slice cucumbers into spears.","2. Pack into a jar with garlic and dill.","3. Pour over a simple brine of water and salt. Refrigerate for 24 hours."]},
-    {"id":"r34","title":"Pumpkin Millet Porridge","category":"Breakfast","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":30,"servings":4,"tags":["healthy","vegetable"],"ingredients":[{"canonicalName":"millet","displayName":"Millet Groats","quantity":1.0,"unit":"cup"},{"canonicalName":"pumpkin","displayName":"Pumpkin (Grated or Cubed)","quantity":1.0,"unit":"cup"}],"instructions":["1. Simmer millet and pumpkin together in water or low-fat milk.","2. Cook until the pumpkin has dissolved into a creamy orange porridge."]},
-    {"id":"r35","title":"Lean Chicken Liver and Onions","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":15,"servings":2,"tags":["healthy","iron"],"ingredients":[{"canonicalName":"liver","displayName":"Chicken Liver (Cleaned)","quantity":10.5,"unit":"oz"},{"canonicalName":"onion","displayName":"Large Onion (Sliced)","quantity":1.0,"unit":"piece"}],"instructions":["1. Sauté onions in a non-stick pan with a drop of oil.","2. Add liver and sear quickly (approx 3 mins per side) to keep it tender and healthy."]},
-    {"id":"r36","title":"Herb-Crusted Turkey Roast","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":60,"servings":6,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"turkey","displayName":"Whole Lean Turkey Breast","quantity":2.2,"unit":"lb"}],"instructions":["1. Rub turkey with a mix of dried herbs and salt.","2. Roast at 350F for 1 hour until internal temp reaches 165F."]},
-    {"id":"r37","title":"Vegetable Ragout (Russian Stew)","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":30,"servings":4,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"potato","displayName":"Potato","quantity":2.0,"unit":"piece"},{"canonicalName":"eggplant","displayName":"Eggplant (Diced)","quantity":1.0,"unit":"piece"},{"canonicalName":"zucchini","displayName":"Zucchini (Diced)","quantity":1.0,"unit":"piece"}],"instructions":["1. Layer diced vegetables in a pot with a little water and tomato paste.","2. Simmer covered for 30 mins until all veggies are tender."]},
-    {"id":"r38","title":"Baked Cod on Onion Bed","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":5,"cookTimeMin":20,"servings":2,"tags":["healthy","omega3"],"ingredients":[{"canonicalName":"cod","displayName":"Cod Fillet","quantity":10.5,"unit":"oz"},{"canonicalName":"onion","displayName":"Onion Rings","quantity":1.0,"unit":"cup"}],"instructions":["1. Arrange onion rings on a baking sheet.","2. Place fish on top and bake at 400F for 15-20 mins."]},
-    {"id":"r39","title":"Apple-Celery Fiber Salad","category":"Salad","cuisine":"Russian","texture":"Crunchy","prepTimeMin":10,"cookTimeMin":0,"servings":2,"tags":["healthy","fresh"],"ingredients":[{"canonicalName":"apple","displayName":"Crisp Green Apple","quantity":1.0,"unit":"piece"},{"canonicalName":"celery","displayName":"Celery Stalks","quantity":2.0,"unit":"piece"}],"instructions":["1. Dice apple and celery.","2. Toss with a dressing made of Greek yogurt and lemon juice."]},
-    {"id":"r40","title":"Lean Beef and Cabbage Soup","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":90,"servings":6,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"beef","displayName":"Lean Beef Stew Meat","quantity":10.5,"unit":"oz"},{"canonicalName":"cabbage","displayName":"Green Cabbage","quantity":0.5,"unit":"head"}],"instructions":["1. Slow simmer beef chunks until tender.","2. Add shredded cabbage and simmer for another 30 mins."]},
-    {"id":"r41","title":"Poached Halibut with Fresh Herbs","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":5,"cookTimeMin":10,"servings":2,"tags":["healthy","fish"],"ingredients":[{"canonicalName":"halibut","displayName":"Halibut Steaks","quantity":10.5,"unit":"oz"}],"instructions":["1. Simmer fish in a very small amount of herb-infused water for 8 mins."]},
-    {"id":"r42","title":"Buckwheat Kasha with Walnuts","category":"Breakfast","cuisine":"Russian","texture":"Moderate","prepTimeMin":2,"cookTimeMin":20,"servings":2,"tags":["healthy","omega3"],"ingredients":[{"canonicalName":"buckwheat","displayName":"Buckwheat Groats","quantity":1.0,"unit":"cup"},{"canonicalName":"walnuts","displayName":"Walnut Halves","quantity":0.25,"unit":"cup"}],"instructions":["1. Cook buckwheat.","2. Stir in crushed walnuts for healthy fats and crunch."]},
-    {"id":"r43","title":"Honey-Roasted Parsnips","category":"Side","cuisine":"Russian","texture":"Moderate","prepTimeMin":10,"cookTimeMin":30,"servings":4,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"parsnips","displayName":"Parsnip Spears","quantity":4.0,"unit":"piece"}],"instructions":["1. Toss parsnips with oil and a drizzle of honey.","2. Roast at 400F until caramelized."]},
-    {"id":"r44","title":"Baked Meatballs with Rice (Tefteli)","category":"Dinner","cuisine":"Russian","texture":"Soft","prepTimeMin":20,"cookTimeMin":30,"servings":4,"tags":["healthy","protein"],"ingredients":[{"canonicalName":"ground_beef","displayName":"Extra Lean Beef","quantity":14.0,"unit":"oz"},{"canonicalName":"rice","displayName":"Cooked Brown Rice","quantity":0.5,"unit":"cup"}],"instructions":["1. Mix beef and rice. Form into small balls.","2. Bake in a light tomato sauce for 30 mins."]},
-    {"id":"r45","title":"Savory Mushroom Caviar","category":"Appetizer","cuisine":"Russian","texture":"Soft","prepTimeMin":15,"cookTimeMin":20,"servings":6,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"mushrooms","displayName":"Fresh Button Mushrooms","quantity":1.1,"unit":"lb"}],"instructions":["1. Sauté mushrooms and onions.","2. Pulse in a blender until it reaches a spreadable texture."]},
-    {"id":"r46","title":"Cold Roast Veal Slices","category":"Lunch","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":90,"servings":8,"tags":["lean","protein"],"ingredients":[{"canonicalName":"veal","displayName":"Lean Veal Roast","quantity":2.2,"unit":"lb"}],"instructions":["1. Roast veal until juicy.","2. Let cool completely, slice paper-thin, and serve with mustard."]},
-    {"id":"r47","title":"Wild Berry Compote (No Sugar)","category":"Dessert","cuisine":"Russian","texture":"Soft","prepTimeMin":5,"cookTimeMin":15,"servings":6,"tags":["healthy","fruit"],"ingredients":[{"canonicalName":"berries","displayName":"Mixed Wild Berries","quantity":2.0,"unit":"cups"}],"instructions":["1. Simmer berries in 4 cups water.","2. Sweeten with a touch of stevia if needed. Serve chilled."]},
-    {"id":"r48","title":"Light Spinach-Egg Drop Soup","category":"Soup","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":15,"servings":4,"tags":["healthy","vitamin-c"],"ingredients":[{"canonicalName":"spinach","displayName":"Fresh Spinach","quantity":7.0,"unit":"oz"},{"canonicalName":"egg","displayName":"Whisked Large Eggs","quantity":2.0,"unit":"piece"}],"instructions":["1. Simmer spinach in broth.","2. Drizzle in whisked eggs slowly while stirring."]},
-    {"id":"r49","title":"Baked Cod and Carrot Medley","category":"Dinner","cuisine":"Russian","texture":"Tender","prepTimeMin":10,"cookTimeMin":20,"servings":2,"tags":["healthy","fish"],"ingredients":[{"canonicalName":"cod","displayName":"Cod Fillet","quantity":10.5,"unit":"oz"},{"canonicalName":"carrot","displayName":"Grated Carrots","quantity":1.0,"unit":"piece"}],"instructions":["1. Layer fish and carrots on foil.","2. Bake at 375F for 20 mins."]},
-    {"id":"r50","title":"Roasted Garlic Beet Dip","category":"Appetizer","cuisine":"Russian","texture":"Soft","prepTimeMin":10,"cookTimeMin":40,"servings":4,"tags":["healthy","vegan"],"ingredients":[{"canonicalName":"beets","displayName":"Medium Beets","quantity":2.0,"unit":"piece"},{"canonicalName":"garlic","displayName":"Garlic Head","quantity":1.0,"unit":"head"}],"instructions":["1. Roast whole beets and garlic in foil.","2. Peel and blend together until smooth. Season with salt."]}
+    {
+      "id": "rus_1",
+      "title": "Classic Red Borscht",
+      "category": "Soup",
+      "description": "A vibrant and nutrient-dense beet soup that is a staple of Russian cuisine. Packed with root vegetables and high in antioxidants, it's both healthy and deeply satisfying.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 60,
+      "servings": 6,
+      "tags": ["healthy", "beets", "soup"],
+      "ingredients": [
+        {"canonicalName": "beets", "displayName": "Large beets, peeled and grated", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "cabbage", "displayName": "Green cabbage, shredded", "quantity": 0.5, "unit": "head"},
+        {"canonicalName": "potato", "displayName": "Yukon Gold potatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "carrot", "displayName": "Carrot, grated", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "tomato_paste", "displayName": "Tomato paste", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon_juice", "displayName": "Lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a large pot, sauté the onions and carrots until golden. Add the shredded cabbage and potatoes.",
+        "Add 8 cups of water or vegetable broth. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+        "In a separate skillet, sauté the grated beets with tomato paste and lemon juice for 10 minutes. This preserves the bright red color.",
+        "Add the beet mixture to the main pot. Simmer for another 30 minutes until all vegetables are tender.",
+        "Serve hot with a dollop of non-fat Greek yogurt and fresh dill."
+      ],
+      "nutrition": {"calories": 140, "proteinGrams": 4, "carbsGrams": 28, "fatGrams": 2}
+    },
+    {
+      "id": "rus_2",
+      "title": "Buckwheat Kasha with Sautéed Mushrooms",
+      "category": "Breakfast",
+      "description": "Buckwheat (Grechka) is a powerhouse of nutrition in Russia. This savory porridge is high in fiber and minerals, paired with earthy mushrooms for a complete healthy meal.",
+      "cuisine": "Russian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["healthy", "grain", "vegan"],
+      "ingredients": [
+        {"canonicalName": "buckwheat", "displayName": "Toasted buckwheat groats", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "mushroom", "displayName": "Fresh mushrooms, sliced", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Rinse the buckwheat groats. Combine with 2 cups of water and a pinch of salt in a pot.",
+        "Bring to a boil, then cover and simmer on low for 15-18 minutes until the water is absorbed.",
+        "While the buckwheat cooks, sauté onions and mushrooms in a non-stick skillet until golden brown.",
+        "Fluff the buckwheat with a fork and stir in the mushroom mixture. Serve warm."
+      ]
+    },
+    {
+      "id": "rus_3",
+      "title": "Lite Beef Stroganoff over Buckwheat",
+      "category": "Dinner",
+      "description": "A healthy variation of the world-famous Russian dish. We use lean beef sirloin and replace heavy cream with high-protein Greek yogurt for a rich but light sauce.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["protein", "lean", "classic"],
+      "ingredients": [
+        {"canonicalName": "beef", "displayName": "Lean beef sirloin, thin strips", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "mushroom", "displayName": "Sliced mushrooms", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "onion", "displayName": "Onion, sliced", "quantity": 0.5, "unit": "piece"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "mustard", "displayName": "Dijon mustard", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Sear the beef strips in a hot pan until browned. Remove and set aside.",
+        "Sauté onions and mushrooms in the same pan for 5 minutes.",
+        "Whisk together the Greek yogurt and mustard. Turn the heat to the lowest setting.",
+        "Return the beef to the pan and stir in the yogurt mixture. Warm through for 1 minute (do not boil).",
+        "Serve over cooked buckwheat or whole wheat noodles."
+      ]
+    },
+    {
+      "id": "rus_4",
+      "title": "Vinegret (Root Vegetable Salad)",
+      "category": "Salad",
+      "description": "A traditional beet and pickle salad. This colorful dish is a great source of fiber and probiotics from the fermented pickles, finished with a light oil dressing.",
+      "cuisine": "Russian",
+      "texture": "Moderate",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["healthy", "vegan", "fiber"],
+      "ingredients": [
+        {"canonicalName": "beets", "displayName": "Boiled beets, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "potato", "displayName": "Boiled potatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "carrot", "displayName": "Boiled carrots, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "pickles", "displayName": "Dill pickles, diced", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "peas", "displayName": "Green peas", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "In a large bowl, combine the diced beets, potatoes, carrots, and pickles.",
+        "Add the green peas and 1 tablespoon of sunflower or olive oil.",
+        "Toss until all vegetables are coated in the pink beet juice. Season with a pinch of salt.",
+        "Chill for at least 30 minutes before serving to let the flavors meld."
+      ]
+    },
+    {
+      "id": "rus_5",
+      "title": "Shchi (Fresh Cabbage Soup)",
+      "category": "Soup",
+      "description": "One of Russia's most ancient and essential dishes. A light but filling cabbage soup that emphasizes the natural sweetness of fresh vegetables.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 6,
+      "tags": ["healthy", "vegetable", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "cabbage", "displayName": "Green cabbage, shredded", "quantity": 1.0, "unit": "head"},
+        {"canonicalName": "potato", "displayName": "Potatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "Small onion, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Roma tomato, diced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Bring 6 cups of water to a boil. Add the shredded cabbage and potatoes.",
+        "Sauté onions in a separate pan until soft, then add to the soup pot.",
+        "Add the diced tomatoes and simmer on low for 35 minutes until cabbage is very tender.",
+        "Season with bay leaves, salt, and pepper. Serve with fresh parsley."
+      ]
+    },
+    {
+      "id": "rus_6",
+      "title": "Ukha (Clear Fish Soup)",
+      "category": "Soup",
+      "description": "A light and clean fish broth that highlights the quality of the ingredients. Historically a favorite of Russian sailors, it is rich in protein and extremely healthy.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["healthy", "fish", "omega3"],
+      "ingredients": [
+        {"canonicalName": "white_fish", "displayName": "Cod or Sea Bass fillets, cubed", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "potato", "displayName": "Yukon Gold potatoes, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "dill", "displayName": "Fresh dill, chopped", "quantity": 1.0, "unit": "bunch"},
+        {"canonicalName": "onion", "displayName": "Small onion, whole", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Bring 5 cups of water to a boil. Add diced potatoes and a whole peeled onion.",
+        "Simmer for 10 minutes, then add the fish chunks.",
+        "Cook gently for 15 more minutes. Remove and discard the whole onion.",
+        "Season with salt and whole black peppercorns. Stir in a generous amount of fresh dill before serving."
+      ]
+    },
+    {
+      "id": "rus_7",
+      "title": "Roasted Rabbit with Garlic & Herbs",
+      "category": "Dinner",
+      "description": "Rabbit is a traditional lean meat in Russian rural cooking. This recipe roasts the meat with garlic and herbs for a high-protein, low-fat alternative to beef.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 50,
+      "servings": 4,
+      "tags": ["lean", "protein", "baked"],
+      "ingredients": [
+        {"canonicalName": "rabbit", "displayName": "Lean rabbit meat, pieces", "quantity": 1.1, "unit": "lb"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, crushed", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "rosemary", "displayName": "Dried rosemary", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Rub the rabbit pieces with crushed garlic, salt, and rosemary.",
+        "Place in a baking dish and cover with foil. Bake at 375°F for 40 minutes.",
+        "Remove foil and roast for 10 more minutes until golden brown."
+      ]
+    },
+    {
+      "id": "rus_8",
+      "title": "Baked Apples with Honey & Berries",
+      "category": "Dessert",
+      "description": "A light and healthy traditional Russian dessert. Tart apples are cored and filled with honey, then baked until soft and caramelized.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["healthy", "fruit", "no-sugar-added"],
+      "ingredients": [
+        {"canonicalName": "apple", "displayName": "Large crisp apples", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "honey", "displayName": "Raw honey", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "walnut", "displayName": "Chopped walnuts", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Preheat oven to 375°F. Core the apples, leaving the bottom intact.",
+        "Fill the center of each apple with a mixture of honey and walnuts.",
+        "Place in a baking dish with a splash of water. Bake for 20 minutes until tender."
+      ]
+    },
+    {
+      "id": "rus_9",
+      "title": "Russian Mushroom Barley Soup",
+      "category": "Soup",
+      "description": "A rustic and filling soup that combines the chewiness of pearl barley with the deep umami of wild mushrooms. High in fiber and very satisfying.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "tags": ["healthy", "fiber", "vegan"],
+      "ingredients": [
+        {"canonicalName": "barley", "displayName": "Pearl barley, rinsed", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "mushroom", "displayName": "Dried porcini or fresh mushrooms", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "potato", "displayName": "Potato, diced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Soak dried mushrooms for 20 mins if using. Boil barley and potatoes in 6 cups of water.",
+        "Sauté chopped mushrooms and onions, then add to the soup pot.",
+        "Simmer for 40 minutes until barley is tender and chewy. Season with salt and pepper."
+      ]
+    },
+    {
+      "id": "rus_10",
+      "title": "Steamed Zucchini with Fresh Dill",
+      "category": "Side Dish",
+      "description": "A very simple and clean side dish. Zucchini is steamed gently to preserve its nutrients and then tossed with aromatic Russian dill.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["healthy", "vegan", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "zucchini", "displayName": "Medium zucchini, sliced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "dill", "displayName": "Fresh dill, chopped", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Steam zucchini rounds for 8-10 minutes until tender.",
+        "Toss immediately with fresh dill and a tiny pinch of sea salt."
+      ]
+    },
+    {
+      "id": "rus_11",
+      "title": "Lite Olivier Salad with Turkey",
+      "category": "Salad",
+      "description": "A healthy update to the famous 'Russian Salad'. We use lean boiled turkey and high-protein Greek yogurt to create a satisfying and nutrient-dense meal.",
+      "cuisine": "Russian",
+      "texture": "Moderate",
+      "prepTimeMin": 25,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["protein", "lean", "classic"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Boiled turkey breast, diced", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "egg", "displayName": "Hard-boiled egg, chopped", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "pickles", "displayName": "Dill pickles, diced", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "In a large bowl, mix diced turkey, chopped egg, and diced pickles.",
+        "Add Greek yogurt and a teaspoon of mustard. Season with plenty of black pepper.",
+        "Toss gently until well combined. Serve chilled."
+      ]
+    },
+    {
+      "id": "rus_12",
+      "title": "Probiotic Kefir with Herbs",
+      "category": "Snack",
+      "description": "Kefir is a legendary fermented drink in Russia. This savory version is blended with fresh herbs and acts as a powerful aid to digestion.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 2,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["probiotic", "healthy", "beverage"],
+      "ingredients": [
+        {"canonicalName": "kefir", "displayName": "Plain low-fat kefir", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "dill", "displayName": "Fresh dill, minced", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "cucumber", "displayName": "Grated cucumber", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Pour kefir into a glass. Stir in the minced dill and grated cucumber. Enjoy cold as a healthy snack."
+      ]
+    },
+    {
+      "id": "rus_13",
+      "title": "Okroshka (Cold Summer Soup)",
+      "category": "Soup",
+      "description": "The ultimate Russian summer cooler. A refreshing and low-calorie cold soup made with a base of probiotic kefir and fresh garden vegetables.",
+      "cuisine": "Russian",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["healthy", "summer", "probiotic"],
+      "ingredients": [
+        {"canonicalName": "kefir", "displayName": "Cold low-fat kefir", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "cucumber", "displayName": "Diced fresh cucumber", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "radish", "displayName": "Sliced radishes", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "egg", "displayName": "Hard-boiled egg, diced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Finely dice the cucumber, radishes, and egg. Place them in a large bowl.",
+        "Pour ice-cold kefir over the vegetables. Season with salt and lots of fresh dill.",
+        "Mix well and serve immediately while cold."
+      ]
+    },
+    {
+      "id": "rus_14",
+      "title": "Baked Cod with Onions",
+      "category": "Dinner",
+      "description": "A very common and healthy Russian way to prepare white fish. Cod is baked on a bed of sweet onions, which keep the fish moist and flavorful.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "cod", "displayName": "Fresh cod fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, sliced thin", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "lemon", "displayName": "Lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F. Line a baking sheet with the onion rings.",
+        "Place cod on top of the onions. Drizzle with lemon juice and a tiny bit of salt.",
+        "Bake for 12-15 minutes until fish is opaque and flaky."
+      ]
+    },
+    {
+      "id": "rus_15",
+      "title": "Lean Stuffed Cabbage (Golubtsi)",
+      "category": "Dinner",
+      "description": "Traditional cabbage rolls made healthier with lean ground turkey and whole grain brown rice. Simmered in a light tomato sauce.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 30,
+      "cookTimeMin": 45,
+      "servings": 4,
+      "tags": ["protein", "fiber", "classic"],
+      "ingredients": [
+        {"canonicalName": "cabbage", "displayName": "Large cabbage leaves, blanched", "quantity": 8.0, "unit": "piece"},
+        {"canonicalName": "turkey", "displayName": "Lean ground turkey", "quantity": 10.0, "unit": "oz"},
+        {"canonicalName": "rice", "displayName": "Cooked brown rice", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Mix ground turkey with brown rice and seasonings.",
+        "Place a portion of the meat mixture in each cabbage leaf and roll tightly.",
+        "Simmer the rolls in a pot with a cup of tomato puree and 1/2 cup water for 40 minutes over low heat."
+      ]
+    },
+    {
+      "id": "rus_16",
+      "title": "Boiled Beef Tongue Platter",
+      "category": "Appetizer",
+      "description": "A Russian delicacy. High in iron and protein, the tongue is slow-boiled until tender and served thin with sharp horseradish.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 120,
+      "servings": 6,
+      "tags": ["protein", "iron-rich", "traditional"],
+      "ingredients": [
+        {"canonicalName": "beef_tongue", "displayName": "Whole beef tongue", "quantity": 2.0, "unit": "lbs"},
+        {"canonicalName": "bay_leaf", "displayName": "Bay leaves", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Boil the tongue in water with bay leaves for 2 hours until tender.",
+        "Immediately place in cold water to peel off the outer skin. Slice thin and serve cold."
+      ]
+    },
+    {
+      "id": "rus_17",
+      "title": "Spring Radish & Chive Salad",
+      "category": "Salad",
+      "description": "A crunchy and peppery salad that marks the beginning of spring in Russia. Low in calories and extremely fresh.",
+      "cuisine": "Russian",
+      "texture": "Crunchy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "radish", "displayName": "Red radishes, sliced", "quantity": 1.0, "unit": "bunch"},
+        {"canonicalName": "chives", "displayName": "Fresh chives, chopped", "quantity": 0.5, "unit": "bunch"}
+      ],
+      "instructions": [
+        "Toss sliced radishes with chopped chives. Drizzle with a teaspoon of sunflower oil and a pinch of salt."
+      ]
+    },
+    {
+      "id": "rus_18",
+      "title": "Stuffed Baked Pumpkin",
+      "category": "Dinner",
+      "description": "A rustic and decorative meal. A whole sugar pumpkin is stuffed with a savory mixture of buckwheat and mushrooms, then baked until tender.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 60,
+      "servings": 4,
+      "tags": ["vegetarian", "fiber", "vitamin-a"],
+      "ingredients": [
+        {"canonicalName": "pumpkin", "displayName": "Small sugar pumpkin", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "buckwheat", "displayName": "Cooked buckwheat", "quantity": 1.5, "unit": "cups"},
+        {"canonicalName": "mushroom", "displayName": "Sautéed mushrooms", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Cut the top off the pumpkin and remove seeds. Fill with a mixture of buckwheat and mushrooms.",
+        "Replace the top and bake at 350°F for 60 minutes until the pumpkin flesh is soft."
+      ]
+    },
+    {
+      "id": "rus_19",
+      "title": "Lite Mushroom Stroganoff",
+      "category": "Dinner",
+      "description": "A vegetarian take on the classic. We use a variety of fresh mushrooms to provide a meaty texture, with a light yogurt sauce.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["vegetarian", "healthy", "fiber"],
+      "ingredients": [
+        {"canonicalName": "mushroom", "displayName": "Mixed mushrooms, sliced", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "yogurt", "displayName": "Plain low-fat yogurt", "quantity": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Sauté mushrooms and onions until golden. Turn off heat and stir in yogurt and black pepper.",
+        "Serve over whole wheat noodles or buckwheat."
+      ]
+    },
+    {
+      "id": "rus_20",
+      "title": "Baked Trout with Garlic",
+      "category": "Dinner",
+      "description": "Fresh river trout is a staple in many Russian regions. Baked simply with garlic and herbs to maintain its delicate flavor and omega-3 profile.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 5,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["omega3", "protein", "healthy"],
+      "ingredients": [
+        {"canonicalName": "trout", "displayName": "Fresh rainbow trout, whole or fillet", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, slivered", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Stuff garlic slivers into shallow cuts in the fish. Bake at 375°F for 20 minutes until flaky."
+      ]
+    },
+    {
+      "id": "rus_21",
+      "title": "Russian Cabbage & Carrot Slaw",
+      "category": "Salad",
+      "description": "A staple side dish (Vitamin Salad). The cabbage is massaged with salt to tenderize it, creating a crisp and high-fiber accompaniment to any meal.",
+      "cuisine": "Russian",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "vitamin-rich"],
+      "ingredients": [
+        {"canonicalName": "cabbage", "displayName": "Green cabbage, shredded", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "carrot", "displayName": "Carrot, grated", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Mix shredded cabbage and carrots with a pinch of salt. Massage with your hands until the cabbage softens.",
+        "Toss with apple cider vinegar and a drop of oil."
+      ]
+    },
+    {
+      "id": "rus_22",
+      "title": "Steel-Cut Oats with Berries",
+      "category": "Breakfast",
+      "description": "A wholesome and high-fiber start to the day. Steel-cut oats take longer to cook but provide excellent satiety and nutrition.",
+      "cuisine": "Russian",
+      "texture": "Moderate",
+      "prepTimeMin": 2,
+      "cookTimeMin": 25,
+      "servings": 2,
+      "tags": ["healthy", "fiber", "antioxidant"],
+      "ingredients": [
+        {"canonicalName": "oats", "displayName": "Steel-cut oats", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "berries", "displayName": "Fresh or frozen berries", "quantity": 0.5, "unit": "cup"}
+      ],
+      "instructions": [
+        "Cook oats in 3 cups of water for 25 minutes until tender but still having a 'bite'. Top with fresh berries."
+      ]
+    },
+    {
+      "id": "rus_23",
+      "title": "Lite Baked Chicken Kiev",
+      "category": "Dinner",
+      "description": "A much lighter version of the buttery classic. We use a small amount of herb butter and bake the chicken instead of deep-frying it.",
+      "cuisine": "Russian",
+      "texture": "Tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 25,
+      "servings": 2,
+      "tags": ["protein", "classic", "baked"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken breasts", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "herb_butter", "displayName": "Light herb butter", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Flatten chicken breasts. Place a small piece of herb butter inside and roll tightly.",
+        "Secure with toothpicks and bake at 400°F for 25 minutes until golden and cooked through."
+      ]
+    },
+    {
+      "id": "rus_24",
+      "title": "Probiotic Sauerkraut (Kvashenaya Kapusta)",
+      "category": "Side Dish",
+      "description": "Traditional Russian fermented cabbage. Naturally rich in probiotics and Vitamin C, it is a vital part of the winter diet in Russia.",
+      "cuisine": "Russian",
+      "texture": "Crunchy",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 10,
+      "tags": ["probiotic", "fermented", "superfood"],
+      "ingredients": [
+        {"canonicalName": "cabbage", "displayName": "Large green cabbage", "quantity": 2.0, "unit": "lbs"},
+        {"canonicalName": "salt", "displayName": "Sea salt", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Shred the cabbage and mix with salt. Massage for 10 mins until juice is released.",
+        "Pack tightly into a glass jar and let sit at room temp for 3-5 days to ferment."
+      ]
+    },
+    {
+      "id": "rus_25",
+      "title": "Russian Egg & Dill Salad",
+      "category": "Lunch",
+      "description": "A light and high-protein salad. Hard-boiled eggs are mashed with fresh dill and a touch of yogurt for a healthy lunch option.",
+      "cuisine": "Russian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["protein", "eggs", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Hard-boiled eggs", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "dill", "displayName": "Fresh dill, chopped", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Mash the eggs in a bowl. Stir in the dill and yogurt. Season with salt and pepper."
+      ]
+    }
   ]
 }

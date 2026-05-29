@@ -1,0 +1,79 @@
+{
+  "recipes": [
+    {
+      "id": "med_1",
+      "title": "Mediterranean Greek Salad with Lemony Dressing",
+      "description": "The quintessential Greek salad. Crisp cucumbers, ripe tomatoes, and salty feta cheese are tossed in a vibrant lemon and oregano vinaigrette. Refreshing and packed with nutrients.",
+      "category": "Salad",
+      "cuisine": "Mediterranean",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["healthy", "fresh", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "English cucumber, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Ripe Roma tomatoes, diced", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "red_onion", "displayName": "Red onion, thinly sliced", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "feta", "displayName": "Feta cheese, crumbled", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "olive", "displayName": "Kalamata olives", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "lemon_juice", "displayName": "Fresh lemon juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "oregano", "displayName": "Dried oregano", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "In a large bowl, combine the diced cucumber, tomatoes, red onion, and olives.",
+        "In a small jar, whisk together the olive oil, lemon juice, and oregano to create the dressing.",
+        "Pour the dressing over the vegetables and toss gently to coat.",
+        "Top with crumbled feta cheese and serve immediately while fresh and crisp."
+      ]
+    },
+    {
+      "id": "med_2",
+      "title": "Herb-Roasted Salmon with Asparagus",
+      "description": "A perfect one-pan Mediterranean dinner. Heart-healthy salmon is roasted with tender asparagus and a bright lemon-herb rub.",
+      "category": "Dinner",
+      "cuisine": "Mediterranean",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "baked", "protein"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Fresh salmon fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "asparagus", "displayName": "Asparagus spears, trimmed", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "lemon", "displayName": "Lemon slices", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "dill", "displayName": "Fresh dill, chopped", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F. Line a baking sheet with parchment paper.",
+        "Place salmon fillets and asparagus on the sheet. Drizzle with a little olive oil.",
+        "Season with salt, pepper, and fresh dill. Place lemon slices on top of the salmon.",
+        "Bake for 12-15 minutes until salmon is flaky and asparagus is tender-crisp."
+      ]
+    },
+    {
+      "id": "med_3",
+      "title": "Authentic Chickpea Hummus",
+      "description": "A smooth and creamy Mediterranean staple. High in plant-based protein and fiber, this homemade hummus is seasoned with garlic and tahini.",
+      "category": "Appetizer",
+      "cuisine": "Mediterranean",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "protein"],
+      "ingredients": [
+        {"canonicalName": "chickpea", "displayName": "Canned chickpeas, rinsed", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "tahini", "displayName": "Tahini (sesame paste)", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "garlic", "displayName": "Garlic clove", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place chickpeas, tahini, lemon juice, and garlic in a food processor.",
+        "Process until smooth, adding a splash of water if needed to reach desired consistency.",
+        "Serve with raw vegetable sticks or whole wheat pita."
+      ]
+    }
+  ]
+}
