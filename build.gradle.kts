@@ -1,7 +1,8 @@
 import org.jetbrains.compose.desktop.application.dsl.TargetFormat
 
 plugins {
-    alias(libs.plugins.kotlin.jvm)
+    alias(libs.plugins.kotlin.multiplatform)
+    alias(libs.plugins.android.application)
     alias(libs.plugins.kotlin.serialization)
     alias(libs.plugins.compose)
     alias(libs.plugins.compose.compiler)
@@ -11,43 +12,86 @@ plugins {
 group = "com.homepantry"
 version = "1.0.0"
 
-repositories {
-    google()
-    mavenCentral()
-    maven("https://maven.pkg.jetbrains.space/public/p/compose/dev")
+kotlin {
+    androidTarget {
+        compilerOptions {
+            jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_11)
+        }
+    }
+    
+    jvm("desktop")
+    
+    sourceSets {
+        val commonMain by getting {
+            dependencies {
+                implementation(compose.runtime)
+                implementation(compose.foundation)
+                implementation(compose.material3)
+                implementation(compose.materialIconsExtended)
+                implementation(compose.components.resources)
+                implementation(compose.components.uiToolingPreview)
+                
+                implementation(libs.sqldelight.coroutines)
+                implementation(libs.koin.core)
+                implementation(libs.koin.compose)
+                
+                implementation(libs.voyager.navigator)
+                implementation(libs.voyager.screenmodel)
+                implementation(libs.voyager.transitions)
+                implementation(libs.voyager.koin)
+                implementation(libs.voyager.tab.navigator)
+                
+                implementation(libs.kotlinx.serialization.json)
+                implementation(libs.kotlinx.datetime)
+                implementation(libs.kotlinx.coroutines.core)
+            }
+        }
+        
+        val androidMain by getting {
+            dependencies {
+                implementation(libs.androidx.activity.compose)
+                implementation(libs.androidx.appcompat)
+                implementation(libs.androidx.core.ktx)
+                implementation(libs.sqldelight.android.driver)
+                implementation(libs.koin.android)
+                
+                // ML Kit and CameraX
+                implementation(libs.mlkit.barcode.scanning)
+                implementation(libs.androidx.camera.core)
+                implementation(libs.androidx.camera.camera2)
+                implementation(libs.androidx.camera.lifecycle)
+                implementation(libs.androidx.camera.view)
+                implementation(libs.guava)
+            }
+        }
+        
+        val desktopMain by getting {
+            dependencies {
+                implementation(compose.desktop.currentOs)
+                implementation(libs.sqldelight.jdbc.driver)
+                implementation(libs.sqlite.jdbc)
+                implementation(libs.kotlinx.coroutines.swing)
+            }
+        }
+    }
 }
 
-dependencies {
-    // Compose Desktop
-    implementation(compose.desktop.currentOs)
-    implementation(compose.material3)
-    implementation(compose.materialIconsExtended)
+android {
+    namespace = "com.homepantry"
+    compileSdk = 34
 
-    // SQLDelight
-    implementation(libs.sqldelight.jdbc.driver)
-    implementation(libs.sqldelight.coroutines)
-    implementation(libs.sqlite.jdbc)
-
-    // Koin DI
-    implementation(libs.koin.core)
-    implementation(libs.koin.compose)
-
-    // Voyager Navigation
-    implementation(libs.voyager.navigator)
-    implementation(libs.voyager.screenmodel)
-    implementation(libs.voyager.transitions)
-    implementation(libs.voyager.koin)
-    implementation(libs.voyager.tab.navigator)
-
-    // Kotlinx
-    implementation(libs.kotlinx.serialization.json)
-    implementation(libs.kotlinx.datetime)
-    implementation(libs.kotlinx.coroutines.core)
-    implementation(libs.kotlinx.coroutines.swing)
-
-    // Testing
-    testImplementation(libs.kotlin.test)
-    testImplementation(libs.kotlinx.coroutines.test)
+    defaultConfig {
+        applicationId = "com.homepantry"
+        minSdk = 24
+        targetSdk = 34
+        versionCode = 1
+        versionName = "1.0.0"
+    }
+    
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_11
+        targetCompatibility = JavaVersion.VERSION_11
+    }
 }
 
 sqldelight {

@@ -1,0 +1,672 @@
+{
+  "recipes": [
+    {
+      "id": "jap_1",
+      "title": "Authentic Silken Miso Soup",
+      "description": "A delicate and probiotic-rich staple of the Japanese diet. This soup features silky tofu and umami-packed dashi, prepared carefully to preserve the health benefits of the miso paste.",
+      "category": "Soup",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["healthy", "probiotic", "light"],
+      "ingredients": [
+        {"canonicalName": "dashi", "displayName": "Awase Dashi (Bonito & Kelp broth)", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "miso", "displayName": "White Miso Paste (Shiro Miso)", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "tofu", "displayName": "Silken Tofu, diced into 1/2 inch cubes", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "wakame", "displayName": "Dried Wakame Seaweed, rehydrated", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "scallion", "displayName": "Green Onions, finely sliced", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "In a medium saucepan, bring the dashi broth to a gentle simmer over medium heat. Do not let it reach a rolling boil.",
+        "Add the rehydrated wakame seaweed and the diced tofu to the broth. Simmer gently for 1-2 minutes until the tofu is warmed through.",
+        "Reduce the heat to the lowest setting. Place the miso paste into a small mesh strainer and dip it into the broth. Use a spoon to whisk the miso through the strainer into the liquid until fully dissolved. This ensures no clumps remain.",
+        "Remove the pan from the heat immediately. Do not boil the soup after adding miso, as high heat destroys its beneficial probiotics and delicate flavor.",
+        "Ladle into small bowls and garnish with fresh green onions. Serve hot."
+      ],
+      "nutrition": {"calories": 90, "proteinGrams": 6, "carbsGrams": 7, "fatGrams": 3}
+    },
+    {
+      "id": "jap_2",
+      "title": "Ginger-Soy Chicken Teriyaki",
+      "description": "A healthy, pan-seared version of the classic Japanese dish. The chicken is glazed in a homemade, low-sugar ginger-honey sauce for a perfect balance of sweet and savory.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["protein", "lean", "classic"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Boneless, skinless chicken thighs", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "soy_sauce", "displayName": "Low-sodium soy sauce", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "mirin", "displayName": "Mirin (Sweet rice wine)", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "honey", "displayName": "Raw honey", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, finely grated", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "garlic", "displayName": "Garlic clove, minced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Pat the chicken thighs completely dry with paper towels. Lightly season both sides with a pinch of salt.",
+        "In a small bowl, whisk together the soy sauce, mirin, honey, grated ginger, and minced garlic to create the teriyaki glaze.",
+        "Heat a non-stick skillet over medium-high heat. Place the chicken in the pan and sear for 5-6 minutes per side until golden brown and cooked through.",
+        "Remove the chicken from the pan and let it rest on a cutting board for 3 minutes. Wipe any excess oil out of the skillet.",
+        "Pour the teriyaki sauce into the same skillet and simmer over medium heat for 2-3 minutes until it reduces into a thick, glossy syrup.",
+        "Slice the chicken into 1/2 inch strips, return them to the pan, and toss thoroughly to coat in the glaze.",
+        "Serve hot over steamed brown rice or fresh greens."
+      ],
+      "nutrition": {"calories": 320, "proteinGrams": 35, "carbsGrams": 12, "fatGrams": 14}
+    },
+    {
+      "id": "jap_3",
+      "title": "Chilled Zaru Soba (Buckwheat Noodles)",
+      "description": "A refreshing and high-fiber meal featuring 100% buckwheat noodles. This cold dish is a Japanese summer classic, perfect for a light and nutrient-dense lunch.",
+      "category": "Lunch",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "refreshing"],
+      "ingredients": [
+        {"canonicalName": "soba", "displayName": "Organic Soba noodles (100% Buckwheat)", "quantity": 7.0, "unit": "oz"},
+        {"canonicalName": "tsuyu", "displayName": "Mentsuyu (Dipping sauce)", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "wasabi", "displayName": "Wasabi paste", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "nori", "displayName": "Kizami Nori (Shredded seaweed)", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "scallion", "displayName": "Green onions, finely chopped", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "Bring a large pot of water to a boil. Add the soba noodles and cook according to package directions (usually 4-5 minutes). Do not overcook.",
+        "Drain the noodles and immediately plunge them into a large bowl of ice-cold water.",
+        "Gently rub the noodles with your hands under the cold water to remove the surface starch. This is essential for a clean, non-sticky texture.",
+        "Drain thoroughly and arrange on a bamboo tray or a flat plate. Sprinkle the shredded nori seaweed on top.",
+        "Prepare individual cups of chilled mentsuyu dipping sauce.",
+        "To eat, mix small amounts of wasabi and chopped green onions into your sauce cup. Dip a bite-sized portion of noodles into the sauce and enjoy."
+      ],
+      "nutrition": {"calories": 240, "proteinGrams": 12, "carbsGrams": 48, "fatGrams": 1}
+    },
+    {
+      "id": "jap_4",
+      "title": "Miso-Glazed Black Cod (Saikyo Yaki)",
+      "description": "A world-renowned Japanese seafood dish. The buttery texture of the black cod is enhanced by a slow marination in a sweet and savory white miso paste.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["omega3", "baked", "premium"],
+      "ingredients": [
+        {"canonicalName": "cod", "displayName": "Black Cod (Sablefish) fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "miso", "displayName": "Saikyo Miso (Sweet white miso)", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "mirin", "displayName": "Mirin (Sweet rice wine)", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sake", "displayName": "Cooking Sake", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a small bowl, whisk together the white miso, mirin, and sake until it forms a smooth paste.",
+        "Coat the fish fillets generously on all sides with the miso mixture. Place in a shallow dish, cover, and marinate in the refrigerator for at least 6 hours (up to 48 hours for the deepest flavor).",
+        "Preheat your broiler to high.",
+        "Gently wipe off the excess miso from the fish with your fingers or a paper towel. Do not rinse the fish; you want a very thin layer remaining.",
+        "Place the fillets on a baking sheet lined with parchment paper.",
+        "Broil 4-5 inches from the heat for 8-10 minutes. The top should develop charred spots and the fish should be buttery and flaky. Serve with a wedge of lemon."
+      ]
+    },
+    {
+      "id": "jap_5",
+      "title": "Healthy Agedashi Tofu",
+      "category": "Appetizer",
+      "description": "A pan-seared version of the classic deep-fried appetizer. Firm tofu cubes are lightly coated in starch and served in a warm, savory dashi broth with fresh ginger.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegetarian", "tofu", "classic"],
+      "ingredients": [
+        {"canonicalName": "tofu", "displayName": "Firm tofu, pressed", "quantity": 1.0, "unit": "block"},
+        {"canonicalName": "potato_starch", "displayName": "Potato starch (or Cornstarch)", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "mirin", "displayName": "Mirin", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "scallion", "displayName": "Green onions, sliced", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "Wrap the tofu block in paper towels and place a heavy plate on top for 15 minutes to press out excess water.",
+        "In a small saucepan, bring the dashi, soy sauce, and mirin to a simmer. Turn off the heat and keep the broth warm.",
+        "Cut the pressed tofu into 1.5-inch cubes.",
+        "Dredge each tofu cube in potato starch until fully coated, shaking off any excess. You want a very thin layer.",
+        "Heat a thin layer of oil in a non-stick skillet over medium-high heat. Pan-fry the tofu cubes for 2-3 minutes per side until a thin, crispy shell forms.",
+        "Place the hot tofu cubes into shallow bowls. Pour the warm broth around the base (not over the top) to keep the crust crispy.",
+        "Garnish with a small mound of grated ginger and fresh scallions."
+      ]
+    },
+    {
+      "id": "jap_6",
+      "title": "Classic Oyakodon (Chicken & Egg Bowl)",
+      "category": "Dinner",
+      "description": "A comforting 'parent-and-child' rice bowl. Tender chicken and onions are simmered in a savory dashi broth and finished with a layer of creamy, soft-set egg.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 1,
+      "tags": ["protein", "one-bowl", "comfort-food"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken breast, bite-sized pieces", "quantity": 5.0, "unit": "oz"},
+        {"canonicalName": "egg", "displayName": "Large egg, lightly beaten", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, thinly sliced", "quantity": 0.25, "unit": "piece"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "mirin", "displayName": "Mirin", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "rice", "displayName": "Cooked brown rice", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "In a small skillet, combine the dashi, soy sauce, and mirin. Bring to a simmer over medium heat.",
+        "Add the sliced onions and cook for 2-3 minutes until they begin to soften.",
+        "Add the chicken pieces in a single layer. Simmer for 4-5 minutes until the chicken is fully cooked.",
+        "Pour the beaten egg slowly over the chicken and onions in a circular motion.",
+        "Cover the skillet and cook for 45-60 seconds until the egg is just set but still slightly moist.",
+        "Carefully slide the entire mixture onto a bowl of hot brown rice. Garnish with a sprinkle of fresh greens."
+      ]
+    },
+    {
+      "id": "jap_7",
+      "title": "Salmon Shioyaki (Salt-Grilled Salmon)",
+      "description": "The quintessential Japanese breakfast fish. Fresh salmon is salt-cured briefly to draw out moisture and then grilled until the skin is perfectly blistered and the flesh is tender.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["omega3", "protein", "simple"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon fillets with skin", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "salt", "displayName": "Sea salt (Coarse)", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "daikon", "displayName": "Grated daikon radish", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon", "displayName": "Lemon wedges", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Pat the salmon fillets dry with paper towels. Sprinkle salt generously on both sides.",
+        "Let the fish sit at room temperature for 15-20 minutes. This draws out excess moisture for a crispier skin.",
+        "Wipe away any beaded moisture with a clean paper towel.",
+        "Heat a grill pan or non-stick skillet over medium-high heat. Place the salmon skin-side down.",
+        "Cook for 4-5 minutes until the skin is dark golden and crispy. Flip and cook for another 3-4 minutes until just opaque in the center.",
+        "Serve with a side of grated daikon (squeeze out some liquid) and a fresh lemon wedge."
+      ]
+    },
+    {
+      "id": "jap_8",
+      "title": "Healthy Vegetable Okonomiyaki",
+      "description": "A 'as-you-like-it' savory pancake packed with fiber-rich cabbage. This version uses whole wheat flour and is pan-steamed for a light, fluffy texture.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["fiber", "vegetable-heavy", "comfort-food"],
+      "ingredients": [
+        {"canonicalName": "cabbage", "displayName": "Green cabbage, finely shredded", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "flour", "displayName": "Whole wheat or Oat flour", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "egg", "displayName": "Large eggs", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "green_onion", "displayName": "Green onions, sliced", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "ginger", "displayName": "Pickled ginger (Beni shoga)", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a large bowl, whisk together the flour, dashi, and eggs until smooth.",
+        "Fold in the shredded cabbage, green onions, and pickled ginger until every strand of cabbage is lightly coated.",
+        "Heat a teaspoon of oil in a large non-stick skillet over medium heat.",
+        "Pour half the batter into the pan and shape into a circle about 1-inch thick. Do not press down.",
+        "Cook for 5-6 minutes until the bottom is browned. Flip carefully.",
+        "Cover the pan with a lid and cook for another 5 minutes to steam the cabbage through.",
+        "Serve topped with a thin drizzle of tonkatsu sauce and a dollop of Greek yogurt."
+      ]
+    },
+    {
+      "id": "jap_9",
+      "title": "Simmered Hijiki Seaweed with Carrots",
+      "description": "A traditional side dish (ish) rich in minerals and fiber. Rehydrated black seaweed is simmered with sweet carrots and a savory-sweet glaze.",
+      "category": "Side Dish",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegan", "mineral-rich", "fiber"],
+      "ingredients": [
+        {"canonicalName": "hijiki", "displayName": "Dried Hijiki seaweed", "quantity": 1.0, "unit": "oz"},
+        {"canonicalName": "carrot", "displayName": "Carrot, julienned", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.5, "unit": "tablespoons"},
+        {"canonicalName": "mirin", "displayName": "Mirin", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sugar", "displayName": "Honey or Sugar", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Soak the dried hijiki in plenty of water for 20 minutes. Drain and rinse thoroughly.",
+        "Sauté the julienned carrots in a small pot with a drop of oil for 2 minutes.",
+        "Add the drained hijiki and stir-fry for another minute.",
+        "Add 1 cup of dashi (or water), soy sauce, mirin, and honey.",
+        "Simmer over medium-low heat until the liquid is almost entirely evaporated (about 12-15 minutes).",
+        "Let cool to room temperature before serving. This dish keeps well in the fridge."
+      ]
+    },
+    {
+      "id": "jap_10",
+      "title": "Cold Tofu with Grated Ginger (Hiyayakko)",
+      "description": "The simplest and most refreshing Japanese appetizer. Cold silken tofu is topped with pungent ginger and scallions to highlight its clean, creamy flavor.",
+      "category": "Appetizer",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "low-cal", "no-cook"],
+      "ingredients": [
+        {"canonicalName": "tofu", "displayName": "Silken tofu, chilled", "quantity": 1.0, "unit": "block"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, grated", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "scallion", "displayName": "Green onions, minced", "quantity": 1.0, "unit": "stalk"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce (for drizzling)", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Drain the silken tofu and carefully pat dry with a paper towel.",
+        "Cut the block into two large cubes and place each in a small chilled dish.",
+        "Top each cube with a small mound of freshly grated ginger and a sprinkle of minced green onions.",
+        "Drizzle with a tiny amount of soy sauce just before serving. Eat while very cold."
+      ]
+    },
+    {
+      "id": "jap_11",
+      "title": "Simmered Kabocha Squash",
+      "description": "A traditional Japanese vegetable dish. Sweet kabocha squash is simmered with its skin on to preserve nutrients and create a beautiful contrast in textures.",
+      "category": "Side Dish",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegan", "vitamin-a", "healthy"],
+      "ingredients": [
+        {"canonicalName": "kabocha", "displayName": "Kabocha squash, 1-inch chunks", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sugar", "displayName": "Sugar or Honey", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Wash the squash thoroughly. Leave the skin on, but scrape out the seeds. Cut into 1-inch chunky pieces.",
+        "Place the squash skin-side down in a single layer in a large pot.",
+        "Add the dashi, soy sauce, sugar, and salt. The liquid should cover about half the squash.",
+        "Bring to a boil, then reduce heat to medium-low. Place a lid directly on top of the squash pieces (or use a drop-lid) to distribute heat evenly.",
+        "Simmer for 12-15 minutes until the squash is tender when pierced with a fork. Let it cool slightly in the liquid before serving to let the flavors absorb."
+      ]
+    },
+    {
+      "id": "jap_12",
+      "title": "Onigiri (Rice Triangles with Tuna)",
+      "description": "A portable and healthy snack. Warm rice is shaped by hand into triangles and filled with a savory mixture of tuna and healthy yogurt.",
+      "category": "Lunch",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["snack", "portable", "classic"],
+      "ingredients": [
+        {"canonicalName": "rice", "displayName": "Cooked short-grain white rice", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "tuna", "displayName": "Canned tuna, drained", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "nori", "displayName": "Nori seaweed strips", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "salt", "displayName": "Sea salt for hands", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "In a small bowl, mix the drained tuna with Greek yogurt and a pinch of salt until well combined.",
+        "Wet your hands with water and sprinkle a small amount of salt over your palms.",
+        "Take about 1/2 cup of warm rice and create a small indentation in the center.",
+        "Place 1 teaspoon of the tuna mixture into the hole. Carefully close the rice around it to cover the filling.",
+        "Gently press the rice into a triangle shape using your palms. Do not squeeze too hard.",
+        "Wrap a strip of nori around the bottom center of the triangle. Repeat for the remaining rice."
+      ]
+    },
+    {
+      "id": "jap_13",
+      "title": "Sukiyaki-Style Beef & Tofu",
+      "description": "A lightened version of the classic hot pot. Thinly sliced lean beef and firm tofu are simmered with leafy greens in a sweet-savory broth.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["protein", "one-pot", "lean"],
+      "ingredients": [
+        {"canonicalName": "beef", "displayName": "Lean beef sirloin, paper-thin slices", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "tofu", "displayName": "Firm tofu, cubed", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, sliced", "quantity": 0.5, "unit": "piece"},
+        {"canonicalName": "shiitake", "displayName": "Shiitake mushrooms", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "In a large skillet or shallow pot, bring the dashi, soy sauce, and a tablespoon of honey to a simmer.",
+        "Add the sliced onions and mushrooms. Cook for 3 minutes until the onions soften.",
+        "Add the tofu cubes and continue simmering for another 3 minutes.",
+        "Arrange the beef slices in a single layer in the remaining space. Simmer for only 2-3 minutes until the beef is just cooked through (do not overcook).",
+        "Serve hot as a complete one-pot meal."
+      ]
+    },
+    {
+      "id": "jap_14",
+      "title": "Spinach Goma-ae (Sesame Dressing)",
+      "description": "A nutrient-packed side dish where blanched spinach is tossed in a rich, nutty paste of freshly toasted and ground sesame seeds.",
+      "category": "Side Dish",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 3,
+      "servings": 2,
+      "tags": ["vegan", "nut-free", "healthy"],
+      "ingredients": [
+        {"canonicalName": "spinach", "displayName": "Fresh bunch spinach", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "sesame", "displayName": "White sesame seeds", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.5, "unit": "tablespoons"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Toast the sesame seeds in a dry skillet over medium heat for 2 minutes until fragrant and golden. Grind the warm seeds in a mortar and pestle until they are mostly crushed.",
+        "Stir the soy sauce and honey into the ground seeds to form a thick paste.",
+        "Blanch the spinach in boiling water for exactly 60 seconds. Drain and plunge into ice water to stop the cooking.",
+        "Squeeze the spinach as dry as possible with your hands. Cut into 2-inch logs.",
+        "Toss the spinach thoroughly with the sesame paste until every leaf is coated. Serve chilled."
+      ]
+    },
+    {
+      "id": "jap_15",
+      "title": "Steamed White Fish with Ginger",
+      "description": "A light and elegant preparation that highlights the freshness of the fish. Steaming with ginger and sake creates a delicate broth and tender texture.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 2,
+      "tags": ["omega3", "steamed", "clean-eating"],
+      "ingredients": [
+        {"canonicalName": "fish", "displayName": "White fish fillets (Cod or Sea Bass)", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "ginger", "displayName": "Fresh ginger, julienned", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sake", "displayName": "Cooking Sake", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "scallion", "displayName": "Green onions, sliced", "quantity": 1.0, "unit": "stalk"},
+        {"canonicalName": "soy_sauce", "displayName": "Light soy sauce", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Pat the fish fillets dry and place them in a shallow, heat-proof dish.",
+        "Scatter the ginger strips over the fish and drizzle with sake and light soy sauce.",
+        "Set up a steamer basket over a pot of boiling water. Place the dish into the basket, cover, and steam over high heat for 10-12 minutes.",
+        "The fish is done when it is opaque and flakes easily with a fork.",
+        "Garnish with fresh green onions and serve immediately with the steaming juices poured over the top."
+      ]
+    },
+    {
+      "id": "jap_16",
+      "title": "Healthy Yakisoba (Stir-Fry Noodles)",
+      "category": "Dinner",
+      "description": "A lightened-up version of the classic street food. We use extra cabbage and lean protein, with a homemade sauce that’s low in sugar.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["noodles", "vegetable-heavy", "quick"],
+      "ingredients": [
+        {"canonicalName": "yakisoba", "displayName": "Yakisoba noodles (steamed)", "quantity": 1.0, "unit": "pack"},
+        {"canonicalName": "chicken", "displayName": "Chicken breast, thin strips", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "cabbage", "displayName": "Green cabbage, shredded", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "carrot", "displayName": "Carrot, julienned", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "worcestershire", "displayName": "Worcestershire sauce", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a small bowl, whisk together the Worcestershire sauce, soy sauce, and a dash of honey to make the yakisoba sauce.",
+        "Heat a non-stick wok or large skillet over high heat. Sear the chicken strips for 3 minutes until cooked through. Remove and set aside.",
+        "Add the cabbage and carrots to the same pan. Stir-fry for 3-4 minutes until the vegetables are slightly softened but still crisp.",
+        "Add the yakisoba noodles and 2 tablespoons of water. Cover the pan for 1 minute to steam and loosen the noodles.",
+        "Add the chicken and sauce back into the pan. Toss everything together for 2 minutes until the sauce is evenly distributed and the noodles are slightly caramelized.",
+        "Serve hot, garnished with pickled ginger (beni shoga)."
+      ]
+    },
+    {
+      "id": "jap_17",
+      "title": "Mizutaki (Chicken Hot Pot)",
+      "category": "Dinner",
+      "description": "A healthy, one-pot dish where ingredients are simmered in a light kombu broth. Each bite is dipped in refreshing ponzu sauce for a clean and satisfying meal.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["one-pot", "protein", "traditional"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken thighs, skinless, cubed", "quantity": 10.0, "unit": "oz"},
+        {"canonicalName": "napa_cabbage", "displayName": "Napa cabbage, chopped", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "tofu", "displayName": "Firm tofu, cubed", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "ponzu", "displayName": "Ponzu sauce (for dipping)", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "shiitake", "displayName": "Shiitake mushrooms", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Fill a large pot with 4 cups of water and a piece of kombu (dried kelp). Let soak for 30 minutes, then bring to a near-boil.",
+        "Remove the kombu just before the water boils. Add the chicken cubes and simmer for 5 minutes, skimming off any foam that rises to the top.",
+        "Add the napa cabbage, mushrooms, and tofu. Simmer for another 10-15 minutes until the chicken is tender and vegetables are soft.",
+        "Serve the pot at the center of the table. To eat, dip individual pieces into small bowls of fresh ponzu sauce."
+      ]
+    },
+    {
+      "id": "jap_18",
+      "title": "Japanese Rice Porridge (Okayu)",
+      "category": "Breakfast",
+      "description": "A gentle and comforting porridge often eaten for breakfast or when feeling unwell. It is remarkably easy on the stomach and highly hydrating.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 2,
+      "cookTimeMin": 35,
+      "servings": 2,
+      "tags": ["gentle", "digestive-aid", "breakfast"],
+      "ingredients": [
+        {"canonicalName": "rice", "displayName": "Short-grain white rice", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 2.5, "unit": "cups"},
+        {"canonicalName": "salt", "displayName": "Sea salt", "quantity": 0.25, "unit": "teaspoon"},
+        {"canonicalName": "umeboshi", "displayName": "Salted plum (Umeboshi)", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Rinse the rice several times until the water runs clear. Drain thoroughly.",
+        "Place the rice and 2.5 cups of water in a heavy pot. Bring to a boil over medium heat.",
+        "Once boiling, reduce the heat to the lowest possible setting. Cover the pot and simmer for 30-40 minutes.",
+        "Check periodically; the rice should be very soft and have a creamy, thick consistency.",
+        "Stir in the salt. Ladle into bowls and place a salted plum (umeboshi) in the center of each. Garnish with scallions if desired."
+      ]
+    },
+    {
+      "id": "jap_19",
+      "title": "Grilled Shiitake with Lemon-Soy",
+      "category": "Appetizer",
+      "description": "A simple way to enjoy the deep, earthy flavor of shiitake mushrooms. Grilling brings out their meatiness, while lemon and soy provide a bright finish.",
+      "cuisine": "Japanese",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 6,
+      "servings": 2,
+      "tags": ["vegan", "low-cal", "grilled"],
+      "ingredients": [
+        {"canonicalName": "shiitake", "displayName": "Large fresh shiitake mushrooms", "quantity": 8.0, "unit": "piece"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "sake", "displayName": "Cooking Sake", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Wipe the mushrooms clean with a damp cloth. Remove and discard the woody stems.",
+        "In a small bowl, whisk together the soy sauce, lemon juice, and sake.",
+        "Heat a dry grill pan or cast-iron skillet over medium-high heat.",
+        "Place the mushrooms in the pan, gills-side up. Cook for 3 minutes until they start to 'sweat'.",
+        "Flip the mushrooms and cook for another 2-3 minutes until they are tender and slightly charred.",
+        "Drizzle with the lemon-soy mixture while still in the pan, toss quickly, and serve hot."
+      ]
+    },
+    {
+      "id": "jap_20",
+      "title": "Chawanmushi (Savory Egg Custard)",
+      "category": "Appetizer",
+      "description": "A delicate, silky steamed egg custard that melts in your mouth. This dish is seasoned with dashi and filled with small treasures of shrimp and mushrooms.",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["steamed", "protein", "classic"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Large eggs", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "dashi", "displayName": "Dashi broth", "quantity": 1.5, "unit": "cups"},
+        {"canonicalName": "soy_sauce", "displayName": "Light soy sauce (Usukuchi)", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "shrimp", "displayName": "Small shrimp, peeled", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "shiitake", "displayName": "Fresh shiitake, sliced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Gently whisk the eggs in a bowl. Avoid creating too many bubbles, as they will leave holes in the final custard.",
+        "Whisk in the dashi broth and light soy sauce. Strain the mixture through a fine-mesh sieve twice to ensure a perfectly smooth texture.",
+        "Place two shrimp and a few slices of shiitake into the bottom of two individual ramekins or tea cups.",
+        "Carefully pour the egg mixture over the fillings until the cups are 3/4 full.",
+        "Cover the cups tightly with foil to prevent steam water from dripping in.",
+        "Place in a steamer over boiling water. Steam on medium heat for 2 minutes, then reduce to the lowest heat and steam for another 12 minutes.",
+        "The custard is done when it is set but still jiggles slightly like jelly. Serve hot."
+      ]
+    },
+    {
+      "id": "jap_21",
+      "title": "Bean Sprout Namul",
+      "description": "A crunchy and nutrient-dense side dish. Fresh bean sprouts are quickly blanched to preserve their snap and then seasoned with garlic and sesame oil.",
+      "category": "Side Dish",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 5,
+      "cookTimeMin": 2,
+      "servings": 2,
+      "tags": ["vegan", "low-cal", "quick"],
+      "ingredients": [
+        {"canonicalName": "bean_sprout", "displayName": "Fresh mung bean sprouts", "quantity": 1.0, "unit": "bag (12oz)"},
+        {"canonicalName": "sesame_oil", "displayName": "Toasted sesame oil", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "garlic", "displayName": "Garlic, finely minced", "quantity": 1.0, "unit": "clove"},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Rinse the bean sprouts in cold water and remove any discolored ends.",
+        "Bring a pot of water to a boil. Blanch the sprouts for exactly 60 seconds.",
+        "Immediately drain and plunge into ice water. Squeeze out as much water as possible without crushing the sprouts.",
+        "In a small bowl, whisk together the sesame oil, minced garlic, and salt.",
+        "Toss the sprouts with the dressing until evenly coated. Serve chilled or at room temperature."
+      ]
+    },
+    {
+      "id": "jap_22",
+      "title": "Daikon Salad with Plum Dressing",
+      "description": "A crisp, hydrating salad featuring julienned daikon radish. The dressing uses traditional salted plums for a unique tart and savory flavor profile.",
+      "category": "Salad",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fresh", "low-cal"],
+      "ingredients": [
+        {"canonicalName": "daikon", "displayName": "Daikon radish, peeled", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "umeboshi", "displayName": "Umeboshi (Salted plum), pitted", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "rice_vinegar", "displayName": "Rice vinegar", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "nori", "displayName": "Shredded Nori", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Cut the daikon into thin matchsticks (julienne). Soak them in ice water for 5 minutes to increase crunchiness, then drain and pat very dry.",
+        "To make the dressing: Mash the umeboshi plum into a paste and whisk with rice vinegar, honey, and a teaspoon of water.",
+        "Toss the daikon with the dressing in a large bowl.",
+        "Arrange on a plate and top with shredded nori and toasted sesame seeds just before serving."
+      ]
+    },
+    {
+      "id": "jap_23",
+      "title": "Miso-Salmon en Papillote",
+      "description": "A foolproof way to cook tender, juicy salmon. The fish is baked in a parchment paper pouch with vegetables and a savory miso glaze, steaming in its own juices.",
+      "category": "Dinner",
+      "cuisine": "Japanese",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "one-pan", "healthy"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "miso", "displayName": "White miso paste", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "honey", "displayName": "Honey", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "shiitake", "displayName": "Shiitake mushrooms, sliced", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, thinly sliced", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C).",
+        "Whisk together the miso, honey, and a teaspoon of water to make a thin glaze.",
+        "Cut two large squares of parchment paper. Place a bed of sliced onions and mushrooms in the center of each.",
+        "Place a salmon fillet on top of the vegetables and brush generously with the miso glaze.",
+        "Fold the parchment paper over the fish and crimp the edges tightly to create a sealed pouch.",
+        "Bake on a sheet pan for 15 minutes. Carefully open the pouches (watch for steam!) and serve immediately."
+      ]
+    },
+    {
+      "id": "jap_24",
+      "title": "Kimpira Gobo (Burdock Root)",
+      "category": "Side Dish",
+      "description": "A classic 'kinpira' (saute-and-simmer) dish. Burdock root and carrots are cut into matchsticks and glazed in a sweet soy sauce for a crunchy, earthy side.",
+      "cuisine": "Japanese",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "traditional"],
+      "ingredients": [
+        {"canonicalName": "gobo", "displayName": "Burdock root (Gobo), scrubbed", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "carrot", "displayName": "Carrot, julienned", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "soy_sauce", "displayName": "Soy sauce", "quantity": 1.5, "unit": "tablespoons"},
+        {"canonicalName": "sugar", "displayName": "Sugar or Honey", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame oil", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Scrape the skin of the burdock root with the back of a knife. Cut into thin matchsticks and soak in water for 5 minutes (to prevent browning), then drain.",
+        "Heat the sesame oil in a pan over medium-high heat. Sauté the burdock matchsticks for 3 minutes.",
+        "Add the carrot matchsticks and sauté for another 2 minutes.",
+        "Add the soy sauce, honey, and 2 tablespoons of water. Simmer until the liquid is almost gone and the vegetables are glazed and tender-crisp.",
+        "Garnish with a sprinkle of red chili flakes (optional) and sesame seeds."
+      ]
+    },
+    {
+      "id": "jap_25",
+      "title": "Japanese Potato Salad",
+      "description": "A lighter take on a Japanese favorite. This potato salad is partially mashed for a unique texture and features crisp cucumbers and a tangy yogurt-based dressing.",
+      "category": "Salad",
+      "cuisine": "Japanese",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegetarian", "comfort-food"],
+      "ingredients": [
+        {"canonicalName": "potato", "displayName": "Yukon Gold potatoes, peeled", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "cucumber", "displayName": "Persian cucumber, sliced paper-thin", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "carrot", "displayName": "Carrot, finely diced", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "rice_vinegar", "displayName": "Rice vinegar", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Boil the potatoes until very soft. Drain and place in a bowl.",
+        "While hot, mash the potatoes roughly (leave some chunks). Stir in the rice vinegar and let cool.",
+        "Lightly salt the cucumber slices, let sit for 5 minutes, then squeeze out the water.",
+        "Blanch the diced carrots for 2 minutes and drain.",
+        "Mix the cooled potatoes with the cucumber, carrots, and Greek yogurt. Season with salt and pepper to taste."
+      ]
+    }
+  ]
+}

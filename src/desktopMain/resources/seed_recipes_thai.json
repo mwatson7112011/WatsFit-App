@@ -1,0 +1,2613 @@
+{
+  "recipes": [
+    {
+      "id": "recipe_t001",
+      "title": "Kao Tom (Thai Rice Porridge)",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-fat", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 6, "unit": "cup", "optional": false},
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "egg", "displayName": "Egg", "quantity": 2, "unit": "piece", "optional": true},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame Oil", "quantity": 1, "unit": "tsp", "optional": true}
+      ],
+      "instructions": [
+        "Rinse jasmine rice under cold water until water runs clear, then drain.",
+        "In a large pot, bring chicken broth to a boil over high heat.",
+        "Add rice, reduce heat to medium-low, and simmer for 15 minutes, stirring occasionally, until rice breaks down and the mixture becomes porridge-like.",
+        "While porridge simmers, slice chicken breast into thin bite-sized pieces.",
+        "Add garlic, ginger, and chicken to the pot. Cook for 8–10 minutes until chicken is cooked through.",
+        "Season with fish sauce and white pepper. Stir well.",
+        "If using eggs, crack them into the porridge and gently stir to create egg ribbons.",
+        "Ladle into bowls and top with green onions, fresh cilantro, and a drizzle of sesame oil."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "proteinGrams": 22,
+        "carbsGrams": 38,
+        "fatGrams": 4,
+        "fiberGrams": 1,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t002",
+      "title": "Thai Coconut Rice Pudding Breakfast",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["thai", "vegetarian", "gluten-free", "dairy-free", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 1.5, "unit": "cup", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "mango", "displayName": "Ripe Mango, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "pandan_leaf", "displayName": "Pandan Leaf (tied in knot)", "quantity": 1, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "Rinse rice until water runs clear. Combine rice, coconut milk, water, palm sugar, salt, and pandan leaf (if using) in a pot.",
+        "Bring to a boil over medium-high heat, stirring frequently to prevent sticking.",
+        "Reduce heat to low, cover, and simmer for 20–25 minutes, stirring every 5 minutes, until rice is very soft and creamy.",
+        "Remove pandan leaf. The pudding should be thick and porridge-like. Add a splash more coconut milk if too thick.",
+        "Serve warm in bowls, topped with diced fresh mango."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 5,
+        "carbsGrams": 52,
+        "fatGrams": 18,
+        "fiberGrams": 2,
+        "sodiumMg": 180
+      }
+    },
+    {
+      "id": "recipe_t003",
+      "title": "Kai Jeow (Thai Omelette)",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 5,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-carb", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onion, thinly sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 2, "unit": "cup", "optional": true},
+        {"canonicalName": "sriracha", "displayName": "Sriracha", "quantity": 1, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "Crack eggs into a bowl. Add fish sauce, lime juice, sliced green onion, and white pepper. Beat vigorously until slightly frothy.",
+        "Heat vegetable oil in a wok or skillet over high heat until the oil shimmers and is very hot.",
+        "Pour the egg mixture into the hot oil. It should puff up immediately.",
+        "Let it cook for about 1–2 minutes until the bottom is golden and the edges are set.",
+        "Flip the omelette and cook for another 1 minute until golden on both sides but still tender inside.",
+        "Slide onto a plate. Serve over steamed jasmine rice with sriracha on the side."
+      ],
+      "nutrition": {
+        "calories": 310,
+        "proteinGrams": 14,
+        "carbsGrams": 2,
+        "fatGrams": 28,
+        "fiberGrams": 0,
+        "sodiumMg": 620
+      }
+    },
+    {
+      "id": "recipe_t004",
+      "title": "Thai Shrimp Congee",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "low-fat", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled and deveined", "quantity": 0.75, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 6, "unit": "cup", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, julienned", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "celery", "displayName": "Celery, finely chopped", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Rinse rice and drain. In a large pot, bring chicken broth to a boil.",
+        "Add rice and reduce heat to medium-low. Simmer for 20 minutes, stirring occasionally, until rice is very soft and broken down.",
+        "In a small pan, sauté garlic and ginger in a teaspoon of oil for 1 minute until fragrant.",
+        "Add the garlic-ginger mixture and celery to the congee. Stir well.",
+        "Add the shrimp and cook for 3–4 minutes until shrimp turn pink and are cooked through.",
+        "Season with fish sauce and white pepper.",
+        "Ladle into bowls and garnish with cilantro and extra julienned ginger."
+      ],
+      "nutrition": {
+        "calories": 290,
+        "proteinGrams": 24,
+        "carbsGrams": 40,
+        "fatGrams": 3,
+        "fiberGrams": 1,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t005",
+      "title": "Thai Sweet Black Rice Porridge with Coconut",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber"],
+      "ingredients": [
+        {"canonicalName": "black_sticky_rice", "displayName": "Black Sticky Rice", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "banana", "displayName": "Ripe Banana, sliced", "quantity": 2, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "Soak black sticky rice in water for at least 30 minutes (or overnight). Drain.",
+        "In a pot, combine soaked rice and 3 cups of water. Bring to a boil over high heat.",
+        "Reduce heat to low, cover, and simmer for 30–35 minutes, stirring occasionally, until rice is very tender and porridge-like.",
+        "Stir in half of the coconut milk, palm sugar, and salt. Cook for another 5 minutes.",
+        "Serve warm in bowls, drizzled with remaining coconut milk and topped with sliced banana."
+      ],
+      "nutrition": {
+        "calories": 360,
+        "proteinGrams": 5,
+        "carbsGrams": 55,
+        "fatGrams": 15,
+        "fiberGrams": 4,
+        "sodiumMg": 170
+      }
+    },
+    {
+      "id": "recipe_t006",
+      "title": "Kai Toon (Thai Steamed Eggs)",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-carb", "low-calorie", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 0.75, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onion, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 2, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "Whisk eggs gently in a bowl (avoid creating too many bubbles). Mix in chicken broth, fish sauce, soy sauce, and white pepper.",
+        "Strain the egg mixture through a fine mesh sieve into a heatproof bowl or ramekins to ensure a silky smooth texture.",
+        "Place the bowls into a steamer. Cover and steam over medium heat for 12–15 minutes until the eggs are just set but still jiggly.",
+        "Remove from steamer. Top with sliced green onion and cilantro. Serve warm."
+      ],
+      "nutrition": {
+        "calories": 145,
+        "proteinGrams": 12,
+        "carbsGrams": 2,
+        "fatGrams": 10,
+        "fiberGrams": 0,
+        "sodiumMg": 580
+      }
+    },
+    {
+      "id": "recipe_t007",
+      "title": "Kluay Buat Chi (Thai Banana in Coconut Milk)",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "quick"],
+      "ingredients": [
+        {"canonicalName": "banana", "displayName": "Ripe Bananas, sliced into chunks", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "pandan_leaf", "displayName": "Pandan Leaf", "quantity": 1, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "In a saucepan, heat coconut milk with palm sugar, salt, and pandan leaf (if using) over medium heat. Stir until sugar dissolves.",
+        "Bring to a gentle simmer. Add banana chunks.",
+        "Cook for 5–7 minutes until bananas are soft and tender but not mushy.",
+        "Remove pandan leaf. Serve warm in bowls with plenty of coconut milk broth."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "proteinGrams": 3,
+        "carbsGrams": 45,
+        "fatGrams": 18,
+        "fiberGrams": 3,
+        "sodiumMg": 210
+      }
+    },
+    {
+      "id": "recipe_t008",
+      "title": "Jok Moo (Thai Pork Congee)",
+      "category": "breakfast",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 35,
+      "servings": 4,
+      "tags": ["thai", "dairy-free", "high-protein", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "ground_pork", "displayName": "Ground Pork", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 6, "unit": "cup", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "egg", "displayName": "Egg", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onion, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Rinse rice and drain. In a large pot, bring chicken broth to a boil with ginger slices.",
+        "Add rice, reduce heat to medium-low, and simmer for 25 minutes, stirring frequently, until rice completely breaks down into a thick porridge.",
+        "Season ground pork with half the soy sauce and a pinch of white pepper. Form into small meatballs (about 1-inch each).",
+        "Drop pork meatballs into the simmering congee. Cook for 8 minutes until pork is cooked through.",
+        "Crack eggs into the congee, one at a time, letting each poach for about 3 minutes.",
+        "Season with fish sauce, remaining soy sauce, and white pepper.",
+        "Ladle into bowls with a poached egg in each. Garnish with green onion and cilantro."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 28,
+        "carbsGrams": 40,
+        "fatGrams": 12,
+        "fiberGrams": 1,
+        "sodiumMg": 890
+      }
+    },
+    {
+      "id": "recipe_t009",
+      "title": "Thai Pineapple Curry Fried Rice",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["thai", "dairy-free", "gluten-free", "quick"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (day-old preferred)", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "pineapple", "displayName": "Fresh Pineapple, diced", "quantity": 1.5, "unit": "cup", "optional": false},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled and deveined", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "yellow_curry_powder", "displayName": "Yellow Curry Powder", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "raisins", "displayName": "Raisins", "quantity": 2, "unit": "tbsp", "optional": true},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": true}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat. Add garlic and stir-fry for 30 seconds until fragrant.",
+        "Add shrimp and cook for 2 minutes until pink. Push shrimp to the side of the wok.",
+        "Crack eggs into the wok and scramble until just set.",
+        "Add curry powder and stir-fry for 30 seconds until aromatic.",
+        "Add the cold cooked rice, breaking up any clumps. Stir-fry for 3–4 minutes.",
+        "Add pineapple, red bell pepper, and raisins (if using). Toss to combine.",
+        "Season with fish sauce, soy sauce, and sugar. Stir-fry for another 2 minutes.",
+        "Remove from heat. Garnish with green onions and cilantro. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "proteinGrams": 20,
+        "carbsGrams": 62,
+        "fatGrams": 10,
+        "fiberGrams": 3,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t010",
+      "title": "Pad See Ew (Wide Rice Noodles with Soy Sauce)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "wide_rice_noodles", "displayName": "Wide Rice Noodles (fresh or soaked dried)", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, sliced thin", "quantity": 0.75, "unit": "lb", "optional": false},
+        {"canonicalName": "chinese_broccoli", "displayName": "Chinese Broccoli (Gai Lan), cut into pieces", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "dark_soy_sauce", "displayName": "Dark Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "egg", "displayName": "Egg", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false}
+      ],
+      "instructions": [
+        "If using dried wide rice noodles, soak in warm water for 20 minutes until pliable, then drain.",
+        "Mix dark soy sauce, light soy sauce, oyster sauce, and sugar in a small bowl. Set aside.",
+        "Heat oil in a wok over high heat until smoking. Add garlic and stir-fry for 15 seconds.",
+        "Add chicken and stir-fry for 3–4 minutes until cooked through. Push to one side.",
+        "Crack eggs into the wok and scramble until just set.",
+        "Add noodles and pour the sauce mixture over them. Toss everything together, coating the noodles evenly.",
+        "Add Chinese broccoli and stir-fry for 2 minutes until the stems are tender and the noodles have slight char marks.",
+        "Season with white pepper. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "proteinGrams": 30,
+        "carbsGrams": 55,
+        "fatGrams": 16,
+        "fiberGrams": 2,
+        "sodiumMg": 920
+      }
+    },
+    {
+      "id": "recipe_t011",
+      "title": "Pad Krapow Gai (Thai Basil Chicken) over Rice",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "ground_chicken", "displayName": "Ground Chicken", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Holy Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, sliced", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "dark_soy_sauce", "displayName": "Dark Soy Sauce", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "egg", "displayName": "Fried Egg (for topping)", "quantity": 3, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat until smoking. Add garlic and Thai chilies, stir-fry for 30 seconds.",
+        "Add ground chicken, breaking it apart with a spatula. Cook for 4–5 minutes until browned and cooked through.",
+        "Add oyster sauce, fish sauce, light soy sauce, dark soy sauce, and sugar. Stir-fry for 1 minute.",
+        "Turn off heat and fold in Thai basil leaves, letting them wilt from the residual heat.",
+        "If desired, fry eggs sunny-side-up in a separate pan with a bit of oil.",
+        "Serve the basil chicken over steamed jasmine rice, topped with a fried egg."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "proteinGrams": 32,
+        "carbsGrams": 45,
+        "fatGrams": 18,
+        "fiberGrams": 1,
+        "sodiumMg": 850
+      }
+    },
+    {
+      "id": "recipe_t012",
+      "title": "Khao Pad (Thai Fried Rice)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "gluten-free", "quick"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (day-old preferred)", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, diced", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "onion", "displayName": "Onion, diced", "quantity": 0.5, "unit": "piece", "optional": false},
+        {"canonicalName": "tomato", "displayName": "Tomato, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime", "displayName": "Lime Wedges", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onion, sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "cucumber", "displayName": "Cucumber Slices", "quantity": 0.5, "unit": "cup", "optional": true}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat. Add garlic and stir-fry for 15 seconds.",
+        "Add diced chicken and cook for 3–4 minutes until cooked through.",
+        "Push chicken to the side. Crack eggs into the wok and scramble until just set.",
+        "Add onion and tomato. Stir-fry for 1 minute.",
+        "Add cold rice, breaking up any clumps. Stir-fry vigorously for 3 minutes.",
+        "Season with fish sauce, soy sauce, sugar, and white pepper. Toss well.",
+        "Serve garnished with green onions, lime wedges, and cucumber slices."
+      ],
+      "nutrition": {
+        "calories": 410,
+        "proteinGrams": 24,
+        "carbsGrams": 55,
+        "fatGrams": 11,
+        "fiberGrams": 2,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t013",
+      "title": "Pad Thai (Nut-Free)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["thai", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "rice_noodles", "displayName": "Flat Rice Noodles (pad thai noodles)", "quantity": 8, "unit": "oz", "optional": false},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled and deveined", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, sliced thin", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "firm_tofu", "displayName": "Firm Tofu, pressed and cubed", "quantity": 4, "unit": "oz", "optional": false},
+        {"canonicalName": "tamarind_paste", "displayName": "Tamarind Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallot, sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "bean_sprouts", "displayName": "Bean Sprouts (briefly cooked to soften)", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "garlic_chives", "displayName": "Garlic Chives, cut into 2-inch pieces", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime", "displayName": "Lime Wedges", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "sunflower_seeds", "displayName": "Roasted Sunflower Seed Kernels (instead of peanuts)", "quantity": 2, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "Soak rice noodles in room temperature water for 30 minutes until pliable. Drain.",
+        "In a small bowl, mix tamarind paste, fish sauce, and palm sugar until sugar dissolves. Set pad thai sauce aside.",
+        "Heat 1 tablespoon oil in a wok over high heat. Cook tofu cubes until lightly golden on all sides (about 3 minutes). Remove and set aside.",
+        "Add another tablespoon of oil. Stir-fry chicken for 3 minutes, then add shrimp and cook until pink. Remove and set aside with tofu.",
+        "Add remaining oil. Stir-fry garlic and shallot for 30 seconds. Push to the side.",
+        "Crack eggs into the wok and scramble until just set.",
+        "Add the drained noodles and pad thai sauce. Toss and cook for 2–3 minutes, letting noodles absorb the sauce and become tender.",
+        "Return chicken, shrimp, and tofu to the wok. Add bean sprouts and garlic chives. Toss everything together for 1 minute.",
+        "Serve immediately with lime wedges and a sprinkle of sunflower seed kernels if desired."
+      ],
+      "nutrition": {
+        "calories": 460,
+        "proteinGrams": 30,
+        "carbsGrams": 52,
+        "fatGrams": 14,
+        "fiberGrams": 2,
+        "sodiumMg": 950
+      }
+    },
+    {
+      "id": "recipe_t014",
+      "title": "Larb Gai (Thai Chicken Salad)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "low-carb", "low-fat", "quick"],
+      "ingredients": [
+        {"canonicalName": "ground_chicken", "displayName": "Ground Chicken", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallots, thinly sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "toasted_rice_powder", "displayName": "Toasted Rice Powder (Khao Khua)", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili_flakes", "displayName": "Thai Chili Flakes", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "mint", "displayName": "Fresh Mint Leaves", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "butter_lettuce", "displayName": "Butter Lettuce Leaves (for serving)", "quantity": 1, "unit": "head", "optional": false}
+      ],
+      "instructions": [
+        "Heat oil in a skillet over medium-high heat. Add ground chicken and break it apart. Cook for 5–6 minutes until cooked through.",
+        "Remove from heat and transfer chicken to a mixing bowl. Let cool for 2 minutes.",
+        "Add lime juice, fish sauce, chili flakes, and toasted rice powder. Toss well.",
+        "Add shallots, green onions, cilantro, and mint. Toss to combine.",
+        "Serve scooped into butter lettuce cups for a soft, refreshing wrap."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "proteinGrams": 32,
+        "carbsGrams": 8,
+        "fatGrams": 14,
+        "fiberGrams": 1,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t015",
+      "title": "Pad Kee Mao (Drunken Noodles)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "wide_rice_noodles", "displayName": "Wide Rice Noodles", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, sliced", "quantity": 0.75, "unit": "lb", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "baby_corn", "displayName": "Baby Corn, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "dark_soy_sauce", "displayName": "Dark Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false}
+      ],
+      "instructions": [
+        "Soak dried wide rice noodles in warm water for 20 minutes until pliable. Drain. If using fresh noodles, separate them gently.",
+        "Mix oyster sauce, light soy sauce, dark soy sauce, fish sauce, and sugar in a small bowl.",
+        "Heat oil in a wok over very high heat until smoking. Add garlic and chilies, stir-fry for 15 seconds.",
+        "Add chicken and stir-fry for 3–4 minutes until cooked.",
+        "Add bell pepper and baby corn, stir-fry for 1 minute.",
+        "Add noodles and pour the sauce over them. Toss vigorously for 2–3 minutes until noodles are evenly coated and tender.",
+        "Turn off heat, fold in Thai basil leaves until just wilted. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": 470,
+        "proteinGrams": 28,
+        "carbsGrams": 58,
+        "fatGrams": 14,
+        "fiberGrams": 2,
+        "sodiumMg": 910
+      }
+    },
+    {
+      "id": "recipe_t016",
+      "title": "Thai Basil Fried Rice (Khao Pad Krapow)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "quick"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (day-old)", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "ground_pork", "displayName": "Ground Pork", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, minced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false}
+      ],
+      "instructions": [
+        "Heat 1 tablespoon of oil in a wok over high heat. Fry eggs sunny-side-up until edges are set but yolk is runny. Set aside.",
+        "In the same wok, add remaining oil over high heat. Add garlic and chilies, stir-fry for 15 seconds.",
+        "Add ground pork, breaking it apart. Cook for 4–5 minutes until browned.",
+        "Add cold rice and stir-fry for 3 minutes, pressing rice against the wok to get some char.",
+        "Add fish sauce, soy sauce, oyster sauce, and sugar. Toss well.",
+        "Turn off heat and fold in Thai basil leaves until wilted.",
+        "Plate the fried rice and top each serving with a fried egg."
+      ],
+      "nutrition": {
+        "calories": 490,
+        "proteinGrams": 26,
+        "carbsGrams": 52,
+        "fatGrams": 20,
+        "fiberGrams": 1,
+        "sodiumMg": 880
+      }
+    },
+    {
+      "id": "recipe_t017",
+      "title": "Khao Man Gai (Thai Chicken and Rice)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Bone-In Chicken Thighs", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, smashed", "quantity": 6, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro_root", "displayName": "Cilantro Roots or Stems", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fermented_soybean_paste", "displayName": "Fermented Soybean Paste (Tao Jiew)", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_vinegar", "displayName": "White Vinegar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame Oil", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cucumber", "displayName": "Cucumber, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Place chicken thighs in a pot with chicken broth, half the garlic, half the ginger, and cilantro roots. Bring to a boil.",
+        "Reduce heat and simmer for 25 minutes until chicken is very tender and cooked through. Remove chicken and reserve the broth.",
+        "Rinse rice. In a rice cooker or pot, combine rice with 2 cups of the reserved chicken broth, remaining garlic, and remaining ginger. Cook until fluffy.",
+        "For the dipping sauce: mash remaining fermented soybean paste with soy sauce, vinegar, sugar, and a splash of the chicken broth.",
+        "Slice chicken thighs and arrange over the fragrant rice.",
+        "Serve with cucumber slices, fresh cilantro, dipping sauce, and a small bowl of the remaining broth as soup."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "proteinGrams": 36,
+        "carbsGrams": 55,
+        "fatGrams": 16,
+        "fiberGrams": 1,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t018",
+      "title": "Rad Na (Thai Gravy Noodles)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "wide_rice_noodles", "displayName": "Wide Rice Noodles", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "pork_tenderloin", "displayName": "Pork Tenderloin, thinly sliced", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "chinese_broccoli", "displayName": "Chinese Broccoli, cut into pieces", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 1.5, "unit": "cup", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "dark_soy_sauce", "displayName": "Dark Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cornstarch", "displayName": "Cornstarch", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_vinegar", "displayName": "White Vinegar (for serving)", "quantity": 2, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "Soak dried noodles in warm water for 20 minutes, then drain. Mix cornstarch with 3 tablespoons of cold water to make a slurry.",
+        "Heat 2 tablespoons oil in a wok over high heat. Add noodles and a splash of dark soy sauce. Stir-fry for 3–4 minutes until noodles have some char. Transfer to plates.",
+        "Add remaining oil to the wok. Stir-fry garlic for 15 seconds, then add pork slices. Cook for 2–3 minutes.",
+        "Add Chinese broccoli and stir-fry for 1 minute.",
+        "Pour in chicken broth, oyster sauce, soy sauce, sugar, and white pepper. Bring to a boil.",
+        "Stir in the cornstarch slurry and cook until the gravy thickens, about 1–2 minutes.",
+        "Pour the thick gravy with pork and broccoli over the charred noodles. Serve with vinegar on the side."
+      ],
+      "nutrition": {
+        "calories": 450,
+        "proteinGrams": 24,
+        "carbsGrams": 60,
+        "fatGrams": 13,
+        "fiberGrams": 2,
+        "sodiumMg": 880
+      }
+    },
+    {
+      "id": "recipe_t019",
+      "title": "Yum Woon Sen (Thai Glass Noodle Salad)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "gluten-free", "low-fat", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "glass_noodles", "displayName": "Glass Noodles (Mung Bean Noodles)", "quantity": 4, "unit": "oz", "optional": false},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, cooked and halved", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "ground_pork", "displayName": "Ground Pork, cooked", "quantity": 0.25, "unit": "lb", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallots, thinly sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "celery", "displayName": "Celery, thinly sliced", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, minced", "quantity": 2, "unit": "piece", "optional": false}
+      ],
+      "instructions": [
+        "Soak glass noodles in warm water for 5 minutes until softened. Boil for 1 minute, then drain and cut into shorter lengths with scissors.",
+        "In a small bowl, whisk together lime juice, fish sauce, sugar, and minced chili to make the dressing.",
+        "In a skillet, cook ground pork over medium heat until browned and crumbly (3 minutes). Set aside.",
+        "In a large bowl, combine glass noodles, shrimp, cooked pork, shallots, celery, and tomatoes.",
+        "Pour dressing over the salad and toss gently until well combined.",
+        "Garnish with fresh cilantro. Serve at room temperature."
+      ],
+      "nutrition": {
+        "calories": 290,
+        "proteinGrams": 24,
+        "carbsGrams": 35,
+        "fatGrams": 6,
+        "fiberGrams": 2,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t020",
+      "title": "Thai Crab Fried Rice",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "gluten-free", "high-protein", "pescatarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (day-old)", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "crab_meat", "displayName": "Lump Crab Meat", "quantity": 8, "unit": "oz", "optional": false},
+        {"canonicalName": "egg", "displayName": "Eggs", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "lime", "displayName": "Lime Wedges", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat. Add garlic and stir-fry for 15 seconds.",
+        "Crack eggs into the wok and scramble until just set.",
+        "Add cold rice and stir-fry for 3 minutes, pressing against the wok.",
+        "Gently fold in crab meat, being careful not to break up the lumps too much.",
+        "Season with fish sauce, soy sauce, sugar, and white pepper. Toss gently.",
+        "Serve garnished with green onions, cilantro, and lime wedges."
+      ],
+      "nutrition": {
+        "calories": 430,
+        "proteinGrams": 28,
+        "carbsGrams": 54,
+        "fatGrams": 12,
+        "fiberGrams": 1,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t021",
+      "title": "Thai Red Curry Noodle Bowl",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["thai", "dairy-free", "gluten-free", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "rice_noodles", "displayName": "Thin Rice Vermicelli", "quantity": 8, "unit": "oz", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, sliced thin", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "brown_sugar", "displayName": "Brown Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "bean_sprouts", "displayName": "Bean Sprouts", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Cook rice vermicelli according to package directions. Drain and set aside.",
+        "In a pot, heat red curry paste over medium heat for 1 minute, stirring constantly.",
+        "Pour in coconut milk and chicken broth. Whisk to combine and bring to a simmer.",
+        "Add chicken slices and cook for 6–8 minutes until cooked through.",
+        "Season with fish sauce, lime juice, and brown sugar.",
+        "Divide cooked noodles into bowls. Ladle the red curry broth and chicken over the noodles.",
+        "Top with bean sprouts, Thai basil, and cilantro."
+      ],
+      "nutrition": {
+        "calories": 440,
+        "proteinGrams": 22,
+        "carbsGrams": 48,
+        "fatGrams": 18,
+        "fiberGrams": 2,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t022",
+      "title": "Pad Mee Korat (Thai Stir-Fried Egg Noodles)",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg_noodles", "displayName": "Egg Noodles (wide)", "quantity": 12, "unit": "oz", "optional": false},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled", "quantity": 0.5, "unit": "lb", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "dried_shrimp", "displayName": "Dried Shrimp", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "tomato_paste", "displayName": "Tomato Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili_flakes", "displayName": "Thai Chili Flakes", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "egg", "displayName": "Egg", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false}
+      ],
+      "instructions": [
+        "Cook egg noodles according to package directions until just tender. Drain and toss with a tiny bit of oil to prevent sticking.",
+        "Heat oil in a wok over high heat. Add garlic and dried shrimp, stir-fry for 30 seconds.",
+        "Add fresh shrimp and cook for 2 minutes until pink.",
+        "Push ingredients to the side. Crack eggs into the wok and scramble.",
+        "Add tomato paste, palm sugar, fish sauce, and chili flakes. Stir to combine into a sauce.",
+        "Add the cooked noodles and toss everything together for 2–3 minutes until well coated.",
+        "Garnish with green onions and serve."
+      ],
+      "nutrition": {
+        "calories": 440,
+        "proteinGrams": 28,
+        "carbsGrams": 54,
+        "fatGrams": 12,
+        "fiberGrams": 2,
+        "sodiumMg": 860
+      }
+    },
+    {
+      "id": "recipe_t023",
+      "title": "Thai Coconut Chicken and Rice",
+      "category": "lunch",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Jasmine Rice", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, cubed", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalk, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, minced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Rinse rice and drain. In a large pot, sauté garlic and ginger in a tablespoon of oil for 1 minute.",
+        "Add chicken and cook for 3 minutes until lightly browned.",
+        "Add rice, coconut milk, water, lemongrass, kaffir lime leaves, and fish sauce. Stir to combine.",
+        "Bring to a boil, reduce heat to low, cover tightly, and cook for 18–20 minutes until rice is fluffy and chicken is tender.",
+        "Remove lemongrass and lime leaves. Fluff rice with a fork.",
+        "Serve garnished with fresh cilantro."
+      ],
+      "nutrition": {
+        "calories": 530,
+        "proteinGrams": 30,
+        "carbsGrams": 56,
+        "fatGrams": 20,
+        "fiberGrams": 1,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t024",
+      "title": "Green Curry with Chicken (Gaeng Keow Wan Gai)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, sliced", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "green_curry_paste", "displayName": "Thai Green Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "thai_eggplant", "displayName": "Thai Eggplant, quartered", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "bamboo_shoots", "displayName": "Bamboo Shoots (canned, drained)", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, torn", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "red_chili", "displayName": "Red Chili, sliced (for garnish)", "quantity": 1, "unit": "piece", "optional": true},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a large pot or wok, heat 1/2 cup of the coconut cream (the thick part from the top of the can) over medium-high heat until it begins to separate and sizzle.",
+        "Add green curry paste and fry for 2 minutes, stirring constantly, until very fragrant.",
+        "Add chicken and stir to coat in the curry paste. Cook for 3 minutes.",
+        "Pour in the remaining coconut milk, kaffir lime leaves, and bring to a gentle boil.",
+        "Add eggplant and bamboo shoots. Simmer for 15 minutes until chicken is very tender and eggplant is soft.",
+        "Season with fish sauce and palm sugar. Adjust to taste — it should be creamy, slightly sweet, salty, and aromatic.",
+        "Turn off heat, fold in Thai basil leaves until wilted.",
+        "Serve over steamed jasmine rice, garnished with sliced red chili."
+      ],
+      "nutrition": {
+        "calories": 520,
+        "proteinGrams": 34,
+        "carbsGrams": 30,
+        "fatGrams": 32,
+        "fiberGrams": 3,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t025",
+      "title": "Green Curry with Tofu (Gaeng Keow Wan Tofu)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "firm_tofu", "displayName": "Firm Tofu, pressed and cubed", "quantity": 14, "unit": "oz", "optional": false},
+        {"canonicalName": "green_curry_paste", "displayName": "Thai Green Curry Paste (vegan)", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "thai_eggplant", "displayName": "Thai Eggplant, quartered", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "zucchini", "displayName": "Zucchini, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "bamboo_shoots", "displayName": "Bamboo Shoots (canned, drained)", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, torn", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat the thick coconut cream from the top of one can in a pot over medium-high heat.",
+        "Add green curry paste and fry for 2 minutes, stirring until fragrant.",
+        "Add tofu cubes and gently stir to coat. Cook for 2 minutes.",
+        "Pour in remaining coconut milk and kaffir lime leaves. Bring to a simmer.",
+        "Add eggplant, zucchini, bamboo shoots, and red bell pepper. Simmer for 12–15 minutes until all vegetables are tender.",
+        "Season with soy sauce and palm sugar.",
+        "Fold in Thai basil leaves. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "proteinGrams": 16,
+        "carbsGrams": 32,
+        "fatGrams": 28,
+        "fiberGrams": 5,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t026",
+      "title": "Massaman Curry (Nut-Free)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 45,
+      "servings": 5,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, cubed", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "massaman_curry_paste", "displayName": "Massaman Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "potato", "displayName": "Yukon Gold Potatoes, cubed", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "onion", "displayName": "Onion, quartered", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "bay_leaf", "displayName": "Bay Leaves", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "cinnamon_stick", "displayName": "Cinnamon Stick", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "star_anise", "displayName": "Star Anise", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "cardamom", "displayName": "Cardamom Pods", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "tamarind_paste", "displayName": "Tamarind Paste", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 5, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat the thick coconut cream from one can in a large pot over medium heat until it sizzles and separates.",
+        "Add massaman curry paste and fry for 3 minutes, stirring constantly, until deeply fragrant.",
+        "Add chicken and stir to coat in curry paste. Cook for 3 minutes until seared.",
+        "Pour in remaining coconut milk. Add potatoes, onions, bay leaves, cinnamon stick, star anise, and cardamom pods.",
+        "Bring to a boil, then reduce heat to low. Cover and simmer for 35–40 minutes until potatoes are very tender and chicken is fall-apart soft.",
+        "Season with fish sauce, palm sugar, and tamarind paste. Stir gently.",
+        "Remove whole spices (bay leaves, cinnamon, star anise, cardamom) before serving.",
+        "Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 540,
+        "proteinGrams": 32,
+        "carbsGrams": 38,
+        "fatGrams": 30,
+        "fiberGrams": 4,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t027",
+      "title": "Panang Curry (Nut-Free with Sunflower Seed Butter)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, sliced thin", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sunflower_seed_butter", "displayName": "Sunflower Seed Butter", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1.5, "unit": "can", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, chiffonade", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat the thick coconut cream in a wok or pot over medium-high heat until it sizzles.",
+        "Add curry paste and stir-fry for 2 minutes until fragrant and the oil separates.",
+        "Add sunflower seed butter and stir until it melts into the paste, creating a thick, rich base.",
+        "Add chicken and cook for 3 minutes, coating in the paste.",
+        "Pour in remaining coconut milk. Add half the kaffir lime leaves. Simmer for 15 minutes until chicken is very tender.",
+        "Add red bell pepper and cook for 3 more minutes until softened.",
+        "Season with fish sauce and palm sugar. The curry should be thick, rich, and slightly sweet.",
+        "Garnish with remaining kaffir lime leaves (chiffonade) and Thai basil. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 510,
+        "proteinGrams": 36,
+        "carbsGrams": 28,
+        "fatGrams": 30,
+        "fiberGrams": 2,
+        "sodiumMg": 740
+      }
+    },
+    {
+      "id": "recipe_t028",
+      "title": "Thai Red Curry with Shrimp",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large Shrimp, peeled and deveined", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "snap_peas", "displayName": "Sugar Snap Peas (strings removed)", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "bamboo_shoots", "displayName": "Bamboo Shoots (canned)", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a pot, heat 2 tablespoons of coconut cream over medium-high heat. Add curry paste and fry for 2 minutes.",
+        "Pour in remaining coconut milk and kaffir lime leaves. Bring to a simmer.",
+        "Add red bell pepper, snap peas, and bamboo shoots. Cook for 5 minutes.",
+        "Add shrimp and cook for 4–5 minutes until pink and curled.",
+        "Season with fish sauce and palm sugar.",
+        "Fold in Thai basil and serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 36,
+        "carbsGrams": 22,
+        "fatGrams": 18,
+        "fiberGrams": 3,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t029",
+      "title": "Thai Yellow Curry",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thigh, cubed", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "yellow_curry_paste", "displayName": "Thai Yellow Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "potato", "displayName": "Potato, peeled and cubed", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "carrot", "displayName": "Carrot, sliced (cooked until very soft)", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "onion", "displayName": "Onion, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "turmeric", "displayName": "Ground Turmeric", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice (for serving)", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat a tablespoon of oil in a large pot over medium heat. Sauté onion for 3 minutes until soft.",
+        "Add yellow curry paste and turmeric. Stir-fry for 2 minutes until fragrant.",
+        "Add chicken and cook for 3 minutes until lightly browned.",
+        "Pour in coconut milk and chicken broth. Add potatoes and carrots.",
+        "Bring to a boil, then reduce to low and simmer for 25 minutes until potatoes and carrots are very soft and tender.",
+        "Season with fish sauce and palm sugar.",
+        "Serve over steamed jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 460,
+        "proteinGrams": 28,
+        "carbsGrams": 36,
+        "fatGrams": 24,
+        "fiberGrams": 4,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t030",
+      "title": "Thai Red Curry with Vegetables",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "sweet_potato", "displayName": "Sweet Potato, cubed", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "zucchini", "displayName": "Zucchini, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "spinach", "displayName": "Fresh Spinach", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "bamboo_shoots", "displayName": "Bamboo Shoots", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat coconut cream in a pot over medium heat. Add curry paste and fry for 2 minutes.",
+        "Add sweet potato cubes, pour in remaining coconut milk and vegetable broth. Add kaffir lime leaves.",
+        "Simmer for 12 minutes until sweet potato is almost tender.",
+        "Add zucchini, bell pepper, and bamboo shoots. Cook for 5 more minutes.",
+        "Stir in spinach and let it wilt. Season with soy sauce and palm sugar.",
+        "Fold in Thai basil. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "proteinGrams": 7,
+        "carbsGrams": 38,
+        "fatGrams": 19,
+        "fiberGrams": 6,
+        "sodiumMg": 650
+      }
+    },
+    {
+      "id": "recipe_t031",
+      "title": "Thai Green Curry with Shrimp",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 18,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large Shrimp, peeled and deveined", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "green_curry_paste", "displayName": "Thai Green Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "thai_eggplant", "displayName": "Thai Eggplant, quartered", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "green_beans", "displayName": "Green Beans, cut into 1-inch pieces", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat coconut cream in a pot over medium-high heat. Fry green curry paste for 2 minutes.",
+        "Pour in remaining coconut milk and kaffir lime leaves. Bring to a simmer.",
+        "Add eggplant and green beans. Cook for 8 minutes until tender.",
+        "Add shrimp and cook for 4–5 minutes until pink and cooked through.",
+        "Season with fish sauce and palm sugar. Fold in Thai basil.",
+        "Serve over steamed jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 390,
+        "proteinGrams": 38,
+        "carbsGrams": 20,
+        "fatGrams": 18,
+        "fiberGrams": 4,
+        "sodiumMg": 800
+      }
+    },
+    {
+      "id": "recipe_t032",
+      "title": "Gaeng Pa (Thai Jungle Curry with Pork)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-fat", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "pork_tenderloin", "displayName": "Pork Tenderloin, sliced thin", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "green_beans", "displayName": "Green Beans, cut into pieces", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "bamboo_shoots", "displayName": "Bamboo Shoots", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "baby_corn", "displayName": "Baby Corn, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Straw Mushrooms (or button)", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 4, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "green_peppercorns", "displayName": "Fresh Green Peppercorns", "quantity": 1, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "Heat a tablespoon of oil in a pot over medium-high heat. Add curry paste and fry for 2 minutes.",
+        "Add pork and stir for 2 minutes until coated in paste.",
+        "Pour in chicken broth (note: no coconut milk — this is a jungle curry). Add lemongrass, galangal, and kaffir lime leaves.",
+        "Bring to a boil, then add green beans, bamboo shoots, baby corn, and mushrooms.",
+        "Simmer for 15 minutes until vegetables are tender and pork is cooked through.",
+        "Season with fish sauce. Add green peppercorns if using.",
+        "Fold in Thai basil. Serve as a soup-like curry, with or without rice."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "proteinGrams": 32,
+        "carbsGrams": 14,
+        "fatGrams": 10,
+        "fiberGrams": 4,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t033",
+      "title": "Thai Pumpkin Curry",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "pumpkin", "displayName": "Pumpkin or Kabocha Squash, peeled and cubed", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "onion", "displayName": "Onion, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat oil in a pot over medium heat. Sauté onion and garlic for 2 minutes.",
+        "Add curry paste and stir-fry for 1 minute until fragrant.",
+        "Add pumpkin cubes, pour in coconut milk and vegetable broth. Add kaffir lime leaves.",
+        "Bring to a boil, reduce heat, and simmer for 20 minutes until pumpkin is very soft and tender.",
+        "Season with soy sauce and palm sugar.",
+        "Fold in Thai basil. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "proteinGrams": 6,
+        "carbsGrams": 38,
+        "fatGrams": 17,
+        "fiberGrams": 5,
+        "sodiumMg": 620
+      }
+    },
+    {
+      "id": "recipe_t034",
+      "title": "Thai Red Curry with Duck",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "duck_breast", "displayName": "Duck Breast, sliced", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "pineapple", "displayName": "Fresh Pineapple, chunks", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "lychee", "displayName": "Canned Lychee, drained", "quantity": 0.5, "unit": "cup", "optional": true},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Score the skin side of duck breasts (if with skin). In a cold wok, place duck skin-side down. Render fat over medium heat for 5 minutes. Remove duck and set aside.",
+        "Using the rendered duck fat, fry curry paste for 2 minutes.",
+        "Pour in coconut milk and kaffir lime leaves. Bring to a simmer.",
+        "Return duck slices to the curry. Simmer for 15 minutes until duck is tender.",
+        "Add pineapple, cherry tomatoes, and lychee (if using). Cook for 5 more minutes.",
+        "Season with fish sauce and palm sugar. Fold in Thai basil.",
+        "Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "proteinGrams": 30,
+        "carbsGrams": 28,
+        "fatGrams": 28,
+        "fiberGrams": 3,
+        "sodiumMg": 760
+      }
+    },
+    {
+      "id": "recipe_t035",
+      "title": "Thai Coconut Braised Chicken Thighs",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Bone-In Chicken Thighs", "quantity": 2, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalk, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 4, "unit": "slice", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, smashed", "quantity": 6, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Season chicken thighs with a pinch of salt and pepper. In a large pot, sear chicken skin-side down in a bit of oil over medium-high heat for 4 minutes until golden. Flip and sear 2 more minutes. Remove and set aside.",
+        "In the same pot, add garlic, ginger, lemongrass, and galangal. Sauté for 1 minute.",
+        "Pour in coconut milk and add kaffir lime leaves. Stir to deglaze the pot.",
+        "Return chicken to the pot. Add fish sauce and palm sugar.",
+        "Bring to a boil, reduce heat to low, cover, and braise for 30–35 minutes until chicken is extremely tender and falling off the bone.",
+        "Serve chicken and coconut braising liquid over jasmine rice, garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 490,
+        "proteinGrams": 38,
+        "carbsGrams": 18,
+        "fatGrams": 30,
+        "fiberGrams": 1,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t036",
+      "title": "Pla Neung Manao (Thai Steamed Fish with Lime and Chili)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 3,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-carb", "low-fat", "high-protein", "pescatarian"],
+      "ingredients": [
+        {"canonicalName": "sea_bass", "displayName": "Whole Sea Bass or Branzino (cleaned)", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 6, "unit": "clove", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, sliced", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "celery", "displayName": "Chinese Celery, chopped", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalk, sliced", "quantity": 1, "unit": "piece", "optional": false}
+      ],
+      "instructions": [
+        "Score the fish with diagonal cuts on each side. Place on a heatproof plate.",
+        "Tuck lemongrass slices into the cavity and cuts of the fish.",
+        "Steam the fish over boiling water for 15–18 minutes until flesh is opaque and flakes easily.",
+        "While the fish steams, prepare the dressing: mix lime juice, fish sauce, palm sugar, minced garlic, and sliced chilies. Stir until sugar dissolves.",
+        "Remove the steamed fish from the steamer. Pour the lime-chili dressing over the hot fish.",
+        "Garnish with cilantro and celery. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "proteinGrams": 42,
+        "carbsGrams": 8,
+        "fatGrams": 6,
+        "fiberGrams": 1,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t037",
+      "title": "Thai Lemongrass Chicken",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thighs", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, minced (tender inner part)", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallots, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "turmeric", "displayName": "Ground Turmeric", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "black_pepper", "displayName": "Black Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Marinate chicken thighs with minced lemongrass, garlic, fish sauce, turmeric, and black pepper for at least 15 minutes.",
+        "Heat oil in a large skillet over medium-high heat. Add chicken and cook for 5 minutes per side until golden and cooked through.",
+        "Remove chicken and set aside. In the same skillet, sauté shallots for 2 minutes.",
+        "Add oyster sauce and palm sugar. Stir until sugar dissolves, creating a glaze.",
+        "Return chicken to the pan and coat with the glaze. Cook for 1 more minute.",
+        "Slice chicken and serve over jasmine rice with fresh cilantro."
+      ],
+      "nutrition": {
+        "calories": 420,
+        "proteinGrams": 36,
+        "carbsGrams": 22,
+        "fatGrams": 20,
+        "fiberGrams": 1,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t038",
+      "title": "Thai Garlic Pepper Pork (Moo Tod Kratiem)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "high-protein", "quick"],
+      "ingredients": [
+        {"canonicalName": "pork_tenderloin", "displayName": "Pork Tenderloin, sliced into medallions", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 8, "unit": "clove", "optional": false},
+        {"canonicalName": "cilantro_root", "displayName": "Cilantro Roots (or stems)", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 3, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a mortar, pound together garlic, cilantro roots, and white pepper into a rough paste.",
+        "Marinate pork slices with the garlic-pepper paste and soy sauce for 15 minutes.",
+        "Heat oil in a skillet or wok over medium-high heat.",
+        "Add pork in a single layer. Cook for 3–4 minutes per side until golden and cooked through.",
+        "Add oyster sauce and sugar. Toss to glaze the pork.",
+        "Serve over jasmine rice with any remaining pan juices drizzled over."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 34,
+        "carbsGrams": 20,
+        "fatGrams": 18,
+        "fiberGrams": 1,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t039",
+      "title": "Thai Sweet Chili Glazed Salmon",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "salmon_fillet", "displayName": "Salmon Fillets", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "sweet_chili_sauce", "displayName": "Thai Sweet Chili Sauce", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, grated", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame Oil", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+        "Mix sweet chili sauce, lime juice, fish sauce, garlic, ginger, and sesame oil in a small bowl.",
+        "Place salmon fillets on the baking sheet. Spoon the glaze generously over each fillet.",
+        "Bake for 12–15 minutes until salmon is cooked through and flakes easily.",
+        "Garnish with fresh cilantro and serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 36,
+        "carbsGrams": 18,
+        "fatGrams": 18,
+        "fiberGrams": 0,
+        "sodiumMg": 620
+      }
+    },
+    {
+      "id": "recipe_t040",
+      "title": "Thai Braised Short Ribs in Red Curry",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 120,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "beef_short_ribs", "displayName": "Beef Short Ribs (bone-in)", "quantity": 2.5, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 4, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalk, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 4, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Preheat oven to 325°F (160°C). Season short ribs with salt and pepper.",
+        "Sear short ribs in a Dutch oven over high heat, 3 minutes per side. Remove and set aside.",
+        "Add curry paste to the pot and fry for 2 minutes in the remaining fat.",
+        "Pour in coconut milk, add lemongrass, galangal, and kaffir lime leaves. Stir to combine.",
+        "Return ribs to the pot, submerging them in the liquid. Add fish sauce and palm sugar.",
+        "Cover and braise in the oven for 2 hours until the meat is falling off the bone.",
+        "Remove lid, discard lemongrass and galangal. Fold in Thai basil.",
+        "Serve the tender ribs and rich curry broth over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 620,
+        "proteinGrams": 42,
+        "carbsGrams": 18,
+        "fatGrams": 44,
+        "fiberGrams": 1,
+        "sodiumMg": 850
+      }
+    },
+    {
+      "id": "recipe_t041",
+      "title": "Thai Eggplant and Basil Stir-Fry",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 12,
+      "servings": 3,
+      "tags": ["thai", "vegan", "dairy-free", "gluten-free", "high-fiber", "quick"],
+      "ingredients": [
+        {"canonicalName": "thai_eggplant", "displayName": "Thai or Chinese Eggplant, cubed", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "yellow_bean_sauce", "displayName": "Yellow Bean Sauce (Tao Jiew)", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 3, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat. Add garlic and chilies, stir-fry for 15 seconds.",
+        "Add eggplant cubes and stir-fry for 5–6 minutes. Add a splash of water if needed to help the eggplant steam and soften.",
+        "Add yellow bean sauce, soy sauce, and sugar. Toss to coat.",
+        "Continue cooking for 3 minutes until eggplant is completely tender.",
+        "Turn off heat and fold in Thai basil until wilted. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 260,
+        "proteinGrams": 5,
+        "carbsGrams": 32,
+        "fatGrams": 14,
+        "fiberGrams": 8,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t042",
+      "title": "Thai Coconut Poached Fish",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 18,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-carb", "high-protein", "pescatarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "cod_fillet", "displayName": "Cod or Halibut Fillets", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 3, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chili, sliced", "quantity": 1, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "In a wide skillet, combine coconut milk, lemongrass, galangal, kaffir lime leaves, and ginger. Bring to a gentle simmer over medium heat.",
+        "Season fish fillets with a pinch of salt. Gently lower them into the simmering coconut milk.",
+        "Cover and poach for 12–15 minutes until fish is opaque and flakes easily.",
+        "Season the broth with fish sauce and lime juice.",
+        "Carefully transfer fish to serving bowls. Ladle the aromatic coconut broth over the fish.",
+        "Garnish with cilantro and sliced chili."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "proteinGrams": 36,
+        "carbsGrams": 6,
+        "fatGrams": 18,
+        "fiberGrams": 1,
+        "sodiumMg": 620
+      }
+    },
+    {
+      "id": "recipe_t043",
+      "title": "Thai Satay Chicken (Nut-Free with Sunflower Sauce)",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "chicken_thigh", "displayName": "Boneless Chicken Thighs, cut into strips", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Coconut Milk (for marinade)", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "yellow_curry_powder", "displayName": "Curry Powder", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "turmeric", "displayName": "Ground Turmeric", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sunflower_seed_butter", "displayName": "Sunflower Seed Butter", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Coconut Milk (for sauce)", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Red Curry Paste (for sauce)", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "tamarind_paste", "displayName": "Tamarind Paste", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Mix coconut milk (for marinade), curry powder, turmeric, fish sauce, and palm sugar. Marinate chicken strips for at least 20 minutes.",
+        "Thread chicken onto skewers (if using bamboo, soak in water first).",
+        "For the sunflower sauce: In a small pot, heat coconut milk (for sauce) with red curry paste. Stir in sunflower seed butter, tamarind paste, and lime juice. Simmer for 5 minutes until thick and creamy.",
+        "Grill or broil chicken skewers for 4–5 minutes per side until cooked through and tender.",
+        "Serve chicken satay over jasmine rice with the sunflower dipping sauce."
+      ],
+      "nutrition": {
+        "calories": 480,
+        "proteinGrams": 38,
+        "carbsGrams": 22,
+        "fatGrams": 28,
+        "fiberGrams": 2,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t044",
+      "title": "Thai Red Curry with Tofu and Spinach",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "firm_tofu", "displayName": "Firm Tofu, pressed and cubed", "quantity": 14, "unit": "oz", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "spinach", "displayName": "Fresh Spinach", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Mushrooms, sliced", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat coconut cream in a pot. Add curry paste and fry for 2 minutes.",
+        "Add tofu and gently cook for 3 minutes, being careful not to break the cubes.",
+        "Pour in remaining coconut milk and kaffir lime leaves. Simmer for 5 minutes.",
+        "Add bell pepper and mushrooms. Cook for 5 more minutes until tender.",
+        "Stir in spinach and let it wilt completely.",
+        "Season with soy sauce and palm sugar. Fold in Thai basil.",
+        "Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 350,
+        "proteinGrams": 16,
+        "carbsGrams": 28,
+        "fatGrams": 22,
+        "fiberGrams": 5,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t045",
+      "title": "Thai Mango Curry with Chicken",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein"],
+      "ingredients": [
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, cubed", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "yellow_curry_paste", "displayName": "Thai Yellow Curry Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "mango", "displayName": "Ripe Mango, cubed", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, diced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat coconut cream in a pot over medium heat. Fry curry paste for 2 minutes.",
+        "Add chicken and cook for 4 minutes until browned.",
+        "Pour in remaining coconut milk. Simmer for 12 minutes until chicken is tender.",
+        "Add red bell pepper and half the mango. Cook for 5 minutes.",
+        "Season with fish sauce, palm sugar, and lime juice.",
+        "Fold in remaining fresh mango and Thai basil. Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 440,
+        "proteinGrams": 30,
+        "carbsGrams": 36,
+        "fatGrams": 20,
+        "fiberGrams": 3,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t046",
+      "title": "Thai Chili Basil Shrimp",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 8,
+      "servings": 3,
+      "tags": ["thai", "dairy-free", "gluten-free", "high-protein", "low-carb", "pescatarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large Shrimp, peeled and deveined", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil Leaves", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, sliced", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 5, "unit": "clove", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "oyster_sauce", "displayName": "Oyster Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 3, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Heat oil in a wok over high heat until smoking. Add garlic and chilies, stir-fry for 15 seconds.",
+        "Add shrimp and stir-fry for 2–3 minutes until pink.",
+        "Add fish sauce, oyster sauce, soy sauce, and sugar. Toss for 1 minute.",
+        "Turn off heat and fold in Thai basil until wilted.",
+        "Serve over jasmine rice."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "proteinGrams": 32,
+        "carbsGrams": 12,
+        "fatGrams": 12,
+        "fiberGrams": 1,
+        "sodiumMg": 850
+      }
+    },
+    {
+      "id": "recipe_t047",
+      "title": "Thai Coconut Curry Mussels",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "mussels", "displayName": "Fresh Mussels, scrubbed and debearded", "quantity": 2, "unit": "lb", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "thai_basil", "displayName": "Thai Basil", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a large pot, heat a bit of oil over medium heat. Add curry paste and fry for 1 minute.",
+        "Add coconut milk, lemongrass, and kaffir lime leaves. Bring to a simmer.",
+        "Add mussels, cover, and cook for 5–7 minutes, shaking the pot occasionally, until mussels open. Discard any that don't open.",
+        "Season with fish sauce, lime juice, and palm sugar.",
+        "Fold in Thai basil and cilantro. Serve in bowls with the fragrant coconut curry broth."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "proteinGrams": 28,
+        "carbsGrams": 14,
+        "fatGrams": 18,
+        "fiberGrams": 1,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t048",
+      "title": "Thai Tamarind Glazed Fish",
+      "category": "dinner",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian"],
+      "ingredients": [
+        {"canonicalName": "tilapia_fillet", "displayName": "Tilapia or Snapper Fillets", "quantity": 1.5, "unit": "lb", "optional": false},
+        {"canonicalName": "tamarind_paste", "displayName": "Tamarind Paste", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallots, sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, julienned", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "vegetable_oil", "displayName": "Vegetable Oil", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "jasmine_rice", "displayName": "Cooked Jasmine Rice", "quantity": 4, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Mix tamarind paste, palm sugar, fish sauce, and 2 tablespoons of water in a small bowl until sugar dissolves.",
+        "Pat fish fillets dry and season with a pinch of salt and pepper.",
+        "Heat oil in a non-stick pan over medium-high heat. Cook fish for 3–4 minutes per side until golden and cooked through. Remove and set aside.",
+        "In the same pan, sauté shallots, garlic, and ginger for 2 minutes.",
+        "Pour in the tamarind sauce and simmer for 2 minutes until thickened.",
+        "Return fish to the pan and spoon the glaze over the fillets.",
+        "Serve over jasmine rice, garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "proteinGrams": 36,
+        "carbsGrams": 22,
+        "fatGrams": 12,
+        "fiberGrams": 1,
+        "sodiumMg": 780
+      }
+    },
+    {
+      "id": "recipe_t049",
+      "title": "Tom Kha Gai (Coconut Galangal Chicken Soup)",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, sliced thin", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced into coins", "quantity": 8, "unit": "slice", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalks, cut into 2-inch pieces and bruised", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, torn", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Mushrooms, sliced (oyster or button)", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, lightly crushed", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a large pot, combine coconut milk, chicken broth, galangal, lemongrass, and kaffir lime leaves. Bring to a gentle boil over medium heat.",
+        "Reduce heat and simmer for 10 minutes to let the aromatics infuse the liquid.",
+        "Add chicken slices and mushrooms. Simmer for 10 minutes until chicken is cooked through.",
+        "Add cherry tomatoes and crushed chilies. Cook for 2 more minutes.",
+        "Remove from heat. Stir in fish sauce, lime juice, and palm sugar. Adjust seasoning to achieve a balance of sour, salty, and sweet.",
+        "Ladle into bowls (leave galangal and lemongrass in the soup — they're not meant to be eaten). Garnish with cilantro."
+      ],
+      "nutrition": {
+        "calories": 380,
+        "proteinGrams": 28,
+        "carbsGrams": 12,
+        "fatGrams": 26,
+        "fiberGrams": 2,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t050",
+      "title": "Tom Yum Goong (Hot and Sour Shrimp Soup)",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-calorie", "high-protein", "pescatarian", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large Shrimp, peeled and deveined (save shells)", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalks, cut and bruised", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 6, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, torn", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Straw Mushrooms (or button), halved", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, lightly crushed", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_chili_paste", "displayName": "Thai Roasted Chili Paste (Nam Prik Pao)", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "If desired, boil shrimp shells in chicken broth for 5 minutes to make a richer broth, then strain out the shells.",
+        "Bring the broth to a boil. Add lemongrass, galangal, kaffir lime leaves, and chilies. Simmer for 10 minutes.",
+        "Add mushrooms and roasted chili paste (nam prik pao). Stir to dissolve the paste.",
+        "Add shrimp and cherry tomatoes. Cook for 3–4 minutes until shrimp are pink and curled.",
+        "Remove from heat. Add fish sauce, lime juice, and palm sugar. The soup should be intensely sour, salty, and spicy.",
+        "Ladle into bowls. Garnish with fresh cilantro."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "proteinGrams": 28,
+        "carbsGrams": 10,
+        "fatGrams": 8,
+        "fiberGrams": 2,
+        "sodiumMg": 920
+      }
+    },
+    {
+      "id": "recipe_t051",
+      "title": "Tom Kha Tofu (Vegetarian Coconut Galangal Soup)",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "silken_tofu", "displayName": "Silken Tofu, cubed", "quantity": 14, "unit": "oz", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 2, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 8, "unit": "slice", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised and cut", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves, torn", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Mushrooms, sliced", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, crushed", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Combine coconut milk, vegetable broth, galangal, lemongrass, and kaffir lime leaves in a pot. Bring to a gentle simmer.",
+        "Simmer for 10 minutes to infuse the aromatics.",
+        "Add mushrooms and crushed chilies. Cook for 5 minutes.",
+        "Gently add silken tofu cubes and cherry tomatoes. Heat through for 3 minutes without stirring too much to keep tofu intact.",
+        "Remove from heat. Season with soy sauce, lime juice, and palm sugar.",
+        "Ladle into bowls and garnish with cilantro."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "proteinGrams": 12,
+        "carbsGrams": 14,
+        "fatGrams": 28,
+        "fiberGrams": 2,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t052",
+      "title": "Thai Pumpkin and Coconut Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "pumpkin", "displayName": "Pumpkin or Butternut Squash, peeled and cubed", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Thai Red Curry Paste", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a pot, heat a tablespoon of oil. Add curry paste and ginger, fry for 1 minute.",
+        "Add pumpkin cubes, vegetable broth, coconut milk, and lemongrass. Bring to a boil.",
+        "Reduce heat and simmer for 20 minutes until pumpkin is very soft.",
+        "Remove lemongrass. Using an immersion blender, blend the soup until silky smooth.",
+        "Season with soy sauce and lime juice.",
+        "Serve garnished with cilantro and a drizzle of coconut milk."
+      ],
+      "nutrition": {
+        "calories": 280,
+        "proteinGrams": 5,
+        "carbsGrams": 32,
+        "fatGrams": 16,
+        "fiberGrams": 6,
+        "sodiumMg": 580
+      }
+    },
+    {
+      "id": "recipe_t053",
+      "title": "Thai Corn and Coconut Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "vegetarian", "gluten-free", "dairy-free", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "corn", "displayName": "Sweet Corn Kernels (fresh or frozen)", "quantity": 4, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Ginger, minced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Sauté garlic and ginger in a pot for 1 minute. Add lemongrass and kaffir lime leaves.",
+        "Add corn, coconut milk, and vegetable broth. Bring to a simmer.",
+        "Cook for 15 minutes until corn is very soft.",
+        "Remove lemongrass and lime leaves. Blend half the soup until smooth, then stir back into the pot for a creamy-chunky texture.",
+        "Season with fish sauce and lime juice. Serve garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 310,
+        "proteinGrams": 7,
+        "carbsGrams": 38,
+        "fatGrams": 17,
+        "fiberGrams": 4,
+        "sodiumMg": 560
+      }
+    },
+    {
+      "id": "recipe_t054",
+      "title": "Thai Lemongrass Shrimp Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 18,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-calorie", "high-protein", "pescatarian", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled and deveined", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 5, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass Stalks, bruised", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 4, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "mushroom", "displayName": "Mushrooms, sliced", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, crushed", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Bring chicken broth to a boil. Add lemongrass, galangal, kaffir lime leaves, and chilies.",
+        "Simmer for 10 minutes to infuse flavors.",
+        "Add mushrooms and cook for 3 minutes.",
+        "Add shrimp and cook for 3–4 minutes until pink.",
+        "Remove from heat. Season with fish sauce and lime juice. Garnish with cilantro."
+      ],
+      "nutrition": {
+        "calories": 180,
+        "proteinGrams": 28,
+        "carbsGrams": 6,
+        "fatGrams": 4,
+        "fiberGrams": 1,
+        "sodiumMg": 880
+      }
+    },
+    {
+      "id": "recipe_t055",
+      "title": "Tom Yum Hed (Thai Mushroom Tom Yum Soup)",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 18,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "low-calorie", "low-fat", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "mushroom", "displayName": "Mixed Mushrooms (shiitake, oyster, enoki)", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 5, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 6, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 5, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies, crushed", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_chili_paste", "displayName": "Vegan Roasted Chili Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Bring vegetable broth to a boil. Add lemongrass, galangal, kaffir lime leaves, and chilies. Simmer for 10 minutes.",
+        "Add roasted chili paste and stir to dissolve.",
+        "Add mushrooms and tomatoes. Cook for 5 minutes until mushrooms are tender.",
+        "Remove from heat. Season with soy sauce, lime juice, and sugar.",
+        "Serve in bowls garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 120,
+        "proteinGrams": 5,
+        "carbsGrams": 14,
+        "fatGrams": 5,
+        "fiberGrams": 3,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t056",
+      "title": "Thai Sweet Potato and Lemongrass Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "sweet_potato", "displayName": "Sweet Potatoes, peeled and cubed", "quantity": 2, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 3, "unit": "clove", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Red Curry Paste", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Sauté garlic and ginger in a pot for 1 minute. Add curry paste and stir for 30 seconds.",
+        "Add sweet potatoes, coconut milk, broth, and lemongrass. Bring to a boil.",
+        "Simmer for 20 minutes until sweet potatoes are very tender.",
+        "Remove lemongrass. Blend until smooth with an immersion blender.",
+        "Season with soy sauce and lime juice. Serve garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 340,
+        "proteinGrams": 5,
+        "carbsGrams": 48,
+        "fatGrams": 16,
+        "fiberGrams": 7,
+        "sodiumMg": 580
+      }
+    },
+    {
+      "id": "recipe_t057",
+      "title": "Thai Coconut Fish Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "pescatarian", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "cod_fillet", "displayName": "Cod Fillet, cubed", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 4, "unit": "slice", "optional": false},
+        {"canonicalName": "kaffir_lime_leaf", "displayName": "Kaffir Lime Leaves", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chili, sliced", "quantity": 2, "unit": "piece", "optional": true}
+      ],
+      "instructions": [
+        "In a pot, combine coconut milk, broth, lemongrass, galangal, and kaffir lime leaves. Bring to a simmer and cook for 10 minutes.",
+        "Add fish cubes and cherry tomatoes. Cook gently for 8 minutes until fish is opaque and flakes easily.",
+        "Remove from heat. Season with fish sauce and lime juice.",
+        "Serve in bowls garnished with cilantro and chili slices."
+      ],
+      "nutrition": {
+        "calories": 310,
+        "proteinGrams": 28,
+        "carbsGrams": 8,
+        "fatGrams": 20,
+        "fiberGrams": 1,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t058",
+      "title": "Thai Egg Drop Soup with Tofu",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-calorie", "low-fat", "one-pot", "quick"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Eggs, beaten", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "silken_tofu", "displayName": "Silken Tofu, cubed", "quantity": 8, "unit": "oz", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 5, "unit": "cup", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 2, "unit": "clove", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, sliced", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onion, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.25, "unit": "tsp", "optional": false},
+        {"canonicalName": "sesame_oil", "displayName": "Sesame Oil", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 2, "unit": "tbsp", "optional": false}
+      ],
+      "instructions": [
+        "Bring chicken broth, garlic, and ginger to a boil in a pot.",
+        "Gently add silken tofu cubes. Reduce heat to a gentle simmer.",
+        "Slowly drizzle beaten eggs into the simmering broth while stirring gently to create egg ribbons.",
+        "Season with fish sauce and white pepper.",
+        "Serve garnished with green onion, cilantro, and a drizzle of sesame oil."
+      ],
+      "nutrition": {
+        "calories": 145,
+        "proteinGrams": 14,
+        "carbsGrams": 4,
+        "fatGrams": 8,
+        "fiberGrams": 0,
+        "sodiumMg": 720
+      }
+    },
+    {
+      "id": "recipe_t059",
+      "title": "Thai Kabocha Squash Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "high-fiber", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "kabocha_squash", "displayName": "Kabocha Squash, peeled and cubed", "quantity": 2, "unit": "lb", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Full-Fat Coconut Milk", "quantity": 1, "unit": "can", "optional": false},
+        {"canonicalName": "vegetable_broth", "displayName": "Vegetable Broth", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "yellow_curry_paste", "displayName": "Thai Yellow Curry Paste", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lemongrass", "displayName": "Lemongrass, bruised", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "galangal", "displayName": "Galangal, sliced", "quantity": 3, "unit": "slice", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "In a pot, heat a bit of oil and fry curry paste for 1 minute.",
+        "Add squash, coconut milk, broth, lemongrass, and galangal. Bring to a boil.",
+        "Simmer for 25 minutes until squash is extremely soft.",
+        "Remove lemongrass and galangal. Blend until velvety smooth.",
+        "Season with soy sauce, lime juice, and palm sugar.",
+        "Serve garnished with cilantro and a swirl of coconut cream."
+      ],
+      "nutrition": {
+        "calories": 290,
+        "proteinGrams": 5,
+        "carbsGrams": 36,
+        "fatGrams": 16,
+        "fiberGrams": 5,
+        "sodiumMg": 580
+      }
+    },
+    {
+      "id": "recipe_t060",
+      "title": "Thai Chicken and Ginger Soup",
+      "category": "soup",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "gluten-free", "dairy-free", "high-protein", "low-fat", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "chicken_breast", "displayName": "Chicken Breast, shredded", "quantity": 1, "unit": "lb", "optional": false},
+        {"canonicalName": "chicken_broth", "displayName": "Chicken Broth", "quantity": 6, "unit": "cup", "optional": false},
+        {"canonicalName": "ginger", "displayName": "Fresh Ginger, julienned", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic, smashed", "quantity": 4, "unit": "clove", "optional": false},
+        {"canonicalName": "napa_cabbage", "displayName": "Napa Cabbage, shredded", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "glass_noodles", "displayName": "Glass Noodles", "quantity": 2, "unit": "oz", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "soy_sauce", "displayName": "Light Soy Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "white_pepper", "displayName": "White Pepper", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "green_onion", "displayName": "Green Onions, sliced", "quantity": 3, "unit": "piece", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false}
+      ],
+      "instructions": [
+        "Bring chicken broth to a boil with garlic and ginger. Simmer for 10 minutes.",
+        "Add whole chicken breasts and poach for 12–15 minutes until cooked through. Remove and shred with two forks.",
+        "Meanwhile, soak glass noodles in warm water for 5 minutes, then add to the broth.",
+        "Add napa cabbage and cook for 3 minutes until wilted.",
+        "Return shredded chicken to the pot. Season with fish sauce, soy sauce, and white pepper.",
+        "Serve in deep bowls garnished with green onion and cilantro."
+      ],
+      "nutrition": {
+        "calories": 240,
+        "proteinGrams": 30,
+        "carbsGrams": 18,
+        "fatGrams": 5,
+        "fiberGrams": 2,
+        "sodiumMg": 820
+      }
+    },
+    {
+      "id": "recipe_t061",
+      "title": "Ajad (Thai Cucumber Relish Salad)",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "low-calorie", "low-fat", "quick"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Cucumber, thinly sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallot, thinly sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chili, thinly sliced", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "rice_vinegar", "displayName": "Rice Vinegar", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.5, "unit": "tsp", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 2, "unit": "tbsp", "optional": false}
+      ],
+      "instructions": [
+        "In a small saucepan, heat rice vinegar, sugar, and salt until the sugar dissolves. Let cool completely.",
+        "In a bowl, combine sliced cucumber, shallot, and chili.",
+        "Pour the cooled dressing over the vegetables and toss gently.",
+        "Let sit for at least 10 minutes to marinate. Serve chilled, garnished with cilantro."
+      ],
+      "nutrition": {
+        "calories": 60,
+        "proteinGrams": 1,
+        "carbsGrams": 14,
+        "fatGrams": 0,
+        "fiberGrams": 1,
+        "sodiumMg": 300
+      }
+    },
+    {
+      "id": "recipe_t062",
+      "title": "Perfect Thai Jasmine Rice",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 20,
+      "servings": 6,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free", "low-fat", "low-sodium"],
+      "ingredients": [
+        {"canonicalName": "jasmine_rice", "displayName": "Thai Jasmine Rice", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "water", "displayName": "Water", "quantity": 2.5, "unit": "cup", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "tsp", "optional": true}
+      ],
+      "instructions": [
+        "Place rice in a bowl and rinse under cold water 3–4 times until the water runs mostly clear. Drain well.",
+        "Combine rice, water, and salt (if using) in a pot with a tight-fitting lid.",
+        "Bring to a boil over high heat. Immediately reduce heat to the lowest setting, cover, and cook for 15 minutes.",
+        "Remove from heat and let stand, covered, for 5 minutes. Do not open the lid during cooking or resting.",
+        "Fluff gently with a fork and serve."
+      ],
+      "nutrition": {
+        "calories": 220,
+        "proteinGrams": 4,
+        "carbsGrams": 48,
+        "fatGrams": 0,
+        "fiberGrams": 0,
+        "sodiumMg": 100
+      }
+    },
+    {
+      "id": "recipe_t063",
+      "title": "Khao Niao (Thai Coconut Sticky Rice)",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "soft",
+      "prepTimeMin": 240,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["thai", "vegan", "gluten-free", "dairy-free"],
+      "ingredients": [
+        {"canonicalName": "sticky_rice", "displayName": "Thai Glutinous (Sticky) Rice", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Coconut Milk", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "salt", "displayName": "Salt", "quantity": 0.25, "unit": "tsp", "optional": false}
+      ],
+      "instructions": [
+        "Soak sticky rice in water for at least 4 hours or overnight. Drain well.",
+        "Line a steamer basket with cheesecloth. Add the soaked rice and spread evenly.",
+        "Steam over boiling water for 20–25 minutes until rice is translucent, tender, and sticky. Flip the rice halfway through if possible.",
+        "Meanwhile, gently heat coconut milk with palm sugar and salt until sugar dissolves.",
+        "Transfer the steamed rice to a bowl. Pour the coconut milk mixture over the rice and fold gently. Cover and let absorb for 5 minutes.",
+        "Serve as a side dish or with mango for dessert."
+      ],
+      "nutrition": {
+        "calories": 320,
+        "proteinGrams": 5,
+        "carbsGrams": 62,
+        "fatGrams": 7,
+        "fiberGrams": 1,
+        "sodiumMg": 160
+      }
+    },
+    {
+      "id": "recipe_t064",
+      "title": "Som Tum (Nut-Free Thai Green Papaya Salad)",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 3,
+      "tags": ["thai", "gluten-free", "dairy-free", "low-calorie", "vegan"],
+      "ingredients": [
+        {"canonicalName": "green_papaya", "displayName": "Green Papaya, shredded", "quantity": 3, "unit": "cup", "optional": false},
+        {"canonicalName": "cherry_tomato", "displayName": "Cherry Tomatoes, halved", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "green_beans", "displayName": "Green Beans, cut into 1-inch pieces and lightly blanched", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "garlic", "displayName": "Garlic", "quantity": 2, "unit": "clove", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chilies", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1.5, "unit": "tbsp", "optional": false},
+        {"canonicalName": "dried_shrimp", "displayName": "Dried Shrimp", "quantity": 1, "unit": "tbsp", "optional": true},
+        {"canonicalName": "sunflower_seeds", "displayName": "Roasted Sunflower Seeds (instead of peanuts)", "quantity": 2, "unit": "tbsp", "optional": true}
+      ],
+      "instructions": [
+        "In a large mortar and pestle, lightly pound garlic and chilies to a rough paste.",
+        "Add green beans and lightly bruise them.",
+        "Add palm sugar, lime juice, and fish sauce. Pound and mix.",
+        "Add shredded green papaya and cherry tomatoes. Use a spoon to toss and lightly bruise the papaya to absorb the dressing.",
+        "Add dried shrimp if using. Toss everything together.",
+        "Transfer to a plate and sprinkle with sunflower seeds. Serve immediately."
+      ],
+      "nutrition": {
+        "calories": 110,
+        "proteinGrams": 4,
+        "carbsGrams": 22,
+        "fatGrams": 2,
+        "fiberGrams": 3,
+        "sodiumMg": 680
+      }
+    },
+    {
+      "id": "recipe_t065",
+      "title": "Thai Steamed Vegetables with Coconut Dipping Sauce",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["thai", "vegetarian", "gluten-free", "dairy-free", "low-calorie", "quick"],
+      "ingredients": [
+        {"canonicalName": "broccoli", "displayName": "Broccoli Florets", "quantity": 2, "unit": "cup", "optional": false},
+        {"canonicalName": "bok_choy", "displayName": "Baby Bok Choy, halved", "quantity": 4, "unit": "piece", "optional": false},
+        {"canonicalName": "carrot", "displayName": "Carrot, sliced (steamed soft)", "quantity": 1, "unit": "piece", "optional": false},
+        {"canonicalName": "green_beans", "displayName": "Green Beans", "quantity": 1, "unit": "cup", "optional": false},
+        {"canonicalName": "coconut_milk", "displayName": "Coconut Milk", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "red_curry_paste", "displayName": "Red Curry Paste", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Lime Juice", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "palm_sugar", "displayName": "Palm Sugar", "quantity": 1, "unit": "tsp", "optional": false}
+      ],
+      "instructions": [
+        "Steam broccoli, bok choy, carrots, and green beans over boiling water for 6–8 minutes until all vegetables are tender (not crunchy).",
+        "Meanwhile, make the dipping sauce: heat coconut milk with curry paste in a small saucepan, stirring until smooth.",
+        "Season the sauce with fish sauce, lime juice, and palm sugar. Simmer for 2 minutes.",
+        "Arrange steamed vegetables on a plate. Serve with the warm coconut dipping sauce on the side."
+      ],
+      "nutrition": {
+        "calories": 130,
+        "proteinGrams": 5,
+        "carbsGrams": 14,
+        "fatGrams": 7,
+        "fiberGrams": 4,
+        "sodiumMg": 480
+      }
+    },
+    {
+      "id": "recipe_t066",
+      "title": "Thai Glass Noodle Salad with Lime Dressing",
+      "category": "side",
+      "cuisine": "thai",
+      "texture": "tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 5,
+      "servings": 4,
+      "tags": ["thai", "dairy-free", "gluten-free", "low-fat", "low-calorie", "quick"],
+      "ingredients": [
+        {"canonicalName": "glass_noodles", "displayName": "Glass Noodles (Mung Bean Vermicelli)", "quantity": 4, "unit": "oz", "optional": false},
+        {"canonicalName": "shallot", "displayName": "Shallots, thinly sliced", "quantity": 2, "unit": "piece", "optional": false},
+        {"canonicalName": "celery", "displayName": "Celery, thinly sliced", "quantity": 0.5, "unit": "cup", "optional": false},
+        {"canonicalName": "red_bell_pepper", "displayName": "Red Bell Pepper, julienned", "quantity": 0.5, "unit": "piece", "optional": false},
+        {"canonicalName": "mint", "displayName": "Fresh Mint Leaves", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "cilantro", "displayName": "Fresh Cilantro", "quantity": 0.25, "unit": "cup", "optional": false},
+        {"canonicalName": "lime_juice", "displayName": "Fresh Lime Juice", "quantity": 3, "unit": "tbsp", "optional": false},
+        {"canonicalName": "fish_sauce", "displayName": "Fish Sauce", "quantity": 2, "unit": "tbsp", "optional": false},
+        {"canonicalName": "sugar", "displayName": "Sugar", "quantity": 1, "unit": "tbsp", "optional": false},
+        {"canonicalName": "thai_chili", "displayName": "Thai Chili, minced", "quantity": 1, "unit": "piece", "optional": false}
+      ],
+      "instructions": [
+        "Soak glass noodles in hot water for 5 minutes until soft. Boil briefly (1 minute), drain, and cut into shorter lengths.",
+        "In a small bowl, whisk lime juice, fish sauce, sugar, and minced chili to make the dressing.",
+        "In a large bowl, combine noodles, shallots, celery, red bell pepper, mint, and cilantro.",
+        "Pour dressing over the salad and toss gently to combine.",
+        "Serve immediately or chilled."
+      ],
+      "nutrition": {
+        "calories": 140,
+        "proteinGrams": 2,
+        "carbsGrams": 30,
+        "fatGrams": 1,
+        "fiberGrams": 2,
+        "sodiumMg": 580
+      }
+    }
+  ]
+}

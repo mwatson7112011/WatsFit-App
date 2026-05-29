@@ -1,0 +1,1129 @@
+{
+  "recipes": [
+    {
+      "id": "ita_1",
+      "title": "Lemony Orzo with Spinach & Parmesan",
+      "description": "Lemon Orzo with Spinach is a bright and simple side dish you can make in no time! Packed with lemony orzo, healthy spinach, and tangy parmesan cheese, it’s so delicious.",
+      "category": "Side Dish",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["healthy", "fresh", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "orzo", "displayName": "Uncooked orzo pasta", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach, roughly chopped", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon_juice", "displayName": "Juice of 1/2 lemon", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "parmesan", "displayName": "Parmesan cheese, freshly grated", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "salt", "displayName": "Sea salt and pepper", "quantity": 1.0, "unit": "to taste"},
+        {"canonicalName": "lemon_wedge", "displayName": "Lemon wedges, for serving", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Cook the orzo according to the package directions. Once al dente, add the spinach to the boiling water with the orzo. Cook for 1-2 more minutes until orzo is at desired consistency and spinach is wilted.",
+        "Remove from heat and drain. Return the orzo and spinach back to the pot.",
+        "Add the olive oil, lemon juice, and parmesan cheese. Stir to combine. Season with sea salt and pepper, to taste.",
+        "Serve warm with lemon wedges (optional). Enjoy!"
+      ],
+      "nutrition": {"calories": 280, "proteinGrams": 9, "carbsGrams": 38, "fatGrams": 12}
+    },
+    {
+      "id": "ita_2",
+      "title": "Classic Herb-Roasted Branzino",
+      "description": "A traditional Mediterranean preparation of whole sea bass. The fish is stuffed with aromatic herbs and lemon, then roasted until the skin is crispy and the flesh is buttery soft.",
+      "category": "Dinner",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["omega3", "baked", "protein"],
+      "ingredients": [
+        {"canonicalName": "branzino", "displayName": "Whole branzino (cleaned)", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "lemon", "displayName": "Lemon, sliced into rounds", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "rosemary", "displayName": "Fresh rosemary sprigs", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "thyme", "displayName": "Fresh thyme sprigs", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, smashed", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Preheat your oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+        "Pat the fish dry inside and out with paper towels. This is crucial for achieving a crispy skin.",
+        "Make three shallow diagonal cuts on both sides of the fish.",
+        "Stuff the cavity of the fish with half of the lemon slices, smashed garlic, and fresh herb sprigs.",
+        "Place the fish on the baking sheet, drizzle with olive oil, and season with salt and pepper.",
+        "Roast for 18-20 minutes until the flesh is opaque and flakes easily. Let rest for 3 minutes before serving."
+      ],
+      "nutrition": {"calories": 310, "proteinGrams": 42, "carbsGrams": 5, "fatGrams": 14}
+    },
+    {
+      "id": "ita_3",
+      "title": "Healthy Chicken Cacciatore",
+      "description": "A rustic 'hunter-style' stew made with lean chicken breast, bell peppers, and a rich tomato-herb sauce. This version is simmered slowly to meld the flavors without heavy oils.",
+      "category": "Dinner",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["protein", "lean", "classic"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Boneless skinless chicken breast, cubed", "quantity": 1.5, "unit": "lbs"},
+        {"canonicalName": "onion", "displayName": "Yellow onion, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "bell_pepper", "displayName": "Bell peppers (red and green), sliced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "mushroom", "displayName": "Cremini mushrooms, sliced", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "tomato", "displayName": "Crushed tomatoes", "quantity": 28.0, "unit": "oz"},
+        {"canonicalName": "oregano", "displayName": "Dried oregano", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "In a large deep skillet, sear the chicken cubes in a teaspoon of olive oil over medium-high heat until golden on all sides. Remove and set aside.",
+        "In the same pan, sauté the onions, peppers, and mushrooms for 5-7 minutes until softened.",
+        "Pour in the crushed tomatoes and add the oregano, salt, and pepper. Bring to a gentle simmer.",
+        "Return the chicken to the pan. Cover and simmer over low heat for 20 minutes until the chicken is tender and the sauce has thickened.",
+        "Serve over whole wheat pasta or a bed of steamed greens."
+      ]
+    },
+    {
+      "id": "ita_4",
+      "title": "Tuscan Kale & White Bean Soup",
+      "description": "A hearty and fiber-rich soup that defines Tuscan comfort food. Creamy cannellini beans and nutrient-dense kale are simmered in a garlic-infused broth.",
+      "category": "Soup",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 6,
+      "tags": ["fiber", "vegan", "hearty"],
+      "ingredients": [
+        {"canonicalName": "bean", "displayName": "Cannellini beans, drained and rinsed", "quantity": 30.0, "unit": "oz"},
+        {"canonicalName": "kale", "displayName": "Lacinato kale, stems removed and chopped", "quantity": 1.0, "unit": "bunch"},
+        {"canonicalName": "carrot", "displayName": "Carrots, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "celery", "displayName": "Celery stalks, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "broth", "displayName": "Vegetable broth", "quantity": 6.0, "unit": "cups"},
+        {"canonicalName": "rosemary", "displayName": "Fresh rosemary, minced", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "In a large pot, sauté carrots and celery in a splash of broth or oil for 5 minutes.",
+        "Add the minced garlic and rosemary, cooking for 1 minute until fragrant.",
+        "Pour in the vegetable broth and the beans. Bring to a boil, then reduce heat and simmer for 15 minutes.",
+        "Add the chopped kale and cook for another 5 minutes until the kale is tender and bright green.",
+        "Season with salt and plenty of black pepper. Serve with a drizzle of high-quality olive oil on top."
+      ]
+    },
+    {
+      "id": "ita_5",
+      "title": "Zucchini Frittata with Fresh Basil",
+      "category": "Breakfast",
+      "description": "A light and protein-packed Italian omelet. Thinly sliced zucchini and fresh basil are baked with eggs for a simple yet sophisticated start to your day.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["vegetarian", "protein", "eggs"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Large eggs", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "zucchini", "displayName": "Medium zucchini, thinly sliced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "basil", "displayName": "Fresh basil leaves, torn", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "parmesan", "displayName": "Grated parmesan cheese", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Whisk the eggs in a bowl with a pinch of salt and pepper.",
+        "Heat a non-stick oven-safe skillet over medium heat. Sauté the zucchini slices for 4-5 minutes until tender and slightly browned.",
+        "Pour the eggs over the zucchini. Sprinkle with the torn basil and parmesan cheese.",
+        "Cook undisturbed for 2-3 minutes until the edges are set.",
+        "Place the skillet under a broiler for 2-3 minutes until the top is puffed and golden. Slice into wedges and serve."
+      ]
+    },
+    {
+      "id": "ita_6",
+      "title": "Eggplant Involtini (Ricotta Rolls)",
+      "category": "Appetizer",
+      "description": "Elegant rolls of grilled eggplant filled with a light herb-ricotta mixture. A healthy, low-carb alternative to traditional pasta-based dishes.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 15,
+      "servings": 4,
+      "tags": ["vegetarian", "low-carb", "appetizer"],
+      "ingredients": [
+        {"canonicalName": "eggplant", "displayName": "Large eggplant, sliced long and thin", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "ricotta", "displayName": "Part-skim ricotta cheese", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach, chopped", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "marinara", "displayName": "Low-sugar marinara sauce", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Brush eggplant slices with a little olive oil and salt. Grill or pan-sear for 2-3 minutes per side until pliable.",
+        "In a bowl, mix ricotta cheese with chopped spinach, salt, and pepper.",
+        "Place a tablespoon of the cheese mixture at one end of an eggplant slice and roll it up tightly.",
+        "Spread half the marinara in a baking dish. Arrange the rolls seam-side down in the dish.",
+        "Top with remaining sauce and bake at 375°F for 15 minutes until bubbly and hot."
+      ]
+    },
+    {
+      "id": "ita_7",
+      "title": "Healthy Italian Minestrone",
+      "category": "Soup",
+      "description": "The definitive garden-fresh Italian soup. This version is packed with seasonal vegetables and beans, using whole wheat pasta for a high-fiber, low-fat meal.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 6,
+      "tags": ["fiber", "vegetable-heavy", "vegan"],
+      "ingredients": [
+        {"canonicalName": "zucchini", "displayName": "Medium zucchini, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "carrot", "displayName": "Carrots, diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "celery", "displayName": "Celery stalks, sliced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "potato", "displayName": "Yukon Gold potato, diced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "bean", "displayName": "Red kidney beans, rinsed", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "pasta", "displayName": "Whole wheat ditalini pasta", "quantity": 0.5, "unit": "cup"},
+        {"canonicalName": "tomato", "displayName": "Diced tomatoes with juice", "quantity": 14.5, "unit": "oz"},
+        {"canonicalName": "broth", "displayName": "Vegetable broth", "quantity": 6.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "In a large pot, sauté carrots, celery, and onions for 5 minutes.",
+        "Add the diced potatoes and zucchini, and cook for another 3 minutes.",
+        "Pour in the vegetable broth and diced tomatoes. Bring to a boil.",
+        "Add the whole wheat pasta and kidney beans. Simmer for 10-12 minutes until the pasta is al dente and vegetables are tender.",
+        "Stir in fresh parsley and season with salt and pepper before serving."
+      ]
+    },
+    {
+      "id": "ita_8",
+      "title": "Zucchini Noodles with Walnut Pesto",
+      "category": "Dinner",
+      "description": "A light and vibrant low-carb dish. Spiralized zucchini strands are tossed in a homemade pesto made with fresh basil, heart-healthy walnuts, and garlic.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["low-carb", "vegan", "raw-ish"],
+      "ingredients": [
+        {"canonicalName": "zucchini", "displayName": "Large zucchini, spiralized", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "basil", "displayName": "Fresh basil leaves", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "walnut", "displayName": "Walnut halves", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 3.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "To make the pesto: Combine basil, walnuts, garlic, and lemon juice in a food processor. Pulse while slowly drizzling in olive oil until a thick paste forms.",
+        "Heat a large non-stick skillet over medium-high heat. Add the zucchini noodles and a splash of water.",
+        "Sauté for 2-3 minutes just until tender but still holding their shape. Do not overcook or they will become watery.",
+        "Remove from heat and immediately toss with the fresh pesto. Serve with a few halved cherry tomatoes on top."
+      ]
+    },
+    {
+      "id": "ita_9",
+      "title": "Tuna and White Bean Salad",
+      "category": "Lunch",
+      "description": "A classic no-cook Italian lunch. High-protein tuna is paired with creamy cannellini beans, red onion, and a bright lemon-herb vinaigrette.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["protein", "no-cook", "quick"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "White meat tuna in water, drained", "quantity": 10.0, "unit": "oz"},
+        {"canonicalName": "bean", "displayName": "Cannellini beans, rinsed", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "onion", "displayName": "Red onion, finely diced", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "parsley", "displayName": "Fresh flat-leaf parsley, chopped", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon", "displayName": "Juice of 1 lemon", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a medium bowl, flake the drained tuna with a fork.",
+        "Add the cannellini beans, diced red onion, and chopped parsley.",
+        "Drizzle with lemon juice and olive oil. Season generously with cracked black pepper and a pinch of salt.",
+        "Toss gently to combine. Serve over a bed of arugula or in a whole wheat wrap."
+      ]
+    },
+    {
+      "id": "ita_10",
+      "title": "Caprese Skewers with Balsamic Glaze",
+      "category": "Appetizer",
+      "description": "A beautiful and healthy bite-sized version of the classic Caprese salad. Featuring fresh mozzarella, sweet cherry tomatoes, and aromatic basil.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegetarian", "fresh", "appetizer"],
+      "ingredients": [
+        {"canonicalName": "tomato", "displayName": "Cherry tomatoes", "quantity": 20.0, "unit": "piece"},
+        {"canonicalName": "mozzarella", "displayName": "Mini mozzarella balls (Bocconcini)", "quantity": 20.0, "unit": "piece"},
+        {"canonicalName": "basil", "displayName": "Fresh large basil leaves", "quantity": 20.0, "unit": "piece"},
+        {"canonicalName": "balsamic", "displayName": "Balsamic glaze", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "On a small wooden skewer, thread a cherry tomato, a folded basil leaf, and then a mini mozzarella ball.",
+        "Repeat for all ingredients.",
+        "Arrange the skewers on a serving platter.",
+        "Just before serving, drizzle lightly with the balsamic glaze and a tiny pinch of sea salt."
+      ]
+    },
+    {
+      "id": "ita_11",
+      "title": "Whole Wheat Spaghetti Marinara",
+      "category": "Dinner",
+      "description": "The ultimate simple Italian meal. We use fiber-rich whole wheat pasta and a slow-simmered homemade marinara sauce with no added sugar.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["healthy", "classic", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "pasta", "displayName": "Whole wheat spaghetti", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "tomato", "displayName": "Crushed tomatoes", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, minced", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "basil", "displayName": "Fresh basil leaves", "quantity": 6.0, "unit": "piece"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Bring a large pot of salted water to a boil. Cook the spaghetti until al dente.",
+        "While the pasta cooks, heat olive oil in a skillet and sauté the minced garlic for 1 minute until fragrant.",
+        "Add the crushed tomatoes and a pinch of salt/pepper. Simmer for 15 minutes over low heat.",
+        "Toss the cooked pasta directly into the sauce. Stir in the fresh basil leaves until wilted.",
+        "Serve immediately with a light dusting of parmesan if desired."
+      ]
+    },
+    {
+      "id": "ita_12",
+      "title": "Lemon Herb Roasted Chicken",
+      "category": "Dinner",
+      "description": "Juicy roasted chicken breast seasoned with Italian herbs and citrus. A high-protein staple that is both simple and extremely flavorful.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 2,
+      "tags": ["protein", "lean", "baked"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Boneless skinless chicken breast", "quantity": 14.0, "unit": "oz"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "oregano", "displayName": "Dried oregano", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "thyme", "displayName": "Fresh thyme, minced", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "garlic", "displayName": "Garlic powder", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F (200°C).",
+        "Place chicken breasts in a baking dish. Drizzle with lemon juice and a teaspoon of olive oil.",
+        "Sprinkle all herbs and seasonings over both sides of the chicken.",
+        "Bake for 20-25 minutes until the internal temperature reaches 165°F.",
+        "Let the chicken rest for 5 minutes before slicing to keep it juicy."
+      ]
+    },
+    {
+      "id": "ita_13",
+      "title": "Bean and Spinach Salad",
+      "category": "Salad",
+      "description": "A nutrient-packed salad that provides a perfect balance of fiber and plant-based protein. Topped with a zesty lemon-vinaigrette.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "quick"],
+      "ingredients": [
+        {"canonicalName": "bean", "displayName": "White navy beans, rinsed", "quantity": 15.0, "unit": "oz"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach leaves", "quantity": 3.0, "unit": "cups"},
+        {"canonicalName": "onion", "displayName": "Red onion, thinly sliced", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "lemon", "displayName": "Fresh lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "In a large bowl, combine the spinach, white beans, and red onion.",
+        "Whisk together lemon juice, a teaspoon of olive oil, salt, and pepper.",
+        "Toss the salad with the dressing until well coated. Serve immediately."
+      ]
+    },
+    {
+      "id": "ita_14",
+      "title": "Low-Carb Vegetable Lasagna",
+      "category": "Dinner",
+      "description": "A clever and healthy twist on lasagna. We replace the pasta sheets with thin slabs of roasted zucchini for a low-carb, vegetable-dense meal.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 25,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["healthy", "low-carb", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "zucchini", "displayName": "Large zucchini, sliced into long slabs", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "ricotta", "displayName": "Part-skim ricotta", "quantity": 1.5, "unit": "cups"},
+        {"canonicalName": "marinara", "displayName": "Low-sugar marinara sauce", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "mozzarella", "displayName": "Shredded part-skim mozzarella", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Preheat oven to 375°F. Roast zucchini slabs for 10 minutes to remove excess moisture.",
+        "Spread a layer of sauce in a baking dish. Top with a layer of zucchini slabs.",
+        "Spread ricotta over zucchini, then another layer of sauce and cheese.",
+        "Repeat layers twice more. Bake for 30 minutes until the top is golden and bubbly."
+      ]
+    },
+    {
+      "id": "ita_15",
+      "title": "Turkey Italian Wedding Soup",
+      "category": "Soup",
+      "description": "A lighter version of the classic 'Minestra Maritata'. Featuring mini turkey meatballs and fresh spinach in a clear, nourishing broth.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["protein", "nourishing", "lean"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Lean ground turkey meatballs (pre-cooked)", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "pasta", "displayName": "Small acini di pepe pasta (cooked)", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "broth", "displayName": "Chicken broth", "quantity": 6.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Bring chicken broth to a simmer in a large pot.",
+        "Add the pre-cooked mini turkey meatballs and cooked pasta.",
+        "Simmer for 10 minutes to heat through.",
+        "Stir in the baby spinach and cook for 2 minutes until just wilted. Serve immediately."
+      ]
+    },
+    {
+      "id": "ita_16",
+      "title": "Grilled Swordfish with Caper Garnish",
+      "category": "Dinner",
+      "description": "A Sicilian specialty. Meaty swordfish steaks are grilled quickly to keep them moist and topped with a salty-sour caper and lemon topping.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["omega3", "premium", "grilled"],
+      "ingredients": [
+        {"canonicalName": "swordfish", "displayName": "Swordfish steaks", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "capers", "displayName": "Capers, drained", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "parsley", "displayName": "Fresh parsley, minced", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "lemon", "displayName": "Lemon wedges", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Season swordfish steaks with salt and pepper. Grill for 4-5 minutes per side until just opaque.",
+        "In a small bowl, mix capers, parsley, and a teaspoon of olive oil.",
+        "Top the hot fish with the caper mixture and a squeeze of fresh lemon."
+      ]
+    },
+    {
+      "id": "ita_17",
+      "title": "Arugula and Pear Salad with Walnuts",
+      "category": "Salad",
+      "description": "A sophisticated Italian salad that hits all the flavor notes: peppery arugula, sweet ripe pear, and crunchy walnuts.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "vegetarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "arugula", "displayName": "Baby arugula leaves", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "pear", "displayName": "Bosc pear, thinly sliced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "walnut", "displayName": "Toasted walnut halves", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "parmesan", "displayName": "Shaved parmesan", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Place arugula in a large bowl. Top with the sliced pears and walnuts.",
+        "Drizzle with a simple dressing of balsamic vinegar and olive oil.",
+        "Top with shaved parmesan cheese and toss gently."
+      ]
+    },
+    {
+      "id": "ita_18",
+      "title": "Mussels in Spicy Tomato Broth",
+      "category": "Dinner",
+      "description": "A lighter take on 'Cozze al Pomodoro'. Fresh mussels are steamed in a fragrant broth of tomatoes, garlic, and a hint of red chili.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["seafood", "low-cal", "omega3"],
+      "ingredients": [
+        {"canonicalName": "mussels", "displayName": "Fresh mussels, scrubbed", "quantity": 2.0, "unit": "lbs"},
+        {"canonicalName": "tomato", "displayName": "Diced tomatoes", "quantity": 14.5, "unit": "oz"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, sliced", "quantity": 3.0, "unit": "piece"},
+        {"canonicalName": "chili", "displayName": "Red pepper flakes", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "In a large pot, sauté garlic and red pepper flakes for 1 minute.",
+        "Add the diced tomatoes and bring to a simmer for 5 minutes.",
+        "Add the mussels and cover the pot tightly. Steam for 5-7 minutes until all mussels have opened.",
+        "Discard any that did not open. Serve in deep bowls with the broth."
+      ]
+    },
+    {
+      "id": "ita_19",
+      "title": "Garlic Sautéed Broccoli Rabe",
+      "category": "Side Dish",
+      "description": "An authentic Italian bitter-green side dish. Blanched quickly to reduce bitterness and then seared with sliced garlic and olive oil.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["healthy", "vegan", "iron-rich"],
+      "ingredients": [
+        {"canonicalName": "broccoli_rabe", "displayName": "Broccoli rabe (Rapini)", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, sliced", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "olive_oil", "displayName": "Extra virgin olive oil", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Blanch the broccoli rabe in boiling water for 2 minutes. Drain and plunge into ice water.",
+        "In a large skillet, heat olive oil and sauté garlic until just golden.",
+        "Add the broccoli rabe and a pinch of salt. Sauté for 5 minutes until tender-crisp."
+      ]
+    },
+    {
+      "id": "ita_20",
+      "title": "Creamy Polenta with Wild Mushrooms",
+      "category": "Lunch",
+      "description": "A comforting northern Italian dish. Soft, golden cornmeal polenta topped with a mixture of earthy, pan-seared mushrooms.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 2,
+      "tags": ["vegetarian", "comfort-food", "gluten-free"],
+      "ingredients": [
+        {"canonicalName": "polenta", "displayName": "Yellow cornmeal polenta", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "mushroom", "displayName": "Mixed wild mushrooms", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "thyme", "displayName": "Fresh thyme", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Cook polenta in 4 cups of water/broth until thick and creamy (approx 20 mins).",
+        "Sauté mushrooms with thyme and garlic in a separate pan until browned.",
+        "Spoon the hot polenta into bowls and top with the mushroom mixture."
+      ]
+    },
+    {
+      "id": "ita_21",
+      "title": "Baked Cod with Cherry Tomatoes & Olives",
+      "category": "Dinner",
+      "description": "A light and healthy Mediterranean fish dish. Cod fillets are baked with sweet cherry tomatoes, salty kalamata olives, and aromatic herbs.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "cod", "displayName": "Fresh cod fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "tomato", "displayName": "Cherry tomatoes, halved", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "olive", "displayName": "Kalamata olives, pitted", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "capers", "displayName": "Capers", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Preheat oven to 400°F. Place fish in a baking dish.",
+        "Scatter tomatoes, olives, and capers around the fish. Drizzle with olive oil.",
+        "Bake for 12-15 minutes until the fish is opaque and flaky."
+      ]
+    },
+    {
+      "id": "ita_22",
+      "title": "Roasted Vegetable and Farro Salad",
+      "category": "Lunch",
+      "description": "A chewy, fiber-packed grain salad featuring Farro (emmer wheat). Tossed with roasted seasonal vegetables and a balsamic vinaigrette.",
+      "cuisine": "Italian",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["grain", "vegan", "fiber"],
+      "ingredients": [
+        {"canonicalName": "farro", "displayName": "Pearled farro", "quantity": 1.5, "unit": "cups"},
+        {"canonicalName": "butternut", "displayName": "Butternut squash, cubed", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "onion", "displayName": "Red onion, wedged", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Cook farro according to package directions. Drain and cool.",
+        "Roast squash and onions at 400°F for 20 minutes.",
+        "Combine farro and vegetables in a large bowl. Dress with balsamic and serve."
+      ]
+    },
+    {
+      "id": "ita_23",
+      "title": "Wheat Margherita Flatbread",
+      "category": "Dinner",
+      "description": "A light and healthy pizza alternative using whole wheat dough, fresh tomatoes, and part-skim mozzarella cheese.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["vegetarian", "light"],
+      "ingredients": [
+        {"canonicalName": "flatbread", "displayName": "Whole wheat flatbread or wrap", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Roma tomatoes, sliced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "mozzarella", "displayName": "Fresh mozzarella, sliced", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "basil", "displayName": "Fresh basil", "quantity": 0.25, "unit": "cup"}
+      ],
+      "instructions": [
+        "Preheat oven to 425°F. Place flatbreads on a baking sheet.",
+        "Layer with tomato slices and mozzarella. Bake for 8-10 minutes until cheese is melted.",
+        "Top with fresh basil leaves and serve immediately."
+      ]
+    },
+    {
+      "id": "ita_24",
+      "title": "Shrimp Scampi over Zucchini Noodles",
+      "category": "Dinner",
+      "description": "A low-carb version of the garlicky seafood classic. We replace traditional pasta with fresh zucchini strands to keep it light and refreshing.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["low-carb", "seafood", "protein"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large shrimp, peeled", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "zucchini", "displayName": "Zucchini noodles", "quantity": 2.0, "unit": "lbs"},
+        {"canonicalName": "garlic", "displayName": "Garlic, minced", "quantity": 4.0, "unit": "cloves"}
+      ],
+      "instructions": [
+        "Sauté garlic and shrimp in a teaspoon of olive oil for 3 minutes until pink.",
+        "Add zucchini noodles and cook for 2 more minutes just until warmed through.",
+        "Squeeze fresh lemon over the top and serve hot."
+      ]
+    },
+    {
+      "id": "ita_25",
+      "title": "Healthy Panzanella Salad",
+      "category": "Salad",
+      "description": "A Tuscan bread salad that uses toasted whole wheat cubes to soak up the juices of ripe tomatoes and fresh vinaigrette.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegetarian", "fiber", "summer"],
+      "ingredients": [
+        {"canonicalName": "bread", "displayName": "Whole wheat bread cubes, toasted", "quantity": 4.0, "unit": "cups"},
+        {"canonicalName": "tomato", "displayName": "Ripe tomatoes, chopped", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "cucumber", "displayName": "English cucumber, sliced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Combine bread cubes, tomatoes, and cucumbers in a large bowl.",
+        "Let the salad sit for 10 minutes so the bread can absorb the tomato juices.",
+        "Toss with olive oil and vinegar before serving."
+      ]
+    },
+    {
+      "id": "ita_26",
+      "title": "Baked Chicken Piccata",
+      "category": "Dinner",
+      "description": "A bright and tangy chicken dish. We bake the chicken instead of pan-frying to reduce fat, using a zesty lemon-caper sauce for maximum flavor.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["protein", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "chicken", "displayName": "Chicken breasts, pounded thin", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "lemon", "displayName": "Lemon juice", "quantity": 2.0, "unit": "tablespoons"},
+        {"canonicalName": "capers", "displayName": "Capers", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Place pounded chicken in a baking dish. Drizzle with lemon juice and scatter capers on top.",
+        "Bake at 400°F for 18-20 minutes.",
+        "Serve with a side of steamed asparagus."
+      ]
+    },
+    {
+      "id": "ita_27",
+      "title": "Tuscan Ribollita (Reboiled Soup)",
+      "category": "Soup",
+      "cuisine": "Italian",
+      "description": "A classic Tuscan bean and vegetable soup. Traditionally thickened with bread, this version is hearty, satisfying, and full of fiber.",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 45,
+      "servings": 6,
+      "tags": ["hearty", "fiber", "vegan"],
+      "ingredients": [
+        {"canonicalName": "kale", "displayName": "Kale, chopped", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "bean", "displayName": "Cannellini beans", "quantity": 2.0, "unit": "cans"},
+        {"canonicalName": "bread", "displayName": "Day-old whole wheat bread", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Simmer kale and beans in a large pot of vegetable broth for 30 minutes.",
+        "Stir in the bread cubes and cook for 10 more minutes until they break down and thicken the soup.",
+        "Season with salt and pepper."
+      ]
+    },
+    {
+      "id": "ita_28",
+      "title": "Grilled Calamari with Lemon & Parsley",
+      "category": "Appetizer",
+      "description": "A healthy alternative to fried calamari. Fresh squid is grilled quickly over high heat and finished with a bright citrus herb dressing.",
+      "cuisine": "Italian",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["seafood", "low-cal", "grilled"],
+      "ingredients": [
+        {"canonicalName": "calamari", "displayName": "Squid tubes and tentacles", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "lemon", "displayName": "Lemon", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "parsley", "displayName": "Fresh parsley", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Grill squid over very high heat for only 2 minutes per side.",
+        "Toss with fresh lemon juice and chopped parsley while still hot."
+      ]
+    },
+    {
+      "id": "ita_29",
+      "title": "Cannellini Bean and Rosemary Dip",
+      "category": "Appetizer",
+      "description": "A smooth and savory white bean spread. Perfect as a healthy substitute for high-fat party dips or as a sandwich spread.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 4,
+      "tags": ["vegan", "protein", "no-cook"],
+      "ingredients": [
+        {"canonicalName": "bean", "displayName": "Cannellini beans", "quantity": 1.0, "unit": "can"},
+        {"canonicalName": "rosemary", "displayName": "Fresh rosemary, minced", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "garlic", "displayName": "Garlic clove", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Blend beans, rosemary, and garlic in a food processor until smooth.",
+        "Season with salt and a touch of olive oil."
+      ]
+    },
+    {
+      "id": "ita_30",
+      "title": "Roasted Fennel Bulbs with Orange",
+      "category": "Side Dish",
+      "description": "An aromatic side dish. Fennel bulbs are roasted until caramelized and sweet, then paired with fresh orange for a bright Sicilian-style finish.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["vegan", "vegetable", "baked"],
+      "ingredients": [
+        {"canonicalName": "fennel", "displayName": "Large fennel bulbs, sliced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "orange", "displayName": "Orange segments", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Toss fennel slices with a little olive oil and roast at 400°F for 20-25 minutes.",
+        "Add fresh orange segments before serving."
+      ]
+    },
+    {
+      "id": "ita_31",
+      "title": "Healthy Cioppino (Italian Seafood Stew)",
+      "category": "Dinner",
+      "description": "A lighter take on the San Francisco-Italian classic. This tomato-based stew is brimming with fresh white fish, shrimp, and mussels.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 30,
+      "servings": 4,
+      "tags": ["seafood", "omega3", "one-pot"],
+      "ingredients": [
+        {"canonicalName": "white_fish", "displayName": "Cod or Halibut, cubed", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "shrimp", "displayName": "Shrimp, peeled", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "mussels", "displayName": "Mussels, scrubbed", "quantity": 12.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Crushed tomatoes", "quantity": 28.0, "unit": "oz"},
+        {"canonicalName": "fennel", "displayName": "Fennel, diced", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Sauté diced fennel and onion in a large pot for 5 minutes.",
+        "Add crushed tomatoes and bring to a simmer. Add the fish cubes and cook for 10 minutes.",
+        "Add the shrimp and mussels. Cover and simmer for 5-8 minutes until mussels open and fish is cooked through."
+      ]
+    },
+    {
+      "id": "ita_32",
+      "title": "Vegetarian Lentil Bolognese",
+      "category": "Dinner",
+      "description": "A high-protein, meatless version of the classic Bolognese sauce. Lentils provide the same hearty texture and are simmered with root vegetables.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 40,
+      "servings": 4,
+      "tags": ["vegan", "protein", "fiber"],
+      "ingredients": [
+        {"canonicalName": "lentils", "displayName": "Dried brown lentils, rinsed", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "carrot", "displayName": "Carrots, finely diced", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "tomato", "displayName": "Tomato puree", "quantity": 15.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "In a large pot, sauté carrots and onions. Add the lentils and tomato puree.",
+        "Simmer for 35-40 minutes over low heat until lentils are soft.",
+        "Serve over whole wheat pasta or zucchini noodles."
+      ]
+    },
+    {
+      "id": "ita_33",
+      "title": "Radicchio and Orange Salad",
+      "category": "Salad",
+      "description": "A refreshing salad from southern Italy. The bitterness of radicchio is perfectly balanced by the sweetness of fresh oranges and honey.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "vitamin-rich", "vegan"],
+      "ingredients": [
+        {"canonicalName": "radicchio", "displayName": "Head of radicchio, torn", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "orange", "displayName": "Orange, peeled and sliced", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Combine radicchio and orange slices in a bowl.",
+        "Dress with a simple mixture of olive oil, lemon juice, and a drop of honey."
+      ]
+    },
+    {
+      "id": "ita_34",
+      "title": "Baked Turkey Saltimbocca",
+      "category": "Dinner",
+      "description": "A healthier take on the classic Roman dish. We use lean turkey cutlets wrapped with fresh sage and a small piece of prosciutto.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["protein", "lean", "classic"],
+      "ingredients": [
+        {"canonicalName": "turkey", "displayName": "Turkey cutlets, pounded thin", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "sage", "displayName": "Fresh sage leaves", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "prosciutto", "displayName": "Lean prosciutto slices", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Place a sage leaf on each turkey cutlet, then wrap with half a slice of prosciutto.",
+        "Secure with a toothpick. Bake at 400°F for 12-15 minutes until turkey is cooked through."
+      ]
+    },
+    {
+      "id": "ita_35",
+      "title": "Roman-Style Stuffed Tomatoes",
+      "category": "Side Dish",
+      "description": "Large ripe tomatoes stuffed with an herb-infused rice mixture and baked until the skins are tender and the rice is flavorful.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["vegetarian", "fiber", "baked"],
+      "ingredients": [
+        {"canonicalName": "tomato", "displayName": "Large vine tomatoes", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "rice", "displayName": "Cooked brown rice", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Hollow out the tomatoes. Mix the rice with the tomato pulp and chopped basil.",
+        "Stuff the mixture back into the tomatoes. Bake at 375°F for 25 minutes."
+      ]
+    },
+    {
+      "id": "ita_36",
+      "title": "Spinach Stracciatella (Egg Drop) Soup",
+      "category": "Soup",
+      "description": "The quintessential Italian 'remedy' soup. A simple broth with clouds of egg and cheese, and plenty of fresh spinach for a nutrient boost.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["protein", "nourishing", "eggs"],
+      "ingredients": [
+        {"canonicalName": "egg", "displayName": "Large eggs", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach, chopped", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "broth", "displayName": "Chicken or Vegetable broth", "quantity": 4.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Bring broth to a gentle boil. In a small bowl, whisk the eggs with a teaspoon of parmesan.",
+        "Stir the boiling broth in a circular motion and slowly drizzle the egg into the pot.",
+        "Stir in the spinach and turn off the heat once it wilts."
+      ]
+    },
+    {
+      "id": "ita_37",
+      "title": "Cod in Acquapazza (Crazy Water)",
+      "category": "Dinner",
+      "description": "A traditional Neapolitan method of poaching fish in 'crazy water' made of cherry tomatoes, garlic, and fresh herbs.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "healthy", "seafood"],
+      "ingredients": [
+        {"canonicalName": "cod", "displayName": "Cod fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "tomato", "displayName": "Cherry tomatoes, halved", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Place tomatoes and garlic in a shallow skillet with 1/2 cup of water. Simmer for 5 minutes.",
+        "Add the fish fillets. Cover and poach for 8-10 minutes until the fish is opaque."
+      ]
+    },
+    {
+      "id": "ita_38",
+      "title": "Escarole and Bean Soup",
+      "category": "Soup",
+      "description": "A rustic and healthy soup from the Italian countryside. This recipe uses hearty escarole greens and white beans in a savory garlic broth.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["fiber", "vegan", "nourishing"],
+      "ingredients": [
+        {"canonicalName": "escarole", "displayName": "Head of escarole, chopped", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "bean", "displayName": "Cannellini beans", "quantity": 1.0, "unit": "can"}
+      ],
+      "instructions": [
+        "Sauté garlic in a pot. Add the beans and escarole. Pour in broth.",
+        "Simmer for 15-20 minutes until the greens are very soft."
+      ]
+    },
+    {
+      "id": "ita_39",
+      "title": "Healthy Truffle Mushroom Risotto",
+      "category": "Dinner",
+      "description": "An indulgent flavor with a healthy profile. We use whole grain Arborio rice and plenty of wild mushrooms to create a rich texture without heavy cream.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 30,
+      "servings": 2,
+      "tags": ["vegetarian", "fancy"],
+      "ingredients": [
+        {"canonicalName": "rice", "displayName": "Arborio rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "mushroom", "displayName": "Mixed mushrooms", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "truffle_oil", "displayName": "Truffle oil", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Cook the rice slowly by adding warm broth 1/2 cup at a time, stirring constantly.",
+        "Stir in sautéed mushrooms and finish with a drop of truffle oil."
+      ]
+    },
+    {
+      "id": "ita_40",
+      "title": "Lite Caponata Siciliana",
+      "category": "Side Dish",
+      "description": "A sweet and sour Sicilian vegetable relish. Traditionally oily, this version is sautéed with minimal oil and emphasizes the flavors of fresh eggplant and vinegar.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["vegan", "vegetable-heavy"],
+      "ingredients": [
+        {"canonicalName": "eggplant", "displayName": "Eggplant, cubed", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "vinegar", "displayName": "Red wine vinegar", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Sauté eggplant and celery in a non-stick pan until soft.",
+        "Add vinegar, capers, and a teaspoon of honey. Simmer for 10 minutes."
+      ]
+    },
+    {
+      "id": "ita_41",
+      "title": "Cauliflower Alfredo Pasta",
+      "category": "Dinner",
+      "description": "A creamy pasta dish with a secret. The 'Alfredo' sauce is made from blended steamed cauliflower, making it remarkably low in fat and calories.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["low-carb-sauce", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "pasta", "displayName": "Whole wheat pasta", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "cauliflower", "displayName": "Cauliflower florets, steamed", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Blend steamed cauliflower with garlic and a splash of milk until smooth.",
+        "Toss the creamy sauce with cooked whole wheat pasta."
+      ]
+    },
+    {
+      "id": "ita_42",
+      "title": "Lemony Peas with Lean Ham",
+      "category": "Side Dish",
+      "description": "A bright and simple side dish. Sweet green peas are quickly sautéed with lean prosciutto or ham and finished with fresh lemon zest.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["protein-side", "quick"],
+      "ingredients": [
+        {"canonicalName": "peas", "displayName": "Sweet peas, fresh or frozen", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "ham", "displayName": "Lean diced ham", "quantity": 2.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Sauté the ham until golden. Add the peas and a tablespoon of water.",
+        "Simmer for 3 minutes and finish with fresh lemon zest."
+      ]
+    },
+    {
+      "id": "ita_43",
+      "title": "Roasted Asparagus with Parmesan",
+      "category": "Side Dish",
+      "description": "The perfect spring vegetable side. Asparagus spears are roasted until tender and topped with a light dusting of sharp parmesan cheese.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 12,
+      "servings": 4,
+      "tags": ["vitamin-rich", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "asparagus", "displayName": "Asparagus spears", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "parmesan", "displayName": "Grated parmesan", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Roast asparagus at 400°F for 10-12 minutes.",
+        "Sprinkle with parmesan cheese while still hot."
+      ]
+    },
+    {
+      "id": "ita_44",
+      "title": "Spaghetti Squash Aglio e Olio",
+      "category": "Dinner",
+      "description": "A classic Italian pasta preparation using spaghetti squash as a low-calorie noodle alternative. Packed with garlic, olive oil, and parsley.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 30,
+      "servings": 2,
+      "tags": ["low-carb", "vegan", "healthy"],
+      "ingredients": [
+        {"canonicalName": "squash", "displayName": "Spaghetti squash", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "garlic", "displayName": "Garlic cloves, minced", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roast the squash until the strands can be pulled out with a fork.",
+        "Toss the 'noodles' with sautéed garlic and plenty of fresh parsley."
+      ]
+    },
+    {
+      "id": "ita_45",
+      "title": "Italian Herb Roasted Salmon",
+      "category": "Dinner",
+      "description": "Juicy salmon fillets seasoned with a blend of classic Italian dried herbs and baked to flaky perfection.",
+      "cuisine": "Italian",
+      "texture": "Tender",
+      "prepTimeMin": 5,
+      "cookTimeMin": 15,
+      "servings": 2,
+      "tags": ["omega3", "baked", "protein"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Salmon fillets", "quantity": 12.0, "unit": "oz"},
+        {"canonicalName": "oregano", "displayName": "Dried oregano", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Season fish with herbs and bake at 400°F for 12-15 minutes."
+      ]
+    },
+    {
+      "id": "ita_46",
+      "title": "White Bean & Tomato Crostini",
+      "category": "Appetizer",
+      "description": "A fiber-rich appetizer featuring a creamy white bean mash and fresh diced tomatoes on whole wheat toast points.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 4,
+      "tags": ["vegan", "fiber", "appetizer"],
+      "ingredients": [
+        {"canonicalName": "bread", "displayName": "Whole wheat baguette, sliced", "quantity": 4.0, "unit": "slice"},
+        {"canonicalName": "bean", "displayName": "White bean mash", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Top toasted bread slices with white bean spread and fresh diced tomatoes."
+      ]
+    },
+    {
+      "id": "ita_47",
+      "title": "Lemony Orzo with Baby Spinach",
+      "category": "Side Dish",
+      "description": "A bright and simple side dish. We use fresh baby spinach and plenty of lemon to create a vibrant, healthy accompaniment to any meal.",
+      "cuisine": "Italian",
+      "texture": "Moderate",
+      "prepTimeMin": 5,
+      "cookTimeMin": 10,
+      "servings": 4,
+      "tags": ["fresh", "vegetarian", "quick"],
+      "ingredients": [
+        {"canonicalName": "orzo", "displayName": "Whole wheat orzo", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "spinach", "displayName": "Baby spinach", "quantity": 2.0, "unit": "cups"}
+      ],
+      "instructions": [
+        "Mix cooked hot orzo with fresh spinach until wilted. Season with lemon juice."
+      ]
+    },
+    {
+      "id": "ita_48",
+      "title": "Healthy Baked Eggplant Parmesan",
+      "category": "Dinner",
+      "description": "A lighter take on the Italian classic. Eggplant slices are baked instead of fried, layered with low-sugar sauce and a controlled amount of cheese.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 20,
+      "cookTimeMin": 25,
+      "servings": 4,
+      "tags": ["vegetarian", "baked", "healthy"],
+      "ingredients": [
+        {"canonicalName": "eggplant", "displayName": "Large eggplant, sliced", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "marinara", "displayName": "Marinara sauce", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Bake eggplant slices until soft. Layer with sauce and cheese, then bake for another 15 minutes."
+      ]
+    },
+    {
+      "id": "ita_49",
+      "title": "Classic Tuscan Kale Salad",
+      "category": "Salad",
+      "description": "A raw salad that highlights the power of kale. Massaged with lemon and oil to tenderize the leaves and finished with sharp cheese.",
+      "cuisine": "Italian",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["superfood", "fiber", "fresh"],
+      "ingredients": [
+        {"canonicalName": "kale", "displayName": "Lacinato kale, shredded", "quantity": 1.0, "unit": "lb"},
+        {"canonicalName": "lemon", "displayName": "Lemon juice", "quantity": 1.0, "unit": "tablespoon"}
+      ],
+      "instructions": [
+        "Massage kale with lemon juice and oil until soft. Top with shaved parmesan."
+      ]
+    },
+    {
+      "id": "ita_50",
+      "title": "Baked Pears with Ricotta & Honey",
+      "category": "Dessert",
+      "description": "A light and healthy Italian dessert. Ripe pears are baked until tender and served with a dollop of creamy ricotta and a drizzle of honey.",
+      "cuisine": "Italian",
+      "texture": "Soft",
+      "prepTimeMin": 5,
+      "cookTimeMin": 20,
+      "servings": 2,
+      "tags": ["healthy-dessert", "fruit", "vegetarian"],
+      "ingredients": [
+        {"canonicalName": "pear", "displayName": "Ripe pears", "quantity": 2.0, "unit": "piece"},
+        {"canonicalName": "ricotta", "displayName": "Low-fat ricotta", "quantity": 0.25, "unit": "cup"}
+      ],
+      "instructions": [
+        "Bake halved pears at 375°F until soft. Top with a spoonful of ricotta and honey."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "recipes": [
+    {
+      "id": "s_rice_base",
+      "title": "Essential Sushi Rice Foundation",
+      "description": "The most important part of any sushi dish. This recipe guides you through the traditional method of washing, cooking, and seasoning short-grain rice to achieve a perfect pearly texture and balanced flavor.",
+      "category": "Basic",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 30,
+      "cookTimeMin": 20,
+      "servings": 4,
+      "tags": ["basic", "foundation", "essential"],
+      "ingredients": [
+        {"canonicalName": "sushi_rice", "displayName": "Short-grain white sushi rice", "quantity": 2.0, "unit": "cups"},
+        {"canonicalName": "water", "displayName": "Filtered water", "quantity": 2.25, "unit": "cups"},
+        {"canonicalName": "rice_vinegar", "displayName": "Rice vinegar", "quantity": 0.25, "unit": "cup"},
+        {"canonicalName": "sugar", "displayName": "Sugar (or monkfruit)", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "salt", "displayName": "Sea salt", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Rinse the rice in a mesh strainer under cold running water. Use your hand to gently swirl the rice until the water runs clear. This step is vital to remove excess starch.",
+        "Combine the rinsed rice and 2.25 cups water in a heavy-bottomed pot. Bring to a boil over high heat, then immediately reduce heat to the lowest setting.",
+        "Cover tightly and simmer for 15 minutes. Remove from the heat and let the rice sit undisturbed for 10 more minutes (do not open the lid).",
+        "In a small bowl, whisk together the rice vinegar, sugar, and salt until completely dissolved.",
+        "Transfer the hot rice to a large wooden or glass bowl (avoid metal). Slowly pour the vinegar mixture over the rice while using a 'slicing' motion with a rice paddle to fold the liquid in. Do not mash the grains.",
+        "Use a fan to cool the rice quickly to room temperature while you fold. Cover with a damp cloth until you are ready to roll your sushi. Do not refrigerate."
+      ],
+      "nutrition": {"calories": 200, "proteinGrams": 4, "carbsGrams": 45, "fatGrams": 0}
+    },
+    {
+      "id": "s_alaska",
+      "title": "Gourmet Alaska Roll",
+      "description": "A fresh and creamy roll featuring sashimi-grade salmon and smooth avocado. This inside-out (uramaki) style roll is perfect for salmon lovers seeking a healthy, nutrient-dense sushi option.",
+      "category": "Roll",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["salmon", "fresh", "omega3"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Sashimi-grade fresh salmon, sliced into strips", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "cucumber", "displayName": "English cucumber, julienned", "quantity": 0.5, "unit": "piece"},
+        {"canonicalName": "avocado", "displayName": "Avocado, thinly sliced", "quantity": 0.5, "unit": "piece"},
+        {"canonicalName": "nori", "displayName": "Nori seaweed, half sheet", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice (see Foundation)", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Place a half sheet of nori on a bamboo rolling mat (makisu). Cover the mat in plastic wrap first to prevent sticking.",
+        "Wet your hands with water and spread a thin, even layer of sushi rice over the entire surface of the nori.",
+        "Carefully flip the nori over so that the rice is now facing down against the mat.",
+        "Arrange the salmon strips, julienned cucumber, and avocado slices in a horizontal line along the center of the nori.",
+        "Hold the edge of the mat and roll it tightly away from you, applying gentle pressure to create a firm cylinder.",
+        "Remove the mat and use a very sharp, wet knife to slice the roll into 8 uniform rounds. Wipe the knife with a damp towel between every cut for clean slices."
+      ]
+    },
+    {
+      "id": "s_dragon",
+      "title": "Healthy Dragon Roll",
+      "description": "An elegant sushi roll topped with paper-thin avocado slices to resemble dragon scales. We use steamed jumbo shrimp and grilled eel for a protein-rich, non-fried experience.",
+      "category": "Roll",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 30,
+      "cookTimeMin": 10,
+      "servings": 2,
+      "tags": ["eel", "fancy", "protein"],
+      "ingredients": [
+        {"canonicalName": "unagi", "displayName": "Grilled eel (unagi)", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "shrimp", "displayName": "Jumbo shrimp, steamed", "quantity": 4.0, "unit": "piece"},
+        {"canonicalName": "avocado", "displayName": "Whole avocado, peeled and halved", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "cucumber", "displayName": "Cucumber, julienned", "quantity": 0.25, "unit": "piece"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "eel_sauce", "displayName": "Healthy eel sauce (Honey/Soy blend)", "quantity": 2.0, "unit": "tablespoons"}
+      ],
+      "instructions": [
+        "Create an inside-out roll with prepared rice on the outside. Place the steamed shrimp and cucumber strips in the center and roll tightly.",
+        "Take the peeled avocado halves and slice them into paper-thin crescents.",
+        "Fan the avocado slices out with your fingers and carefully drape them over the top of the sushi roll, overlapping them like scales.",
+        "If using eel, place thin strips of grilled eel on top of the avocado 'scales'.",
+        "Cover the roll with a piece of plastic wrap and use the bamboo mat to gently press the avocado and eel into the rice.",
+        "With the plastic wrap still on, slice the roll into 8 pieces. Remove the plastic and drizzle with a thin line of healthy eel sauce.",
+        "Decorate the 'head' of the dragon with two cucumber slivers for horns and tiny sriracha dots for eyes."
+      ]
+    },
+    {
+      "id": "s_rainbow",
+      "title": "Chef's Rainbow Roll",
+      "description": "A visually stunning roll that showcases a variety of fresh fish. This colorful masterpiece features tuna, salmon, and yellowtail layered over a classic crab and cucumber base.",
+      "category": "Roll",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 30,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["variety", "seafood", "fresh"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Fresh tuna, thinly sliced", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "salmon", "displayName": "Fresh salmon, thinly sliced", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "yellowtail", "displayName": "Yellowtail, thinly sliced", "quantity": 2.0, "unit": "oz"},
+        {"canonicalName": "crab", "displayName": "Real crab meat, flaked", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "avocado", "displayName": "Avocado slices", "quantity": 0.5, "unit": "piece"},
+        {"canonicalName": "cucumber", "displayName": "Cucumber matchsticks", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Prepare a standard inside-out roll filled with real crab meat and cucumber matchsticks.",
+        "Take the sliced tuna, salmon, yellowtail, and avocado and layer them diagonally across the top of the roll, alternating colors to create a rainbow effect.",
+        "Cover the fish layer with a piece of plastic wrap and use the bamboo mat to gently press the fish into the roll so it adheres to the rice.",
+        "Slice the roll into 8 pieces with the plastic wrap still on (this prevents the fish from sliding off).",
+        "Carefully remove the plastic and serve with wasabi and low-sodium soy sauce."
+      ]
+    },
+    {
+      "id": "s_spicy_tuna",
+      "title": "Healthy Spicy Tuna Roll",
+      "description": "A light and spicy roll that swaps heavy mayonnaise for creamy Greek yogurt. Made with fresh, minced sashimi-grade tuna and a kick of sriracha.",
+      "category": "Roll",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 20,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["spicy", "low-cal", "protein"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Sashimi tuna, finely minced", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "sriracha", "displayName": "Sriracha sauce", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "yogurt", "displayName": "Plain Greek yogurt", "quantity": 1.0, "unit": "tablespoon"},
+        {"canonicalName": "green_onion", "displayName": "Green onions, finely chopped", "quantity": 1.0, "unit": "stalk"},
+        {"canonicalName": "cucumber", "displayName": "Cucumber strips", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "In a small bowl, mix the minced tuna, sriracha, Greek yogurt, and green onions until well combined and creamy.",
+        "Spread a thin layer of rice over a half sheet of nori.",
+        "Arrange a line of the spicy tuna mixture and cucumber strips along the center.",
+        "Roll tightly using the mat. Slice into 8 pieces and serve immediately."
+      ]
+    },
+    {
+      "id": "s_salmon_nigiri",
+      "title": "Fresh Salmon Nigiri",
+      "category": "Nigiri",
+      "description": "Simple and elegant. High-quality salmon is hand-pressed onto bite-sized pillows of seasoned sushi rice. The ultimate expression of sushi craftsmanship.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["omega3", "fresh", "protein"],
+      "ingredients": [
+        {"canonicalName": "salmon", "displayName": "Sashimi-grade salmon", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "wasabi", "displayName": "Wasabi paste", "quantity": 1.0, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Slice the salmon into uniform rectangles (about 1x2 inches) against the grain at a slight angle.",
+        "Wet your palms with vinegared water to prevent sticking.",
+        "Scoop 2 tablespoons of rice and shape it into a firm, oval-shaped mound.",
+        "Place a small dot of wasabi on the center of the salmon slice.",
+        "Lay the salmon over the rice and press down gently with your pointer and middle fingers to secure the fish to the rice."
+      ]
+    },
+    {
+      "id": "s_tuna_nigiri",
+      "title": "Ahi Tuna Nigiri",
+      "category": "Nigiri",
+      "description": "Lean and flavorful bigeye tuna hand-pressed onto perfectly seasoned sushi rice. A pure and traditional sushi experience.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "protein", "lean"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Sashimi-grade Ahi tuna", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Slice the tuna into thin, uniform rectangles.",
+        "Wet your hands and form small, bite-sized ovals of rice.",
+        "Press the tuna slices onto the rice ovals. serve with a side of high-quality soy sauce."
+      ]
+    },
+    {
+      "id": "s_inari",
+      "title": "Sweet Inari Tofu Pockets",
+      "category": "Basic",
+      "description": "A kid-friendly and vegetarian sushi classic. Seasoned fried tofu skins are stuffed with savory-sweet sushi rice. Great for lunchboxes!",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["vegetarian", "kid-friendly", "protein"],
+      "ingredients": [
+        {"canonicalName": "inari", "displayName": "Seasoned tofu pockets (Aburaage)", "quantity": 6.0, "unit": "piece"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.5, "unit": "cups"}
+      ],
+      "instructions": [
+        "Carefully open each tofu pocket without tearing the delicate sides.",
+        "Form a small handful of sushi rice into a compact ball.",
+        "Gently stuff the rice into the pocket and fold the edges over to seal the bottom.",
+        "Top with a few sesame seeds or a tiny slice of avocado for extra flair."
+      ]
+    },
+    {
+      "id": "s_spider",
+      "title": "Healthy Spider Hand Roll",
+      "category": "Hand Roll",
+      "description": "A nutritious take on the spider roll. Instead of deep-frying, we pan-sear soft-shell crab until crispy. Rolled into a cone with sprouts and cucumber.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 10,
+      "servings": 1,
+      "tags": ["no-fry", "crab", "fresh"],
+      "ingredients": [
+        {"canonicalName": "crab", "displayName": "Soft-shell crab, cleaned", "quantity": 1.0, "unit": "piece"},
+        {"canonicalName": "cucumber", "displayName": "English cucumber, julienned", "quantity": 1.0, "unit": "oz"},
+        {"canonicalName": "nori", "displayName": "Half nori sheet", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Lightly season the crab and pan-sear in a teaspoon of oil over medium-high heat for 4-5 minutes per side until crispy.",
+        "Hold the nori sheet in your palm. Place a small amount of rice on one side.",
+        "Place the crispy crab and cucumber matchsticks diagonally over the rice.",
+        "Roll into a cone shape and serve while the crab is still warm."
+      ]
+    },
+    {
+      "id": "s_hama_nigiri",
+      "title": "Yellowtail Nigiri (Hamachi)",
+      "category": "Nigiri",
+      "description": "Premium yellowtail known for its high fat content and buttery flavor. Simply pressed onto rice and topped with a tiny sliver of green onion.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "fresh", "buttery"],
+      "ingredients": [
+        {"canonicalName": "yellowtail", "displayName": "Fresh yellowtail (Hamachi)", "quantity": 8.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "scallion", "displayName": "Green onion slivers", "quantity": 1.0, "unit": "pinch"}
+      ],
+      "instructions": [
+        "Slice the yellowtail into uniform rectangles.",
+        "Shape bite-sized pillows of rice.",
+        "Press the yellowtail onto the rice and garnish each piece with a tiny sliver of fresh green onion."
+      ]
+    },
+    {
+      "id": "s_tako_nigiri",
+      "title": "Steamed Octopus Nigiri (Tako)",
+      "category": "Nigiri",
+      "description": "Tender and slightly chewy steamed octopus sliced on a sharp diagonal. A traditional favorite with a mild, sweet flavor.",
+      "cuisine": "Sushi",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["chewy", "protein"],
+      "ingredients": [
+        {"canonicalName": "octopus", "displayName": "Steamed octopus leg, sliced", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"},
+        {"canonicalName": "nori", "displayName": "Thin nori strips", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Slice the steamed octopus at a very sharp angle to create long, thin pieces.",
+        "Form ovals of rice.",
+        "Place the octopus on the rice and secure it by wrapping a very thin strip of nori around the middle."
+      ]
+    },
+    {
+      "id": "s_unagi_roll",
+      "title": "Eel and Cucumber Roll (Unakyu)",
+      "category": "Roll",
+      "description": "A classic savory-sweet roll featuring grilled eel and crunchy cucumber. Glazed with a healthy, honey-based eel sauce.",
+      "cuisine": "Sushi",
+      "texture": "Moderate",
+      "prepTimeMin": 15,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["savory", "protein"],
+      "ingredients": [
+        {"canonicalName": "eel", "displayName": "Grilled eel (unagi)", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "cucumber", "displayName": "English cucumber, julienned", "quantity": 1.0, "unit": "oz"},
+        {"canonicalName": "sushi_rice", "displayName": "Prepared sushi rice", "quantity": 1.0, "unit": "cup"}
+      ],
+      "instructions": [
+        "Place grilled eel strips and cucumber matchsticks in the center of a rice-covered nori sheet.",
+        "Roll tightly. Slice into 8 pieces.",
+        "Drizzle each piece with a tiny drop of healthy eel sauce."
+      ]
+    },
+    {
+      "id": "s_veggie_maki",
+      "title": "Fresh Vegetable Maki",
+      "category": "Roll",
+      "description": "A clean and crunchy vegan roll packed with fresh carrots, cucumber, and pickled radish. Light and high in fiber.",
+      "cuisine": "Sushi",
+      "texture": "Crunchy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["vegan", "fiber", "fresh"],
+      "ingredients": [
+        {"canonicalName": "cucumber", "displayName": "Cucumber strips", "quantity": 1.0, "unit": "oz"},
+        {"canonicalName": "carrot", "displayName": "Pickled carrot strips", "quantity": 1.0, "unit": "oz"},
+        {"canonicalName": "daikon", "displayName": "Pickled daikon (Oshinko)", "quantity": 1.0, "unit": "oz"}
+      ],
+      "instructions": [
+        "Place the vegetable strips along the center of a nori sheet covered with a thin layer of rice.",
+        "Roll into a tight cylinder. Slice into 6 small pieces (Hoso-maki style)."
+      ]
+    },
+    {
+      "id": "s_scallop_gunkan",
+      "title": "Spicy Scallop Gunkan",
+      "category": "Gunkan",
+      "description": "Creamy diced scallops mixed with a touch of sriracha and citrus. Served in a nori-wrapped 'battleship' for a burst of flavor.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["spicy", "premium"],
+      "ingredients": [
+        {"canonicalName": "scallop", "displayName": "Fresh scallops, diced", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "sriracha", "displayName": "Sriracha", "quantity": 1.0, "unit": "teaspoon"},
+        {"canonicalName": "lime", "displayName": "Lime juice", "quantity": 0.5, "unit": "teaspoon"}
+      ],
+      "instructions": [
+        "Whisk diced scallops with sriracha and lime juice.",
+        "Create nori-wrapped rice mounds.",
+        "Spoon the scallop mixture generously onto the top of each."
+      ]
+    },
+    {
+      "id": "s_negitoro",
+      "title": "Negitoro Roll (Fatty Tuna & Onion)",
+      "category": "Roll",
+      "description": "A melt-in-your-mouth delicacy using minced fatty tuna (toro) and sharp green onions. A favorite among sushi connoisseurs.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "protein"],
+      "ingredients": [
+        {"canonicalName": "toro", "displayName": "Minced fatty tuna", "quantity": 6.0, "unit": "oz"},
+        {"canonicalName": "scallion", "displayName": "Green onions, finely chopped", "quantity": 1.0, "unit": "stalk"}
+      ],
+      "instructions": [
+        "Mix the fatty tuna with chopped scallions.",
+        "Spread on nori and rice. Roll tightly and slice into 8 rounds."
+      ]
+    },
+    {
+      "id": "s_ebi_nigiri",
+      "title": "Steamed Shrimp Nigiri (Ebi)",
+      "category": "Nigiri",
+      "description": "Sweet, butterflied steamed shrimp pressed onto sushi rice. A mild and firm sushi that's universally loved.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 20,
+      "cookTimeMin": 5,
+      "servings": 2,
+      "tags": ["cooked", "protein"],
+      "ingredients": [
+        {"canonicalName": "shrimp", "displayName": "Large shrimp, skewers", "quantity": 6.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Skewer shrimp to keep straight. Boil for 2 mins.",
+        "Peel, butterfly, and press onto rice ovals."
+      ]
+    },
+    {
+      "id": "s_ika_shiso",
+      "title": "Squid and Shiso Nigiri",
+      "category": "Nigiri",
+      "description": "Fresh, scored squid paired with the herbal, mint-like flavor of shiso leaf. A very traditional and refreshing combination.",
+      "cuisine": "Sushi",
+      "texture": "Chewy",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["fresh", "traditional"],
+      "ingredients": [
+        {"canonicalName": "squid", "displayName": "Sashimi-grade squid", "quantity": 4.0, "unit": "oz"},
+        {"canonicalName": "shiso", "displayName": "Fresh shiso leaves", "quantity": 2.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Score the squid in a diamond pattern.",
+        "Place a piece of shiso on the rice, then press the squid on top."
+      ]
+    },
+    {
+      "id": "s_avocado_maki",
+      "title": "Creamy Avocado Maki",
+      "category": "Roll",
+      "description": "Simple and satisfying. High-quality avocado provides healthy fats and a buttery texture in this clean vegan roll.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["vegan", "healthy", "simple"],
+      "ingredients": [
+        {"canonicalName": "avocado", "displayName": "Avocado strips", "quantity": 0.5, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roll avocado strips and rice into a thin cylinder. Slice into 6 small rounds."
+      ]
+    },
+    {
+      "id": "s_hotate_nigiri",
+      "title": "Scallop Carpaccio Nigiri",
+      "category": "Nigiri",
+      "description": "Sweet, buttery sea scallops sliced paper-thin and seasoned with a touch of citrus. A melt-in-your-mouth premium delicacy.",
+      "cuisine": "Sushi",
+      "texture": "Soft",
+      "prepTimeMin": 15,
+      "cookTimeMin": 0,
+      "servings": 2,
+      "tags": ["premium", "fresh"],
+      "ingredients": [
+        {"canonicalName": "scallop", "displayName": "Jumbo scallops", "quantity": 4.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Butterfly the scallops and press onto rice. Season with yuzu pepper."
+      ]
+    },
+    {
+      "id": "s_hand_tuna",
+      "title": "Lean Tuna Temaki",
+      "category": "Hand Roll",
+      "description": "A quick and fresh hand roll featuring strips of lean bluefin tuna and crisp cucumber. Designed to be eaten immediately while the nori is crisp.",
+      "cuisine": "Sushi",
+      "texture": "Tender",
+      "prepTimeMin": 10,
+      "cookTimeMin": 0,
+      "servings": 1,
+      "tags": ["fresh", "quick"],
+      "ingredients": [
+        {"canonicalName": "tuna", "displayName": "Tuna strips", "quantity": 3.0, "unit": "oz"},
+        {"canonicalName": "nori", "displayName": "Half nori sheet", "quantity": 1.0, "unit": "piece"}
+      ],
+      "instructions": [
+        "Roll tuna and rice into a nori cone with cucumber."
+      ]
+    }
+  ]
+}
